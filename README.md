@@ -1,5 +1,5 @@
 # OMF Governance
-Administrative, guidance, process, and legal area for the OMF organization that spans multiple projects.
+Administrative, guidance, process, and legal area for the OMF organization that spans multiple projects.  Maintained by OMF employees, with direction form the Operations Working Group and OMF Board.
 
 ## Administration
 
