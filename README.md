@@ -4,12 +4,12 @@ Administrative, guidance, process, and legal area for the OMF organization that 
 ## Administration
 
 - OMF Structure (tbd doc+image of organization)
-- [OMF Overview](https://www.openmobilityfoundation.org/wp-content/uploads/2019/06/OpenMobilityFoundation_Overview.pdf) (web location)
+- [OMF Overview](https://github.com/openmobilityfoundation/governance/blob/master/documents/OpenMobilityFoundation_Overview.pdf) 
 - [OMF Bylaws](https://github.com/openmobilityfoundation/governance/blob/master/legal/OMF-Bylaws-CURRENT.pdf)
-- [Core Principles](https://www.openmobilityfoundation.org/wp-content/uploads/2019/06/OpenMobilityFoundation_Principles.pdf) (web location)
-- [Public (Governmental) Member Application](https://www.openmobilityfoundation.org/wp-content/uploads/2020/01/2020-01-Public-Member-Application.pdf) (web location)
-- [Non-Public (Commercial) Member Application](https://www.openmobilityfoundation.org/wp-content/uploads/2020/01/2020-01-OMF-Non-Public-Member-Application.pdf) (web location)
-- [Commercial Member Dues](https://www.openmobilityfoundation.org/wp-content/uploads/2020/01/OMF-2020-2021-Commercial-Member-Dues-FINAL.pdf) (web location)
+- [Core Principles](https://github.com/openmobilityfoundation/governance/blob/master/documents/OpenMobilityFoundation_Principles.pdf) 
+- [Public (Governmental) Member Application](https://github.com/openmobilityfoundation/governance/blob/master/documents/2020-01-Public-Member-Application.pdf)
+- [Non-Public (Commercial) Member Application](https://github.com/openmobilityfoundation/governance/blob/master/documents/2020-01-OMF-Non-Public-Member-Application.pdf) 
+- [Commercial Member Dues](https://github.com/openmobilityfoundation/governance/blob/master/documents/OMF-2020-2021-Commercial-Member-Dues-FINAL.pdf)
 
 ## Committees and Working Groups
 
@@ -41,7 +41,7 @@ Administrative, guidance, process, and legal area for the OMF organization that 
 
 ## Documents/Products
 
-- [Architectural Landscape Document](https://www.openmobilityfoundation.org/wp-content/uploads/2019/10/OMF-Transitional-Architectural-Landscape-FINAL.pdf) (transitional)
+- [Architectural Landscape Document](https://github.com/openmobilityfoundation/governance/blob/master/documents/OMF-Transitional-Architectural-Landscape-FINAL.pdf) (transitional)
 - Privacy Considerations
 
 ## Legal
