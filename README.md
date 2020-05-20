@@ -6,6 +6,10 @@ Items that live within this repo meet all of the following requirements:
 - Are not managed directly by WG or Committee leaders.
 - Are relevant to more than one OMF repo/committee/group.
 
+# OMF Scope of Work
+
+This list is a "table of contents" of the OMF's main scopes of work, the organization, work products, and how to get involved. These link could reside in this governace repo, other repos, or external locations.
+
 ## Administration
 
 - OMF Structure (tbd doc+image of organization)
@@ -47,7 +51,10 @@ Items that live within this repo meet all of the following requirements:
 ## Documents/Products
 
 - [Architectural Landscape Document](https://github.com/openmobilityfoundation/governance/blob/master/documents/OMF-Transitional-Architectural-Landscape-FINAL.pdf) (transitional)
-- Privacy Considerations
+- [Mobility Data Management State of Practice
+](https://github.com/openmobilityfoundation/privacy-committee/wiki/Mobility-Data-Management-State-of-Practice)
+- [Privacy Guide](https://docs.google.com/document/d/1JvVSWw1-VwFdYqQIefvKvM0RmfEK2tv1wTyjeyNUavY/edit) (draft)
+- Privacy Principles (coming soon)
 
 ## Legal
 
