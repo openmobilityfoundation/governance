@@ -1,6 +1,11 @@
 # OMF Governance
 Administrative, guidance, process, and legal area for the OMF organization that spans multiple projects.  Maintained by OMF employees, with direction form the Operations Working Group and OMF Board.
 
+Items that live within this repo meet all of the following requirements:
+- Are 100% public facing.
+- Are not managed directly by WG or Committee leaders.
+- Are relevant to more than one OMF repo/committee/group.
+
 ## Administration
 
 - OMF Structure (tbd doc+image of organization)
