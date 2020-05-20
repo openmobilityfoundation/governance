@@ -8,7 +8,7 @@ Items that live within this repo meet all of the following requirements:
 
 # OMF Scope of Work
 
-This list is a "table of contents" of the OMF's main scopes of work, the organization, work products, and how to get involved. These link could reside in this governace repo, other repos, or external locations.
+This list is a "table of contents" of the OMF's main scopes of work, the organization, work products, and how to get involved. These link could reside in this governance repo, other repos, or external locations.
 
 ## Administration
 
@@ -55,6 +55,9 @@ This list is a "table of contents" of the OMF's main scopes of work, the organiz
 ](https://github.com/openmobilityfoundation/privacy-committee/wiki/Mobility-Data-Management-State-of-Practice)
 - [Privacy Guide](https://docs.google.com/document/d/1JvVSWw1-VwFdYqQIefvKvM0RmfEK2tv1wTyjeyNUavY/edit) (draft)
 - Privacy Principles (coming soon)
+- [Understanding MDS APIs](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Understanding-MDS-APIs)
+- [Techical FAQs](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Technical-FAQs)
+- [Meeting Guidance](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Web-Conference-Template) (conference template only for now)
 
 ## Legal
 
