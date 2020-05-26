@@ -59,6 +59,10 @@ This list is a "table of contents" of the OMF's main scopes of work, the organiz
 - [Techical FAQs](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Technical-FAQs)
 - [Meeting Guidance](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Web-Conference-Template) (conference template only for now)
 
+## Events
+
+- CoMotion LA - [Dev Day](https://www.openmobilityfoundation.org/devday-2019/) - Nov 2019
+
 ## Legal
 
 - [License](https://github.com/openmobilityfoundation/governance/blob/master/LICENSE)
