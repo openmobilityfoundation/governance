@@ -1,4 +1,4 @@
-Creative Commons Attribution 4.0 International Public License
+# Creative Commons Attribution 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
 to be bound by the terms and conditions of this Creative Commons
@@ -10,7 +10,7 @@ consideration of benefits the Licensor receives from making the
 Licensed Material available under these terms and conditions.
 
 
-Section 1 -- Definitions.
+## Section 1 -- Definitions.
 
   a. Adapted Material means material subject to Copyright and Similar
      Rights that is derived from or based upon the Licensed Material
@@ -74,7 +74,7 @@ Section 1 -- Definitions.
      under this Public License. Your has a corresponding meaning.
 
 
-Section 2 -- Scope.
+## Section 2 -- Scope.
 
   a. License grant.
 
@@ -151,7 +151,7 @@ Section 2 -- Scope.
           reserves any right to collect such royalties.
 
 
-Section 3 -- License Conditions.
+## Section 3 -- License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the
 following conditions.
@@ -203,7 +203,7 @@ following conditions.
           Material from complying with this Public License.
 
 
-Section 4 -- Sui Generis Database Rights.
+## Section 4 -- Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that
 apply to Your use of the Licensed Material:
@@ -225,7 +225,7 @@ replace Your obligations under this Public License where the Licensed
 Rights include other Copyright and Similar Rights.
 
 
-Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+## Section 5 -- Disclaimer of Warranties and Limitation of Liability.
 
   a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
      EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
@@ -254,7 +254,7 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
      waiver of all liability.
 
 
-Section 6 -- Term and Termination.
+## Section 6 -- Term and Termination.
 
   a. This Public License applies for the term of the Copyright and
      Similar Rights licensed here. However, if You fail to comply with
@@ -283,7 +283,7 @@ Section 6 -- Term and Termination.
      License.
 
 
-Section 7 -- Other Terms and Conditions.
+## Section 7 -- Other Terms and Conditions.
 
   a. The Licensor shall not be bound by any additional or different
      terms or conditions communicated by You unless expressly agreed.
@@ -293,7 +293,7 @@ Section 7 -- Other Terms and Conditions.
      independent of the terms and conditions of this Public License.
 
 
-Section 8 -- Interpretation.
+## Section 8 -- Interpretation.
 
   a. For the avoidance of doubt, this Public License does not, and
      shall not be interpreted to, reduce, limit, restrict, or impose
