@@ -57,7 +57,8 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - Privacy Principles (coming soon)
 - [Understanding MDS APIs](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Understanding-MDS-APIs)
 - [Techical FAQs](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Technical-FAQs)
-- [Meeting Guidance](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Web-Conference-Template) (conference template only for now)
+- [Confernce Call Meeting Template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference,-YYYY.MM.DD-(Convening-Group-Name))
+- [Confernce Call Meeting Guidance]() (TBD)
 
 ## Events
 
