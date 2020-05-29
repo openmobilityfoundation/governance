@@ -8,11 +8,11 @@ Items that live within this repo meet all of the following requirements:
 
 # OMF Scope of Work
 
-This list is a "table of contents" of the OMF's main scopes of work, the organization, work products, and how to get involved. These link could reside in this governance repo, other repos, or external locations.
+This list is a "table of contents" of the OMF's main scopes of work, organization, work products, and how to get involved. These links  reside in this governance repo, other repos, or external locations.
 
 ## Administration
 
-- OMF Structure (tbd doc+image of organization)
+- OMF Structure (TBD doc+image of organization)
 - [OMF Overview](https://github.com/openmobilityfoundation/governance/blob/master/documents/OpenMobilityFoundation_Overview.pdf) 
 - [OMF Bylaws](https://github.com/openmobilityfoundation/governance/blob/master/legal/OMF-Bylaws-CURRENT.pdf)
 - [Core Principles](https://github.com/openmobilityfoundation/governance/blob/master/documents/OpenMobilityFoundation_Principles.pdf) 
@@ -22,14 +22,14 @@ This list is a "table of contents" of the OMF's main scopes of work, the organiz
 
 ## Committees and Working Groups
 
-- Board of Directors
+- [Board of Directors](https://www.openmobilityfoundation.org/about/)
 - Technology Council
 - [Privacy, Security, and Transparency Committee](https://github.com/openmobilityfoundation/privacy-committee)
 - Strategy Committee
 
 ### Working Groups
 
-- Overview (tdb roles/charter/SC overview)
+- Overview (TBD roles/charter/SC overview)
 - [MDS Provider Services](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Provider-Services-Working-Group)
 - [MDS City Services](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-City-Services-Working-Group)
 - [OMF Operations](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Working-Group-Operations-(wg-ops))
