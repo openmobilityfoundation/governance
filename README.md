@@ -55,10 +55,14 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 ](https://github.com/openmobilityfoundation/privacy-committee/wiki/Mobility-Data-Management-State-of-Practice)
 - [Privacy Guide](https://docs.google.com/document/d/1JvVSWw1-VwFdYqQIefvKvM0RmfEK2tv1wTyjeyNUavY/edit) (draft)
 - Privacy Principles (coming soon)
-- [Understanding MDS APIs](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Understanding-MDS-APIs)
-- [Techical FAQs](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Technical-FAQs)
+- [Understanding MDS APIs](https://github.com/openmobilityfoundation/governance/blob/master/technical/Understanding-MDS-APIs.md)
+
+## Working Group Guidance
+
+- [Working Group Management](https://github.com/openmobilityfoundation/governance/blob/master/technical/Working_Group_Management.md)
+- [Working Group Leadership](https://github.com/openmobilityfoundation/governance/blob/master/technical/Working_Group_Leadership.md)
 - [Confernce Call Meeting Template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference,-YYYY.MM.DD-(Convening-Group-Name))
-- [Confernce Call Meeting Guidance]() (TBD)
+- [Conference Call Meeting Guidance](https://github.com/openmobilityfoundation/governance/blob/master/technical/Conference_Call_Meeting_Guidance.md)
 
 ## Events
 
