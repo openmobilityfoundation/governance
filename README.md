@@ -58,6 +58,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - [Privacy Guide](https://docs.google.com/document/d/1JvVSWw1-VwFdYqQIefvKvM0RmfEK2tv1wTyjeyNUavY/edit) (draft)
 - Privacy Principles (coming soon)
 - [Understanding MDS APIs](https://github.com/openmobilityfoundation/governance/blob/master/technical/Understanding-MDS-APIs.md)
+- [Understanding the relationship between GBFS and MDS](https://github.com/openmobilityfoundation/governance/blob/master/technical/GBFS_and_MDS.md)
 
 ## Working Group Guidance
 
