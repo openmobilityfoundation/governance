@@ -70,7 +70,8 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 ## Legal
 
-- [License](https://github.com/openmobilityfoundation/governance/blob/master/LICENSE)
+- [License](https://github.com/openmobilityfoundation/governance/blob/master/LICENSE.md)
+- [Disclaimer](https://github.com/openmobilityfoundation/governance/blob/master/DISCLAIMER.md)
 
 
 ![omf-sig-icon-small](https://github.com/sarob/operations/blob/master/omf-sig-icon-small.png)
