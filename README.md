@@ -1,10 +1,12 @@
 # OMF Governance
 Administrative, guidance, process, and legal area for the OMF organization that spans multiple projects.  Maintained by OMF employees, with direction from the Operations Working Group and OMF Board.
 
-Items that live within this repo meet all of the following requirements:
-- Are 100% public facing.
+Items that live within this repo meet at least some of the following requirements:
+
+- Are public facing that are not technical deliverables.
 - Are not managed directly by WG or Committee leaders.
 - Are relevant to more than one OMF repo/committee/group.
+- Are not better suited for a WG or Committee-specific repo.
 
 # OMF Scope of Work
 
