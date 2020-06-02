@@ -1,5 +1,5 @@
 # OMF Governance
-Administrative, guidance, process, and legal area for the OMF organization that spans multiple projects.  Maintained by OMF employees, with direction form the Operations Working Group and OMF Board.
+Administrative, guidance, process, and legal area for the OMF organization that spans multiple projects.  Maintained by OMF employees, with direction from the Operations Working Group and OMF Board.
 
 Items that live within this repo meet all of the following requirements:
 - Are 100% public facing.
@@ -23,9 +23,9 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 ## Committees and Working Groups
 
 - [Board of Directors](https://www.openmobilityfoundation.org/about/)
-- Technology Council
+- Technology Council (TBD)
 - [Privacy, Security, and Transparency Committee](https://github.com/openmobilityfoundation/privacy-committee)
-- Strategy Committee
+- Strategy Committee (TBD)
 
 ### Working Groups
 
