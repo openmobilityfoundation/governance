@@ -1,4 +1,4 @@
-# LICENSE
+# DISCLAIMER
 
 All Open Mobility Foundation deliverables are provided "AS IS", without warranty of any kind, express or implied, and OMF, as well as all of its Members and Contributors, expressly disclaim any warranty of merchantability, fitness for a particular or intended purpose, accuracy, completeness, non-infringement of third party rights, or any other warranty. 
 
