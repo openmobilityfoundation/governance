@@ -1,7 +1,7 @@
 # Understanding the relationship between GBFS and MDS
 
 ## Overview
-[GBFS (General Bikeshare Feed Specification)](https://github.com/NABSA/gbfs) and [MDS (Mobility Data Specification)](https://github.com/openmobilityfoundation/mobility-data-specification) are two open standards used for expressing information about bikes, scooters, and other shared mobility vehicles operating on public streets. GBFS is intended for public consumption through consumer-facing applications, while MDS is intended for use only by regulators. GBFS is governed by MobilityData and NABSA. MDS is managed by the Open Mobility Foundation. Both are membership organizations which run open processes for developing and evolving their respective specifications.
+[GBFS (General Bikeshare Feed Specification)](https://github.com/NABSA/gbfs) and [MDS (Mobility Data Specification)](https://github.com/openmobilityfoundation/mobility-data-specification) are two open standards used for expressing information about bikes, scooters, and other shared mobility vehicles operating on public streets. GBFS is intended for public consumption through consumer-facing applications, while MDS is intended for use only by regulators. GBFS is governed by [MobilityData](https://mobilitydata.org]) and [NABSA](https://nabsa.net/). MDS is managed by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/). Both are membership organizations which run open processes for developing and evolving their respective specifications.
 
 ## Comparing GBFS and MDS
 While there are similarities between the specifications, they serve different primary purposes.
