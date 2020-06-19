@@ -119,7 +119,7 @@ The process for full OMF approval is detailed in Section 5.4 of the [OMF bylaws]
 
 1. The Board of Directors will have a minimum of 30 days to review the Technology Council recommendation before taking a vote on the release candidate/WGAD.
 
-1. Upon approval by the Board of Directors, the release will become an official deliverable of the OMF. It will be marked as such in GitHub and on the OMF web site, and it will be merged into the `master` branch on GitHub.
+1. Upon approval by the Board of Directors, the release will become an official deliverable of the OMF. It will be marked as such in GitHub and on the OMF web site, and it will be merged into the `main` branch on GitHub.
 
 The approval status and anticipated timeline will be reflected in the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki). While it is the intent of the OMF to have concerns, questions, and issues addressed during the regular working group release process, it is possible that the Technology Council or Board of Directors may request modifications to a release candidate/WGAD prior to official approval. If this situation occurs, the release candidate will be sent back to the working group(s) for additional changes after which it can be resubmitted to the Technology Council and Board of Directors.
 
@@ -151,11 +151,11 @@ Generally there are two major categories of branches: *Long-lived* and *Short-li
 
 There are always two primary long-lived branches:
 
-* [`master`][mds-master] represents the most recent official release of MDS. This branch is only updated as part of the release process, and pull requests should typically not target `master`.
+* [`main`][mds-main] represents the most recent official release of MDS. This branch is only updated as part of the release process, and pull requests should typically not target `main`.
 
 * [`dev`][mds-dev] is an integration branch for all work since the last official release, including both breaking and non-breaking changes. `dev` is where Release Candidates come from.
 
-If a hotfix is required for a prior release (e.g. a hotfix on top of the `0.3.x` line when the current release is in the `0.4.x` line), a new long-lived *Support branch* will be created from the corresponding tag in `master`. *Support branches* are named according to the version line (e.g. `0.3.x`).
+If a hotfix is required for a prior release (e.g. a hotfix on top of the `0.3.x` line when the current release is in the `0.4.x` line), a new long-lived *Support branch* will be created from the corresponding tag in `main`. *Support branches* are named according to the version line (e.g. `0.3.x`).
 
 ### Short-lived branches
 
@@ -287,13 +287,13 @@ The following steps describe how to make an approved [Release Candidate][prepare
 
 1. Merge the Pull Request created during the Release Candidate process to `dev`.
 
-1. [Open a Pull Request][mds-pr-final] from the release branch to `master`. Merge this PR to make the release official.
+1. [Open a Pull Request][mds-pr-final] from the release branch to `main`. Merge this PR to make the release official.
 
-1. Create a tag in `master` for the new version. For example for `0.5.0`:
+1. Create a tag in `main` for the new version. For example for `0.5.0`:
 
     ```bash
     get fetch
-    git checkout master
+    git checkout main
     git tag 0.5.0
     git push --tags
     ```
@@ -302,7 +302,7 @@ The following steps describe how to make an approved [Release Candidate][prepare
 
     ```md
     Tag version: [the tag you just pushed]
-    Target: master
+    Target: main
     Release title: [X.Y.Z]
     Description: [copy in ReleaseNotes created earlier]
     This is a pre-release: DO NOT check
@@ -330,7 +330,7 @@ The following steps describe how to make an approved [Release Candidate][prepare
 
 In rare cases, a hotfix for a prior release may be required out-of-phase with the normal release cycle. For example, if a critical bug is discovered in the `0.3.x` line after `0.4.0` has already been released.
 
-1. Create a *Support branch* from the tag in `master` at which the hotfix is needed. For example if the bug was discovered in `0.3.2`, create a branch from this tag:
+1. Create a *Support branch* from the tag in `main` at which the hotfix is needed. For example if the bug was discovered in `0.3.2`, create a branch from this tag:
 
     ```bash
     git fetch
@@ -370,7 +370,7 @@ In rare cases, a hotfix for a prior release may be required out-of-phase with th
 [mds-announce]: https://groups.google.com/a/groups.openmobilityfoundation.org/forum/#!forum/mds-announce
 [mds-dev]: https://github.com/openmobilityfoundation/mobility-data-specification/tree/dev
 [mds-issue-new]: https://github.com/openmobilityfoundation/mobility-data-specification/issues/new/choose
-[mds-master]: https://github.com/openmobilityfoundation/mobility-data-specification/tree/master
+[mds-main]: https://github.com/openmobilityfoundation/mobility-data-specification/tree/main
 [mds-milestones]: https://github.com/openmobilityfoundation/mobility-data-specification/milestones
 [mds-pr]: https://github.com/openmobilityfoundation/mobility-data-specification/pulls
 [mds-pr-new]: https://github.com/openmobilityfoundation/mobility-data-specification/compare
@@ -378,7 +378,7 @@ In rare cases, a hotfix for a prior release may be required out-of-phase with th
 [mds-pr-final]: https://github.com/openmobilityfoundation/mobility-data-specification/compare?template=release-final.md
 [mds-releases]: https://github.com/openmobilityfoundation/mobility-data-specification/releases
 [mds-releases-new]: https://github.com/openmobilityfoundation/mobility-data-specification/releases/new
-[mds-schema-common]: https://github.com/openmobilityfoundation/mobility-data-specification/blob/master/schema/templates/common.json
+[mds-schema-common]: https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/schema/templates/common.json
 [mds-tags]: https://github.com/openmobilityfoundation/mobility-data-specification/tags
 [omf-bylaws]: https://www.openmobilityfoundation.org/resources/
 [prepare-rc]: #preparing-a-release-candidate
