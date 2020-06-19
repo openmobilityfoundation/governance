@@ -45,27 +45,27 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 ## Get Involved
 
-- [Code of Conduct](https://github.com/openmobilityfoundation/governance/blob/master/CODE_OF_CONDUCT.md)
-- [Contributor Guidelines](https://github.com/openmobilityfoundation/governance/blob/master/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/openmobilityfoundation/governance/blob/main/CODE_OF_CONDUCT.md)
+- [Contributor Guidelines](https://github.com/openmobilityfoundation/governance/blob/main/CONTRIBUTING.md)
 - [Announcement Mailing List](https://groups.google.com/a/groups.openmobilityfoundation.org/forum/#!forum/mds-announce)
 - [Public Meeting Calendar](https://calendar.google.com/calendar/embed?src=openmobilityfoundation.org_g6gsaccjvijnmlhigfpj01ngp0%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 ## Documents/Products
 
-- [Architectural Landscape Document](https://github.com/openmobilityfoundation/governance/blob/master/documents/OMF-Transitional-Architectural-Landscape-FINAL.pdf) (transitional) (PDF)
+- [Architectural Landscape Document](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-Transitional-Architectural-Landscape-FINAL.pdf) (transitional) (PDF)
 - [Mobility Data Management State of Practice
 ](https://github.com/openmobilityfoundation/privacy-committee/wiki/Mobility-Data-Management-State-of-Practice)
 - [Privacy Guide](https://docs.google.com/document/d/1JvVSWw1-VwFdYqQIefvKvM0RmfEK2tv1wTyjeyNUavY/edit) (draft)
 - Privacy Principles (coming soon)
-- [Understanding MDS APIs](https://github.com/openmobilityfoundation/governance/blob/master/technical/Understanding-MDS-APIs.md)
-- [Understanding the relationship between GBFS and MDS](https://github.com/openmobilityfoundation/governance/blob/master/technical/GBFS_and_MDS.md)
+- [Understanding MDS APIs](https://github.com/openmobilityfoundation/governance/blob/main/technical/Understanding-MDS-APIs.md)
+- [Understanding the relationship between GBFS and MDS](https://github.com/openmobilityfoundation/governance/blob/main/technical/GBFS_and_MDS.md)
 
 ## Working Group Guidance
 
-- [Working Group Management](https://github.com/openmobilityfoundation/governance/blob/master/technical/Working_Group_Management.md)
-- [Working Group Leadership](https://github.com/openmobilityfoundation/governance/blob/master/technical/Working_Group_Leadership.md)
+- [Working Group Management](https://github.com/openmobilityfoundation/governance/blob/main/technical/Working_Group_Management.md)
+- [Working Group Leadership](https://github.com/openmobilityfoundation/governance/blob/main/technical/Working_Group_Leadership.md)
 - [Confernce Call Meeting Template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference,-YYYY.MM.DD-(Convening-Group-Name))
-- [Conference Call Meeting Guidance](https://github.com/openmobilityfoundation/governance/blob/master/technical/Conference_Call_Meeting_Guidance.md)
+- [Conference Call Meeting Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/Conference_Call_Meeting_Guidance.md)
 
 ## Events
 
@@ -73,8 +73,8 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 ## Legal
 
-- [License](https://github.com/openmobilityfoundation/governance/blob/master/LICENSE.md)
-- [Disclaimer](https://github.com/openmobilityfoundation/governance/blob/master/DISCLAIMER.md)
+- [License](https://github.com/openmobilityfoundation/governance/blob/main/LICENSE.md)
+- [Disclaimer](https://github.com/openmobilityfoundation/governance/blob/main/DISCLAIMER.md)
 
 
-![omf-sig-icon-small](https://github.com/sarob/operations/blob/master/omf-sig-icon-small.png)
+![omf-sig-icon-small](https://github.com/openmobilityfoundation/governance/raw/main/images/omf-sig-icon-small.png)
