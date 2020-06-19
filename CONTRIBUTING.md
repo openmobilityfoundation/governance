@@ -1,6 +1,6 @@
 # MDS Contributor Guidelines
 
-MDS is an evolving specification with a regular release cycle. Please review the [MDS Release Guidelines](ReleaseGuidelines.md) to understand the release process.
+MDS is an evolving specification with a regular release cycle. Please review the [MDS Release Guidelines](technical/ReleaseGuidelines.md) to understand the release process.
 
 ## Who can contribute
 
