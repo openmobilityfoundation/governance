@@ -14,11 +14,11 @@ MDS is an open specification and anyone can contribute to its development. Becau
 
 ## How to contribute
 
-Contributions should be offered through GitHub issues and pull requests. Please review the [MDS Release Guidelines](ReleaseGuidelines.md) for details on the release process, schedule, and communications channels.
+Contributions should be offered through GitHub issues and pull requests. Please review the [MDS Release Guidelines](technical/ReleaseGuidelines.md) for details on the release process, schedule, and communications channels.
 
 In general, you may open an issue or make a pull request at any time. Once the issue or pull request is associated with a particular Milestone, it will be included for review within the process for that release.
 
-All contributors must agree to the Open Mobility Foundation's [Individual Contributor License Agreement](http://members.openmobilityfoundation.org/wp-content/uploads/2019/06/Individual-CLA.pdf) (ICLA) and [Participation Policies](https://members.openmobilityfoundation.org/wp-content/uploads/2019/06/OMFParticipationPolicies.pdf). Pull requests will not be merged without a signed ICLA. If a contributor is working on behalf of a company or other organization, that organization must also agree to the [Entity Contributor License Agreement](https://members.openmobilityfoundation.org/wp-content/uploads/2019/06/Entity-CLA.pdf) (ECLA). These agreements clarify the intellectual property status of work that is contributed to OMF projects. They apply to all contributions, including source code, documentation, and comments.
+All contributors must agree to the Open Mobility Foundation's [Individual Contributor License Agreement](https://github.com/openmobilityfoundation/governance/raw/main/documents/OMF-Individual-CLA.pdf) (ICLA) and [Participation Policies](https://github.com/openmobilityfoundation/governance/raw/main/documents/OMFParticipationPolicies.pdf). Pull requests will not be merged without a signed ICLA. If a contributor is working on behalf of a company or other organization, that organization must also agree to the [Entity Contributor License Agreement](https://github.com/openmobilityfoundation/governance/raw/main/documents/OMF-Entity-CLA.pdf) (ECLA). These agreements clarify the intellectual property status of work that is contributed to OMF projects. They apply to all contributions, including source code, documentation, and comments.
 
 ## What belongs in MDS
 
