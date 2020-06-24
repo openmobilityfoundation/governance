@@ -25,7 +25,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 ## Committees and Working Groups
 
 - [Board of Directors](https://www.openmobilityfoundation.org/about/)
-- Technology Council (TBD)
+- [Technology Council](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Technology-Council)
 - [Privacy, Security, and Transparency Committee](https://github.com/openmobilityfoundation/privacy-committee)
 - Strategy Committee (TBD)
 
