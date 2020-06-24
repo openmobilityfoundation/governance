@@ -54,7 +54,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 - [Architectural Landscape Document](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-Transitional-Architectural-Landscape-FINAL.pdf) (transitional) (PDF)
 - [Mobility Data Management State of Practice
-](https://github.com/openmobilityfoundation/privacy-committee/wiki/Mobility-Data-Management-State-of-Practice)
+](hhttps://github.com/openmobilityfoundation/privacy-committee/blob/main/mobility-data-state-of-practice.md)
 - [Privacy Guide](https://docs.google.com/document/d/1JvVSWw1-VwFdYqQIefvKvM0RmfEK2tv1wTyjeyNUavY/edit) (draft)
 - Privacy Principles (coming soon)
 - [Understanding MDS APIs](https://github.com/openmobilityfoundation/governance/blob/main/technical/Understanding-MDS-APIs.md)
