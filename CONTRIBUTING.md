@@ -1,6 +1,6 @@
 # MDS Contributor Guidelines
 
-MDS is an evolving specification with a regular release cycle. Please review the [MDS Release Guidelines](technical/ReleaseGuidelines.md) to understand the release process.
+The Open Mobility Foundation is a free and open-source software foundation that manages the Mobility Data Specification (MDS).  These guidelines will help you understand how to to contribute and what is involoved.
 
 ## Who can contribute
 
@@ -11,6 +11,20 @@ MDS is an open specification and anyone can contribute to its development. Becau
 * **Mobility Service Providers:** Providers are often required to implement MDS in order to comply with permitting requirements for their services. Providers can inform the development of MDS with real-world operating experience and to offer input on specification design that maximizes data quality, reliability, and utility.
 
 * **Public agency software partners:** Serve as a key bridge between public agencies and mobility service providers by offering tools that turn MDS data into useful insights. The public agency software partners help ensure that MDS will enable real-world product development, reflects the needs of their public agency customers, and encourages private investment in the MDS ecosystem.
+
+## Community Profile
+
+Contributions can come from many places, including individuals, companies, non-profits, and governments, and work is done both online and via regular video conference calls.  As such we want to make this community welcoming and ensure participants know a little about the people contributing and ensure transparency.  To that end, we recommend every contributor has an up to date Github Profile, including:
+
+- Name
+- Bio
+- Company/Organization/City
+- Location
+- Profile Picture
+- Website Link
+- Social Media Links
+
+See [this profile](https://github.com/jfh01) for an example of the kinds of information you can [add to your profile](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile).
 
 ## How to contribute
 
@@ -25,6 +39,10 @@ All contributors must agree to the Open Mobility Foundation's [Individual Contri
 MDS is a tool to facilitate data exchange between mobility service providers, public agencies, and public agency software partners. Although providers are often required to support MDS as part of mobility permits or policies, MDS is intended as a neutral mechanism for information exchange. It is not intended to force or foreclose any specific policy options that a public agency may choose to pursue.
 
 MDS is built as an interface between local governments and mobility service providers. Access to MDS APIs should be restricted, and is not intended to directly support public consumption or consumer-facing applications.
+
+## Release Process
+
+MDS is an evolving specification with a regular release cycle. Please review the [MDS Release Guidelines](technical/ReleaseGuidelines.md) to understand the release process.
 
 ## Participation Policies and Code of Conduct
 
