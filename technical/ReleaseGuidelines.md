@@ -247,7 +247,7 @@ The following steps outline the process to prepare a Release Candidate of MDS. T
     This is a pre-release: Check
     ```
 
-1. [Open a Pull Request][mds-pr-rc] from the release branch to `dev` using the [Release Candidate template][mds-pr-rc-link]. This ensures any changes to the Release Candidate during the review process make their way back into `dev`. This pull request is where review comments and feedback will be collected.
+1. [Open a Pull Request][mds-pr-rc] to `dev` from the release branch (eg. `0.5.0-rc1`) using the [Release Candidate template][mds-pr-rc-link]. This ensures any changes to the Release Candidate during the review process make their way back into `dev`. This pull request is where review comments and feedback will be collected.
 
 1. Post an announcement to the [MDS-announce Mailing List][mds-announce], copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases] and Release Candidate review Issue:
 
@@ -395,7 +395,7 @@ In rare cases, a hotfix for a prior release may be required out-of-phase with th
 [mds-milestones]: https://github.com/openmobilityfoundation/mobility-data-specification/milestones
 [mds-pr]: https://github.com/openmobilityfoundation/mobility-data-specification/pulls
 [mds-pr-new]: https://github.com/openmobilityfoundation/mobility-data-specification/compare
-[mds-pr-rc]: https://github.com/openmobilityfoundation/mobility-data-specification/compare?template=release-candidate.md
+[mds-pr-rc]: https://github.com/openmobilityfoundation/mobility-data-specification/compare/main...dev?template=release-candidate.md
 [mds-pr-rc-link]: https://github.com/openmobilityfoundation/mobility-data-specification/blob/release-1.0.0/.github/PULL_REQUEST_TEMPLATE/release-candidate.md
 [mds-pr-final]: https://github.com/openmobilityfoundation/mobility-data-specification/compare?template=release-final.md
 [mds-releases]: https://github.com/openmobilityfoundation/mobility-data-specification/releases
