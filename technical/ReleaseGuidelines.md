@@ -109,21 +109,21 @@ Documentation will be updated, release notes will be merged and a tag will be cr
 
 ### Approval by the Open Mobility Foundation
 
-Once a release is finalized by the working groups it will be considered a "Release Candidate" until it has been approved as an official deliverable by the Open Mobility Foundation. The OMF bylaws refer to this as a "Working Group Approved Deliverable (WGAD)."
+Once a release is finalized by the working groups it will be considered a "Release Candidate" until it has been approved as an official deliverable by the Open Mobility Foundation. The OMF bylaws refer to this as a "Working Group Approved" deliverable.
 
 The process for full OMF approval is detailed in Section 5.4 of the [OMF bylaws][omf-bylaws]. In summary:
 
-1. The release candidate/WGAD will be provided to the OMF Technology Council for review and comment at least 75 days prior to the desired date of board approval.
+1. The release candidate deliverable will be provided to the OMF Technology Council for review and comment at least 75 days prior to the desired date of board approval.
 
 1. The Technology Council will issue a report and/or recommendation for the Board of Directors within 60 days.
 
-1. The Board of Directors will have a minimum of 30 days to review the Technology Council recommendation before taking a vote on the release candidate/WGAD.
+1. The Board of Directors will have a minimum of 30 days to review the Technology Council recommendation before taking a vote on the release candidate deliverable.
 
-1. Upon approval by the Board of Directors, the release will become an official deliverable of the OMF. It will be marked as such in GitHub and on the OMF web site, and it will be merged into the `main` branch on GitHub.
+1. Upon approval by the Board of Directors, the release will become an official "Foundation Deliverable" of the OMF. It will be marked as such in GitHub and on the OMF web site, and it will be merged into the `main` branch on GitHub.
 
 The approval status and anticipated timeline will be reflected in the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki). While it is the intent of the OMF to have concerns, questions, and issues addressed during the regular working group release process, it is possible that the Technology Council or Board of Directors may request modifications to a release candidate/WGAD prior to official approval. If this situation occurs, the release candidate will be sent back to the working group(s) for additional changes after which it can be resubmitted to the Technology Council and Board of Directors.
 
-The OMF recommends that regulatory agencies do not formally adopt or require any versions of the spec that have not been fully approved by the OMF Board of Directors. However, release candidates/WGADs are considered stable enough to allow API producers and consumers to begin developing against in anticipation of formal approval.
+The OMF recommends that regulatory agencies do not formally adopt or require any versions of the spec that have not been fully approved by the OMF Board of Directors. However, release candidates are considered stable enough to allow API producers and consumers to begin developing against in anticipation of formal approval.
 
 ### Communication and Workflow
 
@@ -402,7 +402,7 @@ In rare cases, a hotfix for a prior release may be required out-of-phase with th
 [mds-releases-new]: https://github.com/openmobilityfoundation/mobility-data-specification/releases/new
 [mds-schema-common]: https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/schema/templates/common.json
 [mds-tags]: https://github.com/openmobilityfoundation/mobility-data-specification/tags
-[omf-bylaws]: https://www.openmobilityfoundation.org/resources/
+[omf-bylaws]: https://github.com/openmobilityfoundation/governance/raw/main/documents/OMF-Bylaws-CURRENT.pdf
 [prepare-rc]: #preparing-a-release-candidate
 [semver]: https://semver.org/
 [toc]: #table-of-contents
