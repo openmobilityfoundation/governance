@@ -395,7 +395,7 @@ In rare cases, a hotfix for a prior release may be required out-of-phase with th
 [mds-milestones]: https://github.com/openmobilityfoundation/mobility-data-specification/milestones
 [mds-pr]: https://github.com/openmobilityfoundation/mobility-data-specification/pulls
 [mds-pr-new]: https://github.com/openmobilityfoundation/mobility-data-specification/compare
-[mds-pr-rc]: https://github.com/openmobilityfoundation/mobility-data-specification/compare/main...dev?template=release-candidate.md
+[mds-pr-rc]: https://github.com/openmobilityfoundation/mobility-data-specification/compare/dev...main?template=release-candidate.md
 [mds-pr-rc-link]: https://github.com/openmobilityfoundation/mobility-data-specification/blob/release-1.0.0/.github/PULL_REQUEST_TEMPLATE/release-candidate.md
 [mds-pr-final]: https://github.com/openmobilityfoundation/mobility-data-specification/compare?template=release-final.md
 [mds-releases]: https://github.com/openmobilityfoundation/mobility-data-specification/releases
