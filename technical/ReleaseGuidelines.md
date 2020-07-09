@@ -213,7 +213,7 @@ The following steps outline the process to prepare a Release Candidate of MDS. T
     > Release Candidate submitted yyyy-MM-dd
 
     High level summary of the release...
-    
+
     See the PRs tagged with [Milestone 0.5.0](https://github.com/openmobilityfoundation/mobility-data-specification/milestone/X) for a full list of changes.
 
     ### CHANGES
@@ -247,7 +247,7 @@ The following steps outline the process to prepare a Release Candidate of MDS. T
     This is a pre-release: Check
     ```
 
-1. [Open a Pull Request][mds-pr-rc] to `dev` from the release branch (eg. `0.5.0-rc1`) using the [Release Candidate template][mds-pr-rc-link]. This ensures any changes to the Release Candidate during the review process make their way back into `dev`. This pull request is where review comments and feedback will be collected.
+1. [Open a Pull Request][mds-pr-rc] to `main` from the release branch (eg. `0.5.0-rc1`) using the [Release Candidate template][mds-pr-rc-link]. This pull request is where review comments and feedback will be collected.
 
 1. Post an announcement to the [MDS-announce Mailing List][mds-announce], copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases] and Release Candidate review Issue:
 
@@ -306,9 +306,9 @@ The following steps describe how to make an approved [Release Candidate][prepare
     etc...
     ```
 
-1. Merge the Pull Request created during the Release Candidate process to `dev`.
+1. Merge the Pull Request created during the Release Candidate process to `main` to make the release official.
 
-1. [Open a Pull Request][mds-pr-final] from the release branch to `main`. Merge this PR to make the release official.
+1. [Open a Pull Request][mds-pr-new] from the release branch to `dev`. Merge this PR to ensure any changes to the Release Candidate during the review process make their way back into `dev`.
 
 1. Create a tag in `main` for the new version. For example for `0.5.0`:
 
@@ -340,7 +340,7 @@ The following steps describe how to make an approved [Release Candidate][prepare
 
     [release notes]
 
-    [link to GitHub pre-Release]
+    [link to GitHub Release]
     ```
 
 1. Finally, delete the release branch.
@@ -396,8 +396,7 @@ In rare cases, a hotfix for a prior release may be required out-of-phase with th
 [mds-pr]: https://github.com/openmobilityfoundation/mobility-data-specification/pulls
 [mds-pr-new]: https://github.com/openmobilityfoundation/mobility-data-specification/compare
 [mds-pr-rc]: https://github.com/openmobilityfoundation/mobility-data-specification/compare/dev...main?template=release-candidate.md
-[mds-pr-rc-link]: https://github.com/openmobilityfoundation/mobility-data-specification/blob/release-1.0.0/.github/PULL_REQUEST_TEMPLATE/release-candidate.md
-[mds-pr-final]: https://github.com/openmobilityfoundation/mobility-data-specification/compare?template=release-final.md
+[mds-pr-rc-link]: https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/.github/PULL_REQUEST_TEMPLATE/release-candidate.md
 [mds-releases]: https://github.com/openmobilityfoundation/mobility-data-specification/releases
 [mds-releases-new]: https://github.com/openmobilityfoundation/mobility-data-specification/releases/new
 [mds-schema-common]: https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/schema/templates/common.json
