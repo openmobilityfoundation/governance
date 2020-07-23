@@ -21,11 +21,17 @@ MDS will see regular updates and new [releases][mds-releases]. This document des
 
 MDS uses [Semantic Versioning][semver]. Each release is associated with a [`git tag`][mds-tags] of the form `X.Y.Z`.
 
-Given that MDS is stabilizing under MAJOR version `0.x` right now, it should be assumed that MINOR version increments (e.g. `0.2.0` to `0.3.0`) are equivalent to MAJOR version increments and may contain breaking changes.
+Given a version number in the `MAJOR.MINOR.PATCH` (eg., `X.Y.Z`) format, here are the differences in these terms:
+
+- **MAJOR** version - make breaking/incompatible API changes
+- **MINOR** version - add functionality in a backwards compatible manner
+- **PATCH** version - make backwards compatible bug fixes
+
+As of MDS 1.0.0, we are aligning with this semantic versioning. Previously MDS considered a MAJOR version to be at the MINOR level (eg., `0.Y.0`), so MINOR version increments (e.g. `0.2.0` to `0.3.0`) were equivalent to MAJOR version increments and contained breaking changes.  This applies to releases 0.4.1 and lower.
 
 ### Breaking vs. non-breaking changes
 
-Since MDS is used by a broad ecosystem of both API consumers and implementers, it needs a strict definition of what changes are “non-breaking” and are therefore allowed in PATCH releases.
+Since MDS is used by a broad ecosystem of both API consumers and implementers, it needs a strict definition of what changes are “non-breaking” and are therefore allowed in MINOR and PATCH releases.
 
 In the MDS spec, a breaking change is any change that requires either consumers or implementers to modify their code for it to continue to function correctly.
 
@@ -45,11 +51,13 @@ One implication of this policy is that clients should be prepared to ignore the 
 
 ### Ongoing version support
 
-At this early stage, MDS will be moving relatively quickly with an eye toward stabilization rather than backwards-compatibility.
+MDS release move relatively quickly with an eye toward stabilization rather than backwards-compatibility. 
 
-For now, MDS will maintain *two concurrent (MINOR) versions* (e.g. if `0.3.0` were the current version, the `0.2.x` series would continue to receive maintenance in addition to `0.3.x`).
+MDS will maintain *two concurrent (MAJOR) versions* (e.g. if `0.3.0` were the current version, the `0.2.x` series would continue to receive maintenance in addition to `0.3.x`). *Note prior to MDS 1.0.0 these MAJOR versions were [labeled as MINOR](#versioning).*
 
-Refer to the list of [Supported Releases](https://github.com/openmobilityfoundation/mobility-data-specification/wiki#supported-mds-releases) for more details.
+Support includes patching as required, and the recommendation to adopt supported releases by MDS users.
+
+Refer to the list of [Supported Releases](https://github.com/openmobilityfoundation/governance/wiki/Releases#supported-mds-releases) for more details.
 
 [Top][toc]
 
