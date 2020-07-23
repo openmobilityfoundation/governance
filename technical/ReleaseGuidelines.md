@@ -10,6 +10,7 @@ MDS will see regular updates and new [releases][mds-releases]. This document des
   * [Project Meetings](#project-meetings)
   * [Roles](#roles)
   * [Schedule](#schedule)
+  * [Checkpoints](#checkpoints)
   * [Approval by the Open Mobility Foundation](#approval-by-the-open-mobility-foundation)
   * [Communication and Workflow](#communication-and-workflow)
 * [Branch Mechanics](#branch-mechanics)
@@ -85,35 +86,65 @@ The sections below define the release process itself, including timeline, roles,
 
 ### Roles
 
-* **contributors** - Anyone making pull requests, opening issues, or engaging in technical discussion around implementation of features.
+* **Working Group Steering Committee** (WGSC) - Manage the meetings, community, and release goals. Review changes when consensus cannot be reached and make final release decision about what changes should be included in a release.
 
-* **maintainers** - Project maintainers have commit privileges in the main MDS repository and are responsible for implementing changes such as merging of pull requests and the creation of release branches.
+* **Contributor** - Anyone making pull requests, opening issues, or engaging in technical discussion around implementation of features.
 
-* **working group steering committees** - Review changes when consensus cannot be reached and make final release decision about what changes should be included in a release.
+* **Maintainer** - Project maintainers are part of the WGSC and have commit privileges in the main MDS repository and are responsible for implementing changes such as merging of pull requests and the creation of release branches.
 
-See the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki) for additional information on the working groups.
+See the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki) for additional information on the Working Groups.
 
 ### Schedule
 
-MDS operates on an approximately twelve-week release cycle for both major updates (0.x) and patches (0.x.y). In general, major updates (0.x) are expected no more than twice per year. The release cycle is broken down as follows:
+MDS operates on an approximately 14 week release cycle for both major updates (0.x) and patches (0.x.y). In general, major updates (0.x) are expected no more than twice per year.  The release cycle can be shortened or lengthened based on the inclusion of features.  This schedule does not include the OMF [approval process](#approval-by-the-open-mobility-foundation).  There may also be a gap between when a previous release finishes and a new release starts.
 
-#### Weeks 1-3: Proposals
+The release cycle is broken down as follows, with some overlap of work:
+
+#### Weeks 1-3: Set Goals
+
+The Working Group Steering Committees set feature goals for the next release, based on community needs and what was left over from previous releases.  These goals will help guide the work to be done during the release.
+
+#### Weeks 3-5: Feature Proposals
 
 Contributors submit proposals for inclusion in the release cycle in the form of pull requests and issues tagged. If known, note what release you intended a proposal for in its description. Maintainers will tag appropriate pull requests and issues with the Milestone for the upcoming release. Proposals should come with enough explanation to allow all stakeholders to understand intent and implementation strategy.
 
-#### Weeks 4-9: Consensus building, refinement, and implementation
+#### Weeks 5-13: Implementation and Coding
 
-Contributors will provide feedback on proposals. Where possible, discussion will happen via GitHub. Weekly calls will support dialog around more complex or controversial issues. By the end of week 9, all active proposals must be in the form of a pull request. Proposals can be withdrawn or split apart for inclusion in future releases.
+Work will be done by Contributors and reviewed by the community. Contributors will provide feedback on issue proposals, and help with pull requests. Where possible, discussion will happen asynchronously online via GitHub. Weekly calls will support dialog around more complex or controversial issues. Proposals will be in the form of pull requests throughout this timeframe. Administrators will push pull requests to the `dev` branch as consensus is reached, to allow alignment of code and create a cohesive release. Proposals can be withdrawn or split apart for inclusion in future releases.  
 
-#### Weeks 10-11: Decision making
+#### Weeks 11-13: Decisions and Concensus
 
-These weeks will start with an web conference work session for all contributors to review and discuss current proposals. Goal is to achieve consensus where possible, or to clearly articulate areas of disagreement where not. Minor changes may be accepted at this stage if they bring contributors to consensus.
+These weeks include web conference work sessions for all contributors to review and discuss current proposals. The goal is to achieve consensus where possible, or to clearly articulate areas of disagreement where not. Changes may be accepted and pushed to `dev` at this stage if they bring contributors to consensus.
 
 During this period, the working group steering committees will review all items for which consensus was not reached and decide on a final release plan. Any remaining approved pull requests will be merged, and a maintainers or working group steering committees will open a pull request containing release notes for the proposed release.
 
-#### Week 12: Release
+#### Week 14: Release
 
-Documentation will be updated, release notes will be merged and a tag will be created to point to it. At this point the new version will be formally considered a Release Candidate and begin the Open Mobility Foundation approval process described below. Subsequent sections describe how to [Prepare a Release Candidate][prepare-rc] and [Make an Official Release][make-release].
+Documentation will be updated, release notes will be merged and a tag will be created to point to it. This work is done by OMF Staff, WGSC members, and Contributors. At this point the new version will be formally considered a Release Candidate and begin the Open Mobility Foundation approval process described below. Subsequent sections describe how to [Prepare a Release Candidate][prepare-rc] and [Make an Official Release][make-release].
+
+### Checkpoints
+
+There are specific check-in and review points during the release process called 'Checkpoints.'  Each Checkpoint allows: 
+
+- the WGSC to review and manage the release
+- the OMF Strategy and OMF Privacy, Security, and Transparency Committees an opportunity to provide feedback
+- changes to be pushed to `dev` more regularly
+
+#### Checkpoint 1: Plan
+
+Review the past release, discuss unresolved features, and set goals for the current release.
+
+#### Checkpoint 2: Midpoint
+
+Review feature proposals, align current work to goals, and ensure the release features and work is on track. 
+
+#### Checkpoint 3: Concensus
+
+Help decide what is ready for the release, what features should be left out and how, if extra time is needed to finish features, and confirm a targetted release candidate date.
+
+#### Checkpoint 4: Review
+
+Review the final code and help with the creation of the release candidate, including reaching out to contributors about code conflicts, and ensure the release is cohesive and consistent.
 
 ### Approval by the Open Mobility Foundation
 
@@ -129,7 +160,7 @@ The process for full OMF approval is detailed in Section 5.4 of the [OMF bylaws]
 
 1. Upon approval by the Board of Directors, the release will become an official "Foundation Deliverable" of the OMF. It will be marked as such in GitHub and on the OMF web site, and it will be merged into the `main` branch on GitHub.
 
-The approval status and anticipated timeline will be reflected in the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki). While it is the intent of the OMF to have concerns, questions, and issues addressed during the regular working group release process, it is possible that the Technology Council or Board of Directors may request modifications to a release candidate/WGAD prior to official approval. If this situation occurs, the release candidate will be sent back to the working group(s) for additional changes after which it can be resubmitted to the Technology Council and Board of Directors.
+The approval status and anticipated timeline will be reflected in the [MDS Releases page](https://github.com/openmobilityfoundation/governance/wiki/Releases). While it is the intent of the OMF to have concerns, questions, and issues addressed during the regular working group release process, it is possible that the Technology Council or Board of Directors may request modifications to a release candidate prior to official approval. If this situation occurs, the release candidate will be sent back to the working group(s) for additional changes after which it can be resubmitted to the Technology Council and Board of Directors.
 
 The OMF recommends that regulatory agencies do not formally adopt or require any versions of the spec that have not been fully approved by the OMF Board of Directors. However, release candidates are considered stable enough to allow API producers and consumers to begin developing against in anticipation of formal approval.
 
@@ -277,7 +308,7 @@ The following steps outline the process to prepare a Release Candidate of MDS. T
 
 ### Incorporating feedback from OMF review
 
-The OMF review process may elicit further changes to a Release Candidate. Generally follow the same steps as above to prepare a subsequent Release Candidate, committing necessary changes to the release branch and incrementing the prior Release Candidate number where required.
+The OMF review process may elicit further changes to a Release Candidate. Generally follow the same steps as above to prepare a subsequent Release Candidate, committing necessary changes to the release branch and incrementing the prior Release Candidate number where required. 
 
 For example, if the second Release Candidate for `0.5.0` is being prepared, after committing necessary changes, create a tag on the tip of the release branch like `0.5.0-rc2` and make a new [GitHub pre-Release][mds-releases-new] from there:
 
@@ -291,7 +322,7 @@ git push --tags
 
 Communicate the new Release Candidate as usual, including in ReleaseNotes.md, on the MDS-Announce mailing list, and on the Release Candidate review Issue. Be sure to indicate that this is a *new Release Candidate* of the target version.
 
-Repeat as-needed for subsequent Release Candidates.
+Repeat as-needed for subsequent Release Candidates.  Note the release branch will be pushed to `dev` at key points in the approval process to ensure the community is working with the latest code.
 
 [Top][toc]
 
