@@ -6,8 +6,6 @@
 ## Comparing GBFS and MDS
 While there are similarities between the specifications, they serve different primary purposes.
 
-
-
 |  |  **GBFS**  |  **MDS**  |
 | ---- | ---- | ---- |
 | **Primary Purpose** | Enable consumer-facing applications for finding and renting shared mobility vehicles from one or more operators. | Enable regulators to monitor how mobility vehicles are deployed and used (trips taken) for the purposes of planning, program management, and operations. |
@@ -29,3 +27,15 @@ Because MDS feeds include some deidentified data about individual trips, they sh
 The two specifications were created independently of each other and serve different primary purposes. However, many organizations implement both. To reduce technical burden and increase the utility of both GBFS and MDS, their governing organizations intend to increase alignment between them over time. MobilityData and the OMF have committed to attending each other’s planning calls, participating in both open source communities on GitHub, and regularly reviewing planned changes to find opportunities for potential alignment.
 
 There is no plan to fully reconcile GBFS and MDS, but as new features are added there may be opportunities to use shared data models, enumerations, nomenclature, or other technical structures. Ultimately each specification will remain independently governed to serve its unique purpose, but the data ecosystem will be stronger as MobilityData and the Open Mobility Foundation coordinate and communicate about the direction of their respective outputs.
+
+## Real-time Status Differences
+
+Chart of items that are significantly divergent between GBFS and MDS’s real-time status endpoints.
+
+|  | **GBFS** - [free_bike_status](https://github.com/MobilityData/gbfs/blob/master/gbfs.md#free_bike_statusjson) v2.1rc | **MDS** - [Provider vehicles](https://github.com/openmobilityfoundation/mobility-data-specification/tree/dev/provider#vehicles) v0.4.1 |
+| ---- | ---- | ---- |
+| **Identifier** | Randomized ID | Unchanging ID |
+| **Status** | 4 possible types | 12 types/reasons including user/company drop-offs, maintenance, rebalancing. |
+| **Visibility** | Public: visible to all | Private: for internal city management and policy enforcement |
+
+For a full chart of all fields with more details, and a link to presentation slides, see this supporting [MDS / GBFS Real-time Status Comparison Document](https://docs.google.com/document/d/13hDgRn5wBPi5M5qN8H6-bbWiSkvvenGlViy0Q0h4sFI/edit#).
