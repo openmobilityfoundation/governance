@@ -5,7 +5,9 @@ MDS will see regular updates and new [releases][mds-releases]. This document des
 ## Table of Contents
 
 * [Versioning](#versioning)
-* [Release Process](#process)
+  * [Breaking vs. non-breaking changes](#breaking-vs-non-breaking-changes)
+  * [Ongoing version support](#ongoing-version-support)
+* [Release Process](#release-process)
   * [Goals](#goals)
   * [Project Meetings](#project-meetings)
   * [Roles](#roles)
@@ -13,8 +15,11 @@ MDS will see regular updates and new [releases][mds-releases]. This document des
   * [Approval by the Open Mobility Foundation](#approval-by-the-open-mobility-foundation)
   * [Communication and Workflow](#communication-and-workflow)
 * [Branch Mechanics](#branch-mechanics)
+  * [Long-lived branches](#long-lived-branches)
+  * [Short-lived branches](#short-lived-branches)
 * [Preparing a Release Candidate][prepare-rc]
-* [Making an Official Release][make-release]
+  * [Incorporating feedback from OMF review](#incorporating-feedback-from-omf-review)
+* [Making a Release][make-release]
 * [Hotfix Releases](#hotfix-releases)
 
 ## Versioning
