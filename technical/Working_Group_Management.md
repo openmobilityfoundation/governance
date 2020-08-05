@@ -2,6 +2,8 @@
 
 How to run the working group day to day:
 
+* Create meeting agendas on the [Wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki) and add link to WG pages.
+* Run WG meetings and add notes to meeting Wiki pages and on appropriate Github Issues/PRs.
 * The release announcements and process schedule will be communicated via [mds-announce](https://groups.google.com/a/groups.openmobilityfoundation.org/forum/#!forum/mds-announce) by the chair.
 * [Meeting agendas](https://github.com/openmobilityfoundation/governance/blob/master/technical/Conference_Call_Meeting_Guidance.md) will be communiticated via [mds-announce](https://groups.google.com/a/groups.openmobilityfoundation.org/forum/#!forum/mds-announce) by the chair at least two days prior.
 * Deliverables from a WG are developed by its Contributors and the WGSC.
