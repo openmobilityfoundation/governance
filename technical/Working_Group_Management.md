@@ -11,14 +11,11 @@ How to run the working group day to day:
 * Pull requests and release notes should include a summary of the major changes / impacts associated with the change or release.
 * Proposed changes should come in the form of PRs to give the community ample awareness and time for feedback.
 
-## Daily triage issues PRs for labels milestones
-
-* Review the project backlog for unassigned issues and PRs.
-* It should be obvious in most cases which API and change type the item should be assigned.
-* Allow the working group chairs to assign items to a milestone.
-
-## Labels, milestones (for issues, PRs)
+## Issue and PR Triage
 
 * WGSC members should update the labels and milestones for their issues and pull requests at least weekly.
+* Review the project backlog for unassigned issues and PRs.
+* Allow the working group chairs to assign items to a milestone.
+* Leave comments on issues/PR based on meeting discussions and decisions made.
 
 For information about WG leadership, see the [Working Group Leadership](https://github.com/openmobilityfoundation/governance/blob/master/technical/Working_Group_Leadership.md) document.
