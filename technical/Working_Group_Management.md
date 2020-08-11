@@ -20,4 +20,4 @@ How to run the working group day to day:
 * Allow the working group chairs to assign items to a milestone.
 * Leave comments on issues/PR based on meeting discussions and decisions made.
 
-For information about WG leadership, see the [Working Group Leadership](https://github.com/openmobilityfoundation/governance/blob/master/technical/Working_Group_Leadership.md) document.
+For information about WG leadership, see the [Working Group Leadership](https://github.com/openmobilityfoundation/governance/blob/main/technical/Working_Group_Leadership.md) document.
