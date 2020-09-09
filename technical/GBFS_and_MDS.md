@@ -32,7 +32,7 @@ There is no plan to fully reconcile GBFS and MDS, but as new features are added 
 
 Chart of items that are significantly divergent between GBFS and MDS’s real-time status endpoints.
 
-|  | **GBFS** - [free_bike_status](https://github.com/MobilityData/gbfs/blob/master/gbfs.md#free_bike_statusjson) v2.1rc | **MDS** - [Provider vehicles](https://github.com/openmobilityfoundation/mobility-data-specification/tree/dev/provider#vehicles) v0.4.1 |
+|  | **GBFS** - [free_bike_status](https://github.com/NABSA/gbfs/blob/v2.1-RC/gbfs.md#free_bike_statusjson) v2.1rc | **MDS** - [Provider vehicles](https://github.com/openmobilityfoundation/mobility-data-specification/tree/dev/provider#vehicles) v0.4.1 |
 | ---- | ---- | ---- |
 | **Identifier** | Randomized ID | Unchanging ID |
 | **Status** | 4 possible types | 12 types/reasons including user/company drop-offs, maintenance, rebalancing. |
