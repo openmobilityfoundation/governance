@@ -335,11 +335,11 @@ Repeat as-needed for subsequent Release Candidates.  Note the release branch wil
 
 The following steps describe how to make an approved [Release Candidate][prepare-rc] an official release of MDS:
 
-1. Ensure OMF review has been completed and approval granted.
+1. **Approved**. Ensure OMF review has been completed and approval granted.
 
-1. Ensure the [Milestone][mds-milestones] for this release is at `100%`.
+1. **Milestone**. Ensure the [Milestone][mds-milestones] for this release is at `100%`.
 
-1. In the release branch created earlier, update the ReleaseNotes.md with the new date of the release:
+1. **Notes**. In the release branch created earlier, update the ReleaseNotes.md with the new date of the release:
 
     ```diff
     ## X.Y.Z
@@ -350,30 +350,19 @@ The following steps describe how to make an approved [Release Candidate][prepare
     etc...
     ```
 
-1. Merge the Pull Request created during the Release Candidate process to `main` to make the release official.
+1. **Main**. Merge the Pull Request created during the Release Candidate process to `main` to make the release official.
 
-1. [Open a Pull Request][mds-pr-new] from the release branch to `dev`. Merge this PR to ensure any changes to the Release Candidate during the review process make their way back into `dev`.
+1. **Dev**. [Open a Pull Request][mds-pr-new] from the release branch to `dev`. Merge this PR to ensure any changes to the Release Candidate during the review process make their way back into `dev`.
 
-1. Create a tag in `main` for the new version. For example for `0.5.0`:
+1. **Release**. Publish a [Release in GitHub][mds-releases-new] with the following information
 
-    ```bash
-    get fetch
-    git checkout main
-    git tag 0.5.0
-    git push --tags
-    ```
+   - Tag version: [X.Y.Z] (note this will create the tag for the `main` branch code when you publish the release)
+   - Target: main
+   - Release title: [X.Y.Z]
+   - Description: copy in Release Notes created earlier
+   - This is a pre-release: DO NOT check
 
-1. Publish a [Release in GitHub][mds-releases-new]:
-
-    ```md
-    Tag version: [the tag you just pushed]
-    Target: main
-    Release title: [X.Y.Z]
-    Description: [copy in ReleaseNotes created earlier]
-    This is a pre-release: DO NOT check
-    ```
-
-1. Post an announcement to the [MDS-announce Mailing List][mds-announce], copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases]:
+1. **Announce**. Post an announcement to the [MDS-announce Mailing List][mds-announce], copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases]:
 
     ```email
     From:    mds-announce@groups.openmobilityfoundation.org
@@ -387,7 +376,7 @@ The following steps describe how to make an approved [Release Candidate][prepare
     [link to GitHub Release]
     ```
 
-1. Finally, delete the release branch.
+1. **Branch**. Finally, choose whether to keep or delete the release branch.
 
 [Top][toc]
 
