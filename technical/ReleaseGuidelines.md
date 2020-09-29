@@ -57,13 +57,13 @@ One implication of this policy is that clients should be prepared to ignore the 
 
 ### Ongoing version support
 
-MDS release move relatively quickly with an eye toward stabilization rather than backwards-compatibility. 
+MDS major releases move relatively quickly with an eye toward stabilization and features, rather than backwards-compatibility.  MDS minor releases will be backwards compatible.
 
-MDS will maintain *two concurrent (MAJOR) versions* (e.g. if `0.3.0` were the current version, the `0.2.x` series would continue to receive maintenance in addition to `0.3.x`). *Note prior to MDS 1.0.0 these MAJOR versions were [labeled as MINOR](#versioning).*
+MDS will maintain *two concurrent (MAJOR) versions* (e.g. if `0.3.0` were the current version, the `0.2.x` series would continue to receive maintenance in addition to `0.3.x`). *Note prior to MDS 1.0.0 these MAJOR versions were [labeled as MINOR](#versioning), so MDS 1.x.x and 0.4.x are considered the last 2 major versions.*
 
-Support includes patching as required, and the recommendation to adopt supported releases by MDS users.
+Maintenance includes documentation, promotion, patching as required, and encouraging adoption of recommended releases by MDS users.
 
-Refer to the list of [Supported Releases](https://github.com/openmobilityfoundation/governance/wiki/Releases#supported-mds-releases) for more details.
+Refer to the list of [Recommended Releases](https://github.com/openmobilityfoundation/governance/wiki/Releases#recommended-mds-releases) to see current releases and more details.
 
 [Top][toc]
 
