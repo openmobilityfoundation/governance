@@ -4,6 +4,10 @@
 
 This is draft document created by the OMF staff with feedback from OMF members and the community. We are taking feedback, so if you have questions or thoughts about improvements, please leave a comment on our [MDS Discussion Board](https://github.com/openmobilityfoundation/mobility-data-specification/discussions), or you can open an [Issue](https://github.com/openmobilityfoundation/governance/issues) or suggest changes with a [Pull Request](https://github.com/openmobilityfoundation/governance/pulls).
 
+### Complimentary Documents
+
+- [MDS Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md)
+
 ## Purpose
 
 This guide is for contributors, cities, providers and third parties and gives guidance and best practices on how and when to upgrade MDS as new versions become available, so that everyone can best use the MDS ecosystem.
@@ -32,7 +36,7 @@ You can contact them via email and notify them of your upgrade expectations as a
 
 This communication helps set expectations and provides multiple months for providers and cities to prepare for the changes and improvements that come with each release. Some releases contain more complex changes and may require more time to implement.
 
-See our Policy Language Guidance document for sample language.
+See our [Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md) document for sample language.
 
 ## Release Approval
 
