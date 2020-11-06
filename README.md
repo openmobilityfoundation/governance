@@ -27,11 +27,10 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - [Board of Directors](https://www.openmobilityfoundation.org/about/)
 - [Technology Council](https://github.com/openmobilityfoundation/governance/wiki/Technology-Council)
 - [Privacy, Security, and Transparency Committee](https://github.com/openmobilityfoundation/privacy-committee)
-- Strategy Committee (TBD)
+- Strategy Committee (In Progress)
 
 ### Working Groups
 
-- Overview (TBD roles/charter/SC overview)
 - [MDS Provider Services](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Provider-Services-Working-Group)
 - [MDS City Services](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-City-Services-Working-Group)
 - [MDS Curb](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Curb-Management-Working-Group)
@@ -67,7 +66,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 - [Working Group Management](https://github.com/openmobilityfoundation/governance/blob/main/technical/Working_Group_Management.md)
 - [Working Group Leadership](https://github.com/openmobilityfoundation/governance/blob/main/technical/Working_Group_Leadership.md)
-- [Confernce Call Meeting Template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference,-YYYY.MM.DD-(Convening-Group-Name))
+- [Conference Call Meeting Template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference,-YYYY.MM.DD-(Convening-Group-Name))
 - [Conference Call Meeting Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/Conference_Call_Meeting_Guidance.md)
 
 ## Events
