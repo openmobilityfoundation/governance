@@ -34,14 +34,15 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - Overview (TBD roles/charter/SC overview)
 - [MDS Provider Services](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Provider-Services-Working-Group)
 - [MDS City Services](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-City-Services-Working-Group)
+- [MDS Curb](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Curb-Management-Working-Group)
 - [OMF Operations](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Working-Group-Operations-(wg-ops))
-- [MDS Reconciliation](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-API-reconciliation) (temporary)
+- [MDS Reconciliation](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-API-reconciliation) (retired)
 
 ## Projects
 
 - [Mobility Data Specification](https://github.com/openmobilityfoundation/mobility-data-specification)
-- [MDS Core](https://github.com/openmobilityfoundation/mds-core)
-- [MDS Compliance Mobile](https://github.com/openmobilityfoundation/mds-compliance-mobile)
+- [MDS Core](https://github.com/openmobilityfoundation/mds-core) (contributed)
+- [MDS Compliance Mobile](https://github.com/openmobilityfoundation/mds-compliance-mobile) (contributed)
 
 ## Get Involved
 
@@ -52,13 +53,15 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 ## Documents/Products
 
+- [About MDS](https://www.openmobilityfoundation.org/about-mds/)
 - [Architectural Landscape Document](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-MDS-Architectural-Landscape.pdf) (PDF)
 - [Mobility Data Management State of Practice
-](hhttps://github.com/openmobilityfoundation/privacy-committee/blob/main/mobility-data-state-of-practice.md)
+](https://github.com/openmobilityfoundation/privacy-committee/blob/main/products/state-of-the-practice.md)
 - [MDS Privacy Guide for Cities](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-MDS-Privacy-Guide-for-Cities.pdf)
-- Privacy Principles (coming soon)
 - [Understanding MDS APIs](https://github.com/openmobilityfoundation/governance/blob/main/technical/Understanding-MDS-APIs.md)
 - [Understanding the relationship between GBFS and MDS](https://github.com/openmobilityfoundation/governance/blob/main/technical/GBFS_and_MDS.md)
+- [MDS Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md)
+- [MDS Version Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Version-Guidance.md)
 
 ## Working Group Guidance
 
