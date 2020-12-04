@@ -2,7 +2,7 @@
 
 The Mobility Data Specification offers three primary Application Programming Interfaces (APIs): [`agency`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/provider), [`provider`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/agency), and [`policy`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/policy).
 
-Both the `agency` and `provider` APIs allow agencies to gather data about vehicles and trips from a mobility mervice provider. Although the design of the APIs differ, they allow for similar types of data gathering. A city can adopt one or both of these APIs depending on their goals, tools, and resources.
+Both the `agency` and `provider` APIs allow agencies to gather data about vehicles and trips from a mobility mervice provider. Although the design of the APIs differ, they allow for similar types of data gathering. A city can adopt one or both of these APIs depending on their goals, tools, and resources. See our [Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md) for how to specify endpoint needs in your city policy documents.
 
 |  | **Agency API** | **Provider API** |
 | --- | --- | --- |
@@ -24,4 +24,4 @@ The `policy` API allows agencies to express various types of regulation through 
 | **Data flow** | Provider pulls policy information from an agency | Agency pulls data from a provider |
 | **Key benefits/features** | - Allows agency to publish geography-based regulations (ex: restricted riding/parking areas, vehicle caps, etc.)<br>- Providers can automatically adjust their services/apps as policies change<br>- Removes need to manually communicate policy changes to providers<br>- Works via a static webpage or as a dynamic API |
 | **Drawbacks** | - Some complex policies / rules may not be supported by API<br>- Newest MDS API with limited software tools available to implement<br>- Need to set provider expectations for how/when policies will change |
-| **Who is it for** | - Agencies focused on dynamic or real-time management of right-of-way<br>- Agencies with technical capacity to run a more complex system and store sensitive data | - Agencies that want to streamline the publishing of their regulations<br>- Agencies that want to adapt regulations dynamically (ex: to reflect street closures or special events) |
+| **Who is it for** | - Agencies focused on dynamic or real-time management of right-of-way<br>- Agencies with technical capacity to host and run this API | - Agencies that want to streamline the publishing of their regulations<br>- Agencies that want to adapt regulations dynamically (ex: to reflect street closures or special events) |
