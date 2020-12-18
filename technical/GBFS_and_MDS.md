@@ -32,10 +32,11 @@ There is no plan to fully reconcile GBFS and MDS, but as new features are added 
 
 Chart of items that are significantly divergent between GBFS and MDS’s real-time status endpoints.
 
-|  | **GBFS** - [free_bike_status](https://github.com/NABSA/gbfs/blob/v2.1-RC/gbfs.md#free_bike_statusjson) v2.1rc | **MDS** - [Provider vehicles](https://github.com/openmobilityfoundation/mobility-data-specification/tree/dev/provider#vehicles) v0.4.1 |
+|  | **MDS** - [Provider vehicles](https://github.com/openmobilityfoundation/mobility-data-specification/tree/dev/provider#vehicles) (_v1.0.0_) | **GBFS** - [free_bike_status](https://github.com/NABSA/gbfs/blob/v2.1-RC/gbfs.md#free_bike_statusjson) (_v2.1rc_) |
 | ---- | ---- | ---- |
-| **Identifier** | Randomized ID | Unchanging ID |
-| **Status** | 4 possible types | 12 types/reasons including user/company drop-offs, maintenance, rebalancing. |
-| **Visibility** | Public: visible to all | Private: for internal city management and policy enforcement |
+| **Identifier** | Unchanging vehicle ID | Randomized vehicle IDs |
+| **Vehicle State** | [5 states](https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/general-information.md#vehicle-states) including removed, on trip, outside jurisdiction, or unknown. | 4 combinations via available and disabled states |
+| **Vehicle Event** | [26 events](https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/general-information.md#event-types) including rebalancing, maintenance, off hours, reserved, cancelled trips, comms lost, and low or charged battery | _Not applicable_ |
+| **Visibility** | Private: for internal city management and policy enforcement | Public: visible to all |
 
 For a full chart of all fields with more details, and a link to presentation slides, see this supporting [MDS / GBFS Real-time Status Comparison Document](https://docs.google.com/document/d/13hDgRn5wBPi5M5qN8H6-bbWiSkvvenGlViy0Q0h4sFI/edit#).
