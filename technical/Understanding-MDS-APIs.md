@@ -18,7 +18,7 @@ The `agency` and `provider` APIs were developed in alignment with each other, wi
 
 Public agencies should consider their goals and use cases when selecting software to ingest and analyze MDS data. Some software packages and vendors may only support `agency` or `provider`. Data sharing requirements in permits and regulations should specify which MDS API(s) the public agency intends to use.
 
-# Policy
+## Policy
 
 The `policy` API allows agencies to express various types of regulation through an API and can be used in tandem with `agency` or `provider`.
 
