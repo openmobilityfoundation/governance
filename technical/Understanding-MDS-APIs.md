@@ -4,6 +4,8 @@ The Mobility Data Specification offers three primary Application Programming Int
 
 Both the `agency` and `provider` APIs allow agencies to gather data about vehicles and trips from a mobility mervice provider. Although the design of the APIs differ, they allow for similar types of data gathering. A city can adopt one or both of these APIs depending on their goals, tools, and resources. See our [Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md) for how to specify endpoint needs in your city policy documents.
 
+## Agency and Provider
+
 |  | **Agency API** | **Provider API** |
 | --- | --- | --- |
 |  | <img src="https://i.imgur.com/zYknoRh.png" width="100" align="center" alt="MDS Agency Icon"> | <img src="https://i.imgur.com/Ebm3XzW.png" width="100" align="center" alt="MDS Provider Icon">|
@@ -15,6 +17,8 @@ Both the `agency` and `provider` APIs allow agencies to gather data about vehicl
 The `agency` and `provider` APIs were developed in alignment with each other, with shared terminology and a similar data model. While they will likely stay aligned at a high-level, they are part of an open source development process and it is possible that their features and functionality may diverge further in the future.
 
 Public agencies should consider their goals and use cases when selecting software to ingest and analyze MDS data. Some software packages and vendors may only support `agency` or `provider`. Data sharing requirements in permits and regulations should specify which MDS API(s) the public agency intends to use.
+
+# Policy
 
 The `policy` API allows agencies to express various types of regulation through an API and can be used in tandem with `agency` or `provider`.
 
