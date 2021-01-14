@@ -9,7 +9,7 @@ Both the `agency` and `provider` APIs allow agencies to gather data about vehicl
 |  | **Agency API** | **Provider API** |
 | --- | --- | --- |
 |  | <img src="https://i.imgur.com/zYknoRh.png" width="100" align="center" alt="MDS Agency Icon"> | <img src="https://i.imgur.com/Ebm3XzW.png" width="100" align="center" alt="MDS Provider Icon">|
-| **Data flow** | - Provider pushes data to an agency<br>- Hosted by an agency | Agency pulls data from a provider<br>- Hosted by a provider |
+| **Data flow** | - Provider pushes data to an agency<br>- Hosted by an agency | -Agency pulls data from a provider<br>- Hosted by a provider |
 | **Key benefits/features** | - Designed for real-time data collection<br>- Agency maintains an authoritative database of information reported by all providers<br>- Designed to support real-time analysis and adaptive regulation<br>- Available reference implementation and data auditing / verification tools | - Designed to provide recent historical data and a snapshot of vehicle status<br>- Easier to use<br>- Lower IT complexity<br>- Some historical data is available on request, which may reduce need for agencies to store data<br>- Many available commercial and open source analysis tools |
 | **Drawbacks** | - More complex to implement<br>- Agency must operate or procure IT systems capable of handling real-time API calls<br>- Data only published once, not available for re-ingestion<br>- Agencies must store any data needed for future analysis or reporting<br>- Fewer software vendors currently providing processing solutions | - Harder to scale as datasets get larger<br>- Agency needs to query each provider individually<br>- Availability of all necessary historical data from providers is not guaranteed<br>- Not intended to provide real-time data about events in the right-of-way |
 | **Who is it for** | - Agencies focused on dynamic or real-time management of right-of-way<br>- Agencies with technical capacity to run a more complex system and store sensitive data | - Agencies focused on using historical data for planning or compliance<br>- Agencies with more limited technical capacity or a desire to minimize technical complexity |
@@ -25,7 +25,7 @@ The `policy` API allows agencies to express various types of regulation through 
 |  | **Policy API** |
 | --- | --- |
 | | <img src="https://i.imgur.com/Df2Z7wp.png" width="100" align="center" alt="MDS Policy Icon"> |
-| **Data flow** | - Provider pulls policy information from an agency | Agency pulls data from a provider<br>-Hosted by an agency |
+| **Data flow** | - Provider pulls policy information from an agency<br>- Hosted by an agency |
 | **Key benefits/features** | - Allows agency to publish geography-based regulations (ex: restricted riding/parking areas, vehicle caps, etc.)<br>- Providers can automatically adjust their services/apps as policies change<br>- Removes need to manually communicate policy changes to providers<br>- Works via a static webpage or as a dynamic API |
 | **Drawbacks** | - Some complex policies / rules may not be supported by API<br>- Newer MDS API with limited software tools available to implement<br>- Need to set provider expectations for how/when policies will change |
 | **Who is it for** | - Agencies focused on dynamic or real-time management of right-of-way<br>- Agencies with technical capacity to host and run this API | - Agencies that want to streamline the publishing of their regulations<br>- Agencies that want to adapt regulations dynamically (ex: to reflect street closures or special events) |
