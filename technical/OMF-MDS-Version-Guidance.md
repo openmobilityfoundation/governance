@@ -26,7 +26,7 @@ If you are a city, you can ask or require providers to keep up with the latest M
 
 You should mention MDS directly, which versions are required and when, and how to handle version updates. It’s also a good idea to include a _Service Level Agreement (SLA)_ that defines your requirements around availability and response time for the API endpoints, as is typical with any digital service.  
 
-See our [Policy Language Guidance](TBD) document for sample language.
+See our [Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md) document for sample language.
 
 ## Release Guidance
 
