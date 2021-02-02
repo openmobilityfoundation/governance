@@ -21,6 +21,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - [Public (Governmental) Member Application](https://github.com/openmobilityfoundation/governance/blob/main/documents/2020-01-Public-Member-Application.pdf) (PDF)
 - [Non-Public (Commercial) Member Application](https://github.com/openmobilityfoundation/governance/blob/main/documents/2020-01-OMF-Non-Public-Member-Application.pdf) (PDF) 
 - [Commercial Member Dues](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-2020-2021-Commercial-Member-Dues-FINAL.pdf) (PDF)
+- [Guidelines for Appointed Representatives](https://github.com/openmobilityfoundation/governance/raw/main/documents/2020-12-22%20-%20Guidelines%20for%20Appointed%20Representatives.pdf)
 
 ## Committees and Working Groups
 
