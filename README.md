@@ -60,6 +60,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - [MDS Privacy Guide for Cities](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-MDS-Privacy-Guide-for-Cities.pdf)
 - [Understanding MDS APIs](https://github.com/openmobilityfoundation/governance/blob/main/technical/Understanding-MDS-APIs.md)
 - [Understanding the relationship between GBFS and MDS](https://github.com/openmobilityfoundation/governance/blob/main/technical/GBFS_and_MDS.md)
+- [MDS Vehicles Guide](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Vehicles)
 - [MDS Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md)
 - [MDS Version Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Version-Guidance.md)
 
