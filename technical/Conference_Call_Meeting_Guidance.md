@@ -7,7 +7,7 @@ Running OMF meetings is a bit different than running meetings in other places. T
 ## Preparation
 
 - Discuss topics and options among WGSC members and OMF Staff 3-4 days before the meeting
-- Use the [meeting agenda template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference,-YYYY.MM.DD-(Convening-Group-Name)) to create the agenda for each meeting
+- Use the [meeting agenda template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference-Template) or copy the contents of the previous meeeting to create the agenda
 - Add a link to the agenda on the appropriate WG page under "Meetings"
 - When crafting an agenda, try to focus on a single topic or issue
 - The WG Chair will publish the meeting agenda to the MDS [announce](https://groups.google.com/a/groups.openmobilityfoundation.org/forum/#!forum/mds-announce), [city services](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-city-services), and [provider services](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-provider-services) email lists at least two days before the meeting
