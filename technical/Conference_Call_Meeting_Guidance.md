@@ -1,12 +1,45 @@
 # Conference Call Meeting Guidance 
 
-How to run a meeting:
+These guidelines have been created to ensure a level of consistency across OMF’s various working groups and committees, while increasing engagement of all participants. Part of OMF’s mission is to bring together diverse stakeholders to tackle technical issues surrounding emerging mobility technology. Please note that public meetings are often one of the first touchpoints an individual has with our organization, and we aim to create an inclusive environment. 
 
-* Use the [meeting template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference,-YYYY.MM.DD-(Convening-Group-Name)) off the wiki to create a new meeting agenda.
-* The OMF public calendar is where the meetings are published. Verify the meeting information there is correct. If not contact an OMF staff member.
-* Publish the meeting agenda to the [MDS Announce List](https://groups.google.com/a/groups.openmobilityfoundation.org/forum/#!forum/mds-announce) at least two days before the meeting.
-* At the start of the meeting, ask attendees to rename themselves to put their organization after their full name.
-* Share the link to the wiki agenda in the chat, and ask the attendees to add their names.
-* Ask for one person to takes notes. 
-* After the meeting, the chair and note taker finalizes the notes on the wiki page. Include links to any presentations or documents or a recording.
-* If there are relevant action items for chair or any attendee, add those to the appropriate Issue or PR as a new comment.
+Running OMF meetings is a bit different than running meetings in other places. There is a focus on open source collaborative development, community-driven priorities and feedback, and voluntary participation.
+
+## Preparation
+
+- Discuss topics and options among WGSC members and OMF Staff 3-4 days before the meeting
+- Use the [meeting agenda template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference,-YYYY.MM.DD-(Convening-Group-Name)) to create the agenda for each meeting
+- Add a link to the agenda on the appropriate WG page under "Meetings"
+- When crafting an agenda, try to focus on a single topic or issue
+- The WG Chair will publish the meeting agenda to the MDS [announce](https://groups.google.com/a/groups.openmobilityfoundation.org/forum/#!forum/mds-announce), [city services](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-city-services), and [provider services](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-provider-services) email lists at least two days before the meeting
+   - Send the email from your personal email address, and add all three groups in the "To:" field.
+   - Use previous emails as a template for wording, formatting, subject line, and meeting information
+- Reach out to specific groups or individuals related to the topic being discussed (member and non-member contributors), asking for their attendance and input where it is helpful to evaluating features, making decisions, etc. OMF staff can help with outreach, if needed.
+- The OMF public calendar is where the meetings are published. Verify the meeting information there is correct. If not, please contact OMF staff, who can make edits and set the topic.
+
+## During the Meeting
+
+- Be mindful of the clock. Ensure the meeting starts and ends promptly
+- Recommended schedule: 5 min intro/housekeeping, 25 min policy discussion, 25 min technical, 5 min wrap up. Try to devote an equal amount of time is spent discussing technical vs. non-technical/policy aspects of a topic.
+- At the start of the meeting, provide a short welcome that includes:
+   - Share your screen and show the agenda
+   - Introductions: 
+      - Introduce self - name, company, title, role with OMF
+      - purpose of meeting - regular working group public meeting to discuss issues brought by the steering committee and community
+      - ask if anyone is new and give them a chance to introduce themselves, live or in the chat
+   - Housekeeping: 
+      - ask attendees to rename themselves to put their organization after their 
+      - full name
+         - “Please rename yourself in Zoom with your organization after your name so we can all know who you are representing today.”
+      - Review agenda
+      - Share the link to the wiki agenda in the chat 
+         - “Agenda for today: _link_”
+      - Ask the attendees to add their names to the wiki page
+         - “Please feel free to add your name and organization to the attendee list on the wiki page linked above.”
+      - Ask and ensure someone from the WGSC is taking notes
+- At the end of the meeting, provide a summary of next steps, note about the next meeting, and that feedback is welcome on GitHub until then.
+
+## Follow up
+
+- After the meeting, finalize the notes on the wiki page. Include links to any presentations, documents, issues, pull requests, and/or a recording
+- If there are action items (either for you or an attendee) or summary items, add those to the appropriate issue or PR as a new comment, with a link back to the WG meeting agenda
+- Reply to the original mailing lists and say the meeting minutes are ready for review with a direct link to that section, and provide a short summary.
