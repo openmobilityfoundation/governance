@@ -18,3 +18,10 @@ How Working Group (WG) leadership is defined and roles within the WGs.  Anyone c
 - **Maintainer** - Have commit privileges in the main MDS repository and are responsible for implementing changes such as merging of pull requests and the creation of release branches.
 - **Reviewer** - Helps review code as new pull requests come in and ensure release is ready for a release.
 - **Contributor** - Helps manage the meetings, working group, issues, tagging and feedback. Anyone making pull requests, opening issues, or engaging in technical discussion around implementation of features.
+
+### Meetings
+
+- **Host** - Runs the meetings, keeps meetings on track, shares agenda and screen to show information. Follows [meeting guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/Conference_Call_Meeting_Guidance.md). Usually the Chair, but could be another member or OMF staff if no WGSC members are available.
+- **Outreach** - Reach out a few days before meetings to specific groups or individuals that their attendance would be helpful. Leave comments with links to the WG meeting on the appropriate Issues and PRs.
+- **Facilitator** - Opens meeting, greets people, kicks things off to the host, facilitates conversation, nudges people if appropriate, monitors the chat for comments and questions and shares with the group, thanks people for coming/participating.
+- **Note Taker** - Take notes during meetings, shares notes with host, chair, and OMF Staff after the meeting. Captures discussions, agreements, disagreements, action items, to do items, followups.
