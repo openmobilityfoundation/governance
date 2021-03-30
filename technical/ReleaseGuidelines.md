@@ -362,6 +362,8 @@ The following steps describe how to make an approved [Release Candidate][prepare
    - Description: copy in Release Notes created earlier
    - This is a pre-release: DO NOT check
 
+1. **Wiki**. Update the [main Wiki page](https://github.com/openmobilityfoundation/governance/wiki) with current release status and the appropriate Release Plan page.
+
 1. **Announce**. Post an announcement to the [MDS-announce Mailing List][mds-announce], copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases]:
 
     ```email
@@ -376,7 +378,7 @@ The following steps describe how to make an approved [Release Candidate][prepare
     [link to GitHub Release]
     ```
 
-1. **Branch**. Finally, choose whether to keep or delete the release branch.
+1. **Branch**. Finally, choose whether to keep or delete the release branch. Keeping allows easy access to browsable spec.
 
 [Top][toc]
 
