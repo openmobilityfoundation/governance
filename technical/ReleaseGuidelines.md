@@ -113,7 +113,7 @@ The Working Group Steering Committees set feature goals for the next release, ba
 
 Contributors submit proposals for inclusion in the release cycle in the form of pull requests and issues tagged. If known, note what release you intended a proposal for in its description. Maintainers will tag appropriate pull requests and issues with the Milestone for the upcoming release. Proposals should come with enough explanation to allow all stakeholders to understand intent and implementation strategy.
 
-#### Weeks 5-13: Implementation and Coding
+#### Weeks 5-13: Implementation and Coding (flexible)
 
 Work will be done by Contributors and reviewed by the community. Contributors will provide feedback on issue proposals, and help with pull requests. Where possible, discussion will happen asynchronously online via GitHub. Weekly calls will support dialog around more complex or controversial issues. Proposals will be in the form of pull requests throughout this timeframe. Administrators will push pull requests to the `dev` branch as consensus is reached, to allow alignment of code and create a cohesive release. Proposals can be withdrawn or split apart for inclusion in future releases.  
 
@@ -155,13 +155,13 @@ Review the final code and help with the creation of the release candidate, inclu
 
 Once a release is finalized by the working groups it will be considered a "Release Candidate" until it has been approved as an official deliverable by the Open Mobility Foundation. The OMF bylaws refer to this as a "Working Group Approved" deliverable.
 
-The process for full OMF approval is detailed in Section 5.4 of the [OMF bylaws][omf-bylaws]. In summary:
+The process for full OMF approval is detailed in Section 5.4 of the [OMF bylaws][omf-bylaws] (revised in 2021). In summary:
 
-1. The release candidate deliverable will be provided to the OMF Technology Council for review and comment at least 75 days prior to the desired date of board approval.
+1. The release candidate deliverable will be provided to the OMF Technology Council for review and comment.
 
 1. The Technology Council will issue a report and/or recommendation for the Board of Directors within 60 days.
 
-1. The Board of Directors will have a minimum of 30 days to review the Technology Council recommendation before taking a vote on the release candidate deliverable.
+1. The Board of Directors will have a minimum of 14 days to review the Technology Council recommendation before taking a vote on the release candidate deliverable.
 
 1. Upon approval by the Board of Directors, the release will become an official "Foundation Deliverable" of the OMF. It will be marked as such in GitHub and on the OMF web site, and it will be merged into the `main` branch on GitHub.
 
