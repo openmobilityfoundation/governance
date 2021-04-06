@@ -15,6 +15,7 @@ Running OMF meetings is a bit different than running meetings in other places. T
    - Use previous emails as a template for wording, formatting, subject line, and meeting information
 - Reach out to specific groups or individuals related to the topic being discussed (member and non-member contributors), asking for their attendance and input where it is helpful to evaluating features, making decisions, etc. OMF staff can help with outreach, if needed.
 - The OMF public calendar is where the meetings are published. Verify the meeting information there is correct. If not, please contact OMF staff, who can make edits and set the topic.
+- Work with your WGSC members to assign [Meeting Roles](https://github.com/openmobilityfoundation/governance/blob/main/technical/Working_Group_Leadership.md#meetings) before the meeting.
 
 ## During the Meeting
 
