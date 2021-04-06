@@ -21,7 +21,7 @@ How Working Group (WG) leadership is defined and roles within the WGs.  Anyone c
 
 ### Meetings
 
-These soft roles for meetings could be done by single or multiple people, and can overlap with the WGSC roles above. 
+These soft roles for meetings could be done by single or multiple people, WGSC members or OMF Staff, and can overlap with the WGSC roles above. 
 
 - **Host** - Runs the meetings, keeps meetings on track, shares agenda and screen to show information. Follows [meeting guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/Conference_Call_Meeting_Guidance.md). Usually the Chair, but could be another member or OMF staff if no WGSC members are available.
 - **Outreach** - Reach out a few days before meetings to specific groups or individuals that their attendance would be helpful. Leave comments with links to the WG meeting on the appropriate Issues and PRs.
