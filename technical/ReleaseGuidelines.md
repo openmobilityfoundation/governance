@@ -139,7 +139,7 @@ There are specific check-in and review points during the release process called 
 
 Review the past release, discuss unresolved features, and set goals for the current release.
 
-#### Checkpoint 2: Midpoint
+#### Checkpoint 2: Midway
 
 Review feature proposals, align current work to goals, and ensure the release features and work is on track. 
 
