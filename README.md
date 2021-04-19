@@ -34,13 +34,14 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 - [MDS Provider Services](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Provider-Services-Working-Group)
 - [MDS City Services](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-City-Services-Working-Group)
-- [MDS Curb](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Curb-Management-Working-Group)
+- [MDS Curb](https://github.com/openmobilityfoundation/curb-data-specification/wiki)
 - [OMF Operations](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Working-Group-Operations-(wg-ops))
 - [MDS Reconciliation](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-API-reconciliation) (retired)
 
 ## Projects
 
 - [Mobility Data Specification](https://github.com/openmobilityfoundation/mobility-data-specification)
+- [Curb Data Specification](https://github.com/openmobilityfoundation/curb-data-specification/)
 - [MDS Core](https://github.com/openmobilityfoundation/mds-core) (contributed)
 - [MDS Compliance Mobile](https://github.com/openmobilityfoundation/mds-compliance-mobile) (contributed)
 
