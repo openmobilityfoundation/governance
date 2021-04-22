@@ -16,27 +16,29 @@ Running OMF meetings is a bit different than running meetings in other places. T
 - Reach out to specific groups or individuals related to the topic being discussed (member and non-member contributors), asking for their attendance and input where it is helpful to evaluating features, making decisions, etc. OMF staff can help with outreach, if needed.
 - The OMF public calendar is where the meetings are published. Verify the meeting information there is correct. If not, please contact OMF staff, who can make edits and set the topic.
 - Work with your WGSC members to assign [Meeting Roles](https://github.com/openmobilityfoundation/governance/blob/main/technical/Working_Group_Leadership.md#meetings) before the meeting.
+- Note the roles and names in the meeting agenda area.
 
 ## During the Meeting
 
-- Be mindful of the clock. Ensure the meeting starts and ends promptly
+- Be mindful of the clock. Ensure the meeting starts and ends promptly.
 - Recommended schedule: 5 min intro/housekeeping, 25 min policy discussion, 25 min technical, 5 min wrap up. Try to devote an equal amount of time is spent discussing technical vs. non-technical/policy aspects of a topic.
 - At the start of the meeting, provide a short welcome that includes:
    - Share your screen and show the agenda
    - Introductions: 
-      - Introduce self - name, company, title, role with OMF
-      - purpose of meeting - regular working group public meeting to discuss issues brought by the steering committee and community
+      - introduce self - name, company, title, role/connection with OMF
+      - state the purpose of meeting - this is a regular working group public meeting to discuss issues brought by the steering committee and community
+      - ask OMF if there is any housekeeping items or announcements to mention
       - ask if anyone is new and give them a chance to introduce themselves, live or in the chat
    - Housekeeping: 
       - ask attendees to rename themselves to put their organization after their 
       - full name
          - “Please rename yourself in Zoom with your organization after your name so we can all know who you are representing today.”
-      - Review agenda
-      - Share the link to the wiki agenda in the chat 
+      - review agenda on your shared screen
+      - share the link to the wiki agenda in the chat 
          - “Agenda for today: _link_”
-      - Ask the attendees to add their names to the wiki page
+      - ask the attendees to add their names to the wiki page
          - “Please feel free to add your name and organization to the attendee list on the wiki page linked above.”
-      - Ask and ensure someone from the WGSC is taking notes
+      - ask and ensure someone from the WGSC is taking notes
 - At the end of the meeting, provide a summary of next steps, note about the next meeting, and that feedback is welcome on GitHub until then.
 
 ## Follow up
