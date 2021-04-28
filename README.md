@@ -49,7 +49,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 - [Code of Conduct](https://github.com/openmobilityfoundation/governance/blob/main/CODE_OF_CONDUCT.md)
 - [Contributor Guidelines](https://github.com/openmobilityfoundation/governance/blob/main/CONTRIBUTING.md)
-- [Announcement Mailing List](https://groups.google.com/a/groups.openmobilityfoundation.org/forum/#!forum/mds-announce)
+- [Announcement Mailing List](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-announce)
 - [Public Meeting Calendar](https://calendar.google.com/calendar/embed?src=openmobilityfoundation.org_g6gsaccjvijnmlhigfpj01ngp0%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 
 ## Documents/Products
