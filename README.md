@@ -64,6 +64,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - [MDS Vehicles Guide](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Vehicles)
 - [MDS Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md)
 - [MDS Version Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Version-Guidance.md)
+- [State of MDS Survery](https://www.openmobilityfoundation.org/state-of-mds-survey-results-2021/) results 2021
 
 ## Working Group Guidance
 
