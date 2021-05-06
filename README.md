@@ -14,7 +14,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 ## Administration
 
-- OMF Structure (TBD doc+image of organization)
+- [OMF Structure](https://www.openmobilityfoundation.org/what-it-means-to-co-create-how-mds-is-developed-as-an-open-standard/)
 - [OMF Overview](https://github.com/openmobilityfoundation/governance/blob/main/documents/OpenMobilityFoundation_Overview.pdf) (PDF)
 - [OMF Bylaws](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-Bylaws-CURRENT.pdf) (PDF)
 - [Core Principles](https://github.com/openmobilityfoundation/governance/blob/main/documents/OpenMobilityFoundation_Principles.pdf) (PDF)
