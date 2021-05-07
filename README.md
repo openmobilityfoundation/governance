@@ -75,15 +75,17 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 ## Events
 
-- [Using Data and Open Standards to Advance Federal Transportation Goals](https://www.eventbrite.com/e/using-data-and-open-standards-to-advance-federal-transportation-goals-tickets-144560479285#) webinar - Mar 2021
-- Intro to the Open Mobility Foundation & Mobility Data Specification webinar - Dec 2020
-- Putting Privacy Principles Into Practice webinar - Nov 2020
-- Using Mobility Data to Solve Pandemic Challenges webinar - Nov 2020
-- MDS 1.0.0 webinar - Sep 2020
-- Common Language Series: Intro to MDS Policy API webinar - Sep 2020
-- [OMF Reconciliation Overview](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-announce/c/6M4TFqlTa-k/m/32855lntAQAJ) webinar - May 2020
-- [Introduction to MDS-Core](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-announce/c/f_5M6o1xK-Y/m/tulGhAl-AAAJ) webinar - Apr 2020
-- CoMotion LA - [Dev Day](https://www.openmobilityfoundation.org/devday-2019/) conference - Nov 2019
+**[Webinars](https://www.eventbrite.com/o/open-mobility-foundation-30978883773) - [Videos](https://www.youtube.com/channel/UC1XYh9Ri_x4stzq2JoI9rcA)**
+
+- [Using Data and Open Standards to Advance Federal Transportation Goals](https://www.eventbrite.com/e/using-data-and-open-standards-to-advance-federal-transportation-goals-tickets-144560479285#) webinar ([video](https://www.youtube.com/watch?v=rB5vFGpoR1M)) - _Mar 2021_
+- [Intro to the Open Mobility Foundation & Mobility Data Specification](https://www.eventbrite.com/e/intro-to-the-open-mobility-foundation-mobility-data-specification-tickets-128297438091?aff=ebdsoporgprofile) webinar ([video](https://www.youtube.com/watch?v=oUDjXvT06jQ)) - _Dec 2020_
+- [Common Language Series: Putting Privacy Principles Into Practice](https://www.eventbrite.com/e/putting-privacy-principles-into-practice-tickets-128575429571?aff=ebdsoporgprofile) webinar - _Nov 2020_
+- [Using Mobility Data to Solve Pandemic Challenges](https://www.eventbrite.com/e/using-mobility-data-to-solve-pandemic-challenges-tickets-126349028345?aff=ebdsoporgprofile) webinar - _Nov 2020_
+- [Common Language Series: Inside MDS 1.0.0](https://www.eventbrite.com/e/inside-mds-100-tickets-119025934775?aff=ebdsoporgprofile) webinar ([video](https://www.youtube.com/watch?v=DF6tH3YT3Lw)) - _Sep 2020_
+- [Common Language Series: Get to Kwow the MDS Policy API](https://www.eventbrite.com/e/get-to-know-the-mds-policy-api-tickets-117711764055?aff=ebdsoporgprofile) webinar ([video](https://www.youtube.com/watch?v=w3k2NZRKoXs)) - _Sep 2020_
+- [OMF Reconciliation Overview](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-announce/c/6M4TFqlTa-k/m/32855lntAQAJ) webinar - _May 2020_
+- [Introduction to MDS-Core](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-announce/c/f_5M6o1xK-Y/m/tulGhAl-AAAJ) webinar - _Apr 2020_
+- CoMotion LA - [Dev Day](https://www.openmobilityfoundation.org/devday-2019/) conference - _Nov 2019_
 
 ## Legal
 
