@@ -85,6 +85,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - [Common Language Series: Get to Kwow the MDS Policy API](https://www.eventbrite.com/e/get-to-know-the-mds-policy-api-tickets-117711764055?aff=ebdsoporgprofile) webinar ([video](https://www.youtube.com/watch?v=w3k2NZRKoXs)) - _Sep 2020_
 - [OMF Reconciliation Overview](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-announce/c/6M4TFqlTa-k/m/32855lntAQAJ) webinar - _May 2020_
 - [Introduction to MDS-Core](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-announce/c/f_5M6o1xK-Y/m/tulGhAl-AAAJ) webinar - _Apr 2020_
+- Planning and Strategy Workshop - Washington DC - _Jan 2020_
 - CoMotion LA - [Dev Day](https://www.openmobilityfoundation.org/devday-2019/) conference - _Nov 2019_
 
 ## Legal
