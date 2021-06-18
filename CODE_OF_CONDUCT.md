@@ -10,4 +10,4 @@ To encourage participation by any and all interested people, we aim to create an
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
-Please review the [OMF's Participation Policies](https://members.openmobilityfoundation.org/wp-content/uploads/2019/06/OMFParticipationPolicies.pdf) for more details.
+Please review the [OMF's Participation Policies](https://github.com/openmobilityfoundation/governance/raw/main/documents/OMFParticipationPolicies.pdf) for more details.
