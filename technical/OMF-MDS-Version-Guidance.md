@@ -24,7 +24,7 @@ Developers can get a sense of the changes even earlier during the release proces
 
 ## Recommended Releases
 
-**The OMF recommends the [last two major versions](https://github.com/openmobilityfoundation/governance/wiki/Releases#supported-mds-releases) and their minor versions to be used by the community.**
+**The OMF recommends the [last two major versions](https://github.com/openmobilityfoundation/governance/wiki/Releases#supported-mds-releases) and their minor versions to be used by the community.** This gives each release over 2 years of use, similar to other open source data standards [[2](#footnotes)].
 
 These releases receive OMF maintenance, online guidance, documentation, issue tracking and resolution, adoption encouragement, and bug fixes/critical updates in the form of [hotfixes](https://github.com/openmobilityfoundation/governance/blob/release-guidelines-1/technical/ReleaseGuidelines.md#hotfix-releases) for these releases. We recognize that a standard is not a standard if everyone is using different versions of it, so we encourage cities and companies to use these current releases and regularly upgrade as newer versions become available.
 
@@ -60,4 +60,5 @@ Each release of MDS has a unique version number. Version numbers are made up of 
 
 Here are some footnotes from the document which are open for [discussion](https://github.com/openmobilityfoundation/mobility-data-specification/discussions).
 
-1. This is just a recommendation by the OMF based on feedback from a few cities and companies. Is this reasonable for cities and companies? Note development work can start 2-3 months before this as the release goes through the final development and approval processes.
+1. This is just a recommendation by the OMF based on feedback from a few cities and companies. Is this reasonable for cities and companies? Note development work can start 2-3 months before this as the release goes through the final development and approval processes. Mobility Data's GBFS has a [3 month upgrade recommendation](https://github.com/NABSA/gbfs/blob/v2.2/gbfs.md#version-endpoints) for both major and minor releases.
+2. Mobility Data's GBFS has a [two year long-term support cycle](https://github.com/NABSA/gbfs/blob/master/README.md#version-release-cycles).
