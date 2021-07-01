@@ -2,7 +2,7 @@
 
 ## Overview
 
-[GBFS (General Bikeshare Feed Specification)](https://github.com/NABSA/gbfs) and [MDS (Mobility Data Specification)](https://github.com/openmobilityfoundation/mobility-data-specification) are two open standards used for expressing information about bikes, scooters, and other shared mobility vehicles operating on public streets. GBFS is intended for public consumption through consumer-facing applications, while MDS is intended for use only by regulators. GBFS is governed by [MobilityData](https://mobilitydata.org) and [NABSA](https://nabsa.net/). MDS is managed by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/). Both are membership organizations which run open processes for developing and evolving their respective specifications.
+[GBFS (General Bikeshare Feed Specification)](https://github.com/NABSA/gbfs) and [MDS (Mobility Data Specification)](https://github.com/openmobilityfoundation/mobility-data-specification) are two open source data standards used for expressing information about bikes, scooters, and other shared mobility vehicles operating on public streets. GBFS is intended for public consumption through consumer-facing applications, while MDS is intended for use only by regulators. GBFS is governed by [MobilityData](https://mobilitydata.org) and [NABSA](https://nabsa.net/). MDS is managed by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/). Both are membership organizations which run open processes for developing and evolving their respective specifications.
 
 ## Comparing GBFS and MDS
 
@@ -16,11 +16,12 @@ While there are similarities between the specifications, they serve different pr
 | **Scope** | Docked, dockless, and hybrid shared mobility vehicles | Dockless mobility vehicles (support for docked and hybrid planned) |
 | **Covered Vehicles** | Vehicles that are currently available for rent or disabled | All vehicles deployed in the public right of way (including unavailable and on-trip) |
 | **Format** | Structured CSV and JSON | Authenticated JSON APIs |
+| **Policy Guidance** | [GBFS and Shared Mobility Data Policy](https://mobilitydata.org/gbfs-and-shared-mobility-data-policy/) | [OMF MDS Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md) |
 | **Governing Organization** | [MobilityData](https://mobilitydata.org) / [NABSA](https://nabsa.net/) | [Open Mobility Foundation](https://www.openmobilityfoundation.org/) | 
 
 ## Data requirements by regulators
 
-More than 100 regulatory agencies around the world require micromobility operators to provide them with data through MDS. However, any operator that fully complies with MDS is, [per the MDS specification](https://github.com/openmobilityfoundation/mobility-data-specification/tree/dev/provider#GBFS), also required to publish a public GBFS feed. This GBFS feed is useful for residents and can be a useful cross reference for MDS data. 
+More than 130 regulatory agencies around the world require micromobility operators to provide them with data through MDS. However, any operator that fully complies with MDS is, [per the MDS specification](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main#gbfs-requirement), also required to publish a public GBFS feed. This GBFS feed is useful for residents and can be a useful cross reference for MDS data. 
 
 Public GBFS feeds can also encourage a competitive ecosystem of mobility service providers. GBFS aids in the discovery of available vehicles and enables the existence of consumer facing aggregator apps which allow users to see all available vehicles across multiple providers. Regulators may increase access to mobility services by requiring a provider to publish a public GBFS feed. 
 
