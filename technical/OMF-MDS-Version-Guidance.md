@@ -61,4 +61,4 @@ Each release of MDS has a unique version number. Version numbers are made up of 
 Here are some footnotes from the document which are open for [discussion](https://github.com/openmobilityfoundation/mobility-data-specification/discussions).
 
 1. This is just a recommendation by the OMF based on feedback from a few cities and companies. Is this reasonable for cities and companies? Note development work can start 2-3 months before this as the release goes through the final development and approval processes. Mobility Data's GBFS has a [3 month upgrade recommendation](https://github.com/NABSA/gbfs/blob/v2.2/gbfs.md#version-endpoints) for both major and minor releases.
-2. Mobility Data's GBFS has a [two year long-term support cycle](https://github.com/NABSA/gbfs/blob/master/README.md#version-release-cycles).
+2. Mobility Data's GBFS has a [two year long-term support cycle](https://github.com/NABSA/gbfs/blob/master/README.md#version-release-cycles).  Also see the full [GBFS and Shared Mobility Data Policy](https://mobilitydata.org/gbfs-and-shared-mobility-data-policy/) guidance document.
