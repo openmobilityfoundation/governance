@@ -62,7 +62,7 @@ And once a release is OMF approved, you can then start talking about more detail
 
 Here are some footnotes from the document which are open for [discussion](https://github.com/openmobilityfoundation/mobility-data-specification/discussions).
 
-1. Note that GBFS does this, with a 3 month adoption recommendation for both major and minor releases: https://github.com/NABSA/gbfs/blob/master/gbfs.md#version-endpoints
+1. Note that GBFS does this, with a 3 month adoption recommendation for both major and minor releases: https://github.com/NABSA/gbfs/blob/master/gbfs.md#version-endpoints. Also see the full [GBFS and Shared Mobility Data Policy](https://mobilitydata.org/gbfs-and-shared-mobility-data-policy/) guidance document.
 2. If cities want to implement Policy, Agency and other specific APIs then they may need to enumerate them here.
 3. Up to the city to provide this time range. Could be 6 months for major releases, and 4 for minor, for example, per the [Version Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Version-Guidance.md).
 4. Note this is technical response time to the API endpoint, not data timestamps. Should response times be enumerated by endpoint based on expected processing time (eg. events are quickly processed and returned, but historic data pulls may take longer)?
