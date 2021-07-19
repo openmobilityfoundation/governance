@@ -134,6 +134,7 @@ There are specific check-in and review points during the release process called 
 - the WGSC to review and manage the release
 - the OMF Strategy and OMF Privacy, Security, and Transparency Committees an opportunity to provide feedback
 - changes to be pushed to `dev` more regularly
+- the WGSC will use the [feature evaluation rubric](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Feature-Evaluation)
 
 #### Checkpoint 1: Plan
 
