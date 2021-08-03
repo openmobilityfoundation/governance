@@ -57,11 +57,9 @@ One implication of this policy is that clients should be prepared to ignore the 
 
 ### Ongoing version support
 
-MDS major releases move relatively quickly with an eye toward stabilization and features, rather than backwards-compatibility.  MDS minor releases will be backwards compatible.
+MDS major releases move the community forward, focusing on spec stabilization and major feature additions, rather than backwards-compatibility.  MDS minor releases will be backwards compatible. We strongly recommend adopting the latest release of MDS into production within 6 months for major releases, and 4 months for minor releases.
 
-MDS will maintain *two concurrent (MAJOR) versions* (e.g. if `0.3.0` were the current version, the `0.2.x` series would continue to receive maintenance in addition to `0.3.x`). *Note prior to MDS 1.0.0 these MAJOR versions were [labeled as MINOR](#versioning), so MDS 1.x.x and 0.4.x are considered the last 2 major versions.*
-
-Maintenance includes documentation, promotion, patching as required, and encouraging adoption of recommended releases by MDS users.
+**The OMF supports MDS releases for 2 years.** Recommended versions are supported and maintained by the OMF and our community – we provide updated guidance and documentation, track issues, and provide bug fixes and critical updates in the form of hotfixes for these versions. Releases that are 2 years or older are deprecated. 
 
 Refer to the list of [Recommended Releases](https://github.com/openmobilityfoundation/governance/wiki/Releases#recommended-mds-releases) to see current releases and more details.
 
@@ -73,21 +71,21 @@ The sections below define the release process itself, including timeline, roles,
 
 ### Project Meetings
 
-* Web conference work sessions will posted to the [MDS-Announce mailing list][mds-announce] and on the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki). Each working group typically meets every two weeks.
+* Web conference work sessions will posted to the [MDS-Announce mailing list][mds-announce], other MDS working group mailing lists, and on the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki). Each working group typically meets every two weeks.
 
 * The meeting organizer can use the [meeting template](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Web-Conference-Template) to prepare for project meetings. Use the [template markup code](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Web-Conference-Template/_edit) to create the next scheduled wiki meeting page before the meeting. Include the how to join the meeting and agenda details. Posting the agenda before the meeting has the added benefit that project contributors can propose agenda items.
 
 ### Goals
 
-* _Fast, regular releases to support rapid evolution of MDS_
+* _Regular releases to support rapid evolution of MDS_
 
 * _Consensus-oriented with clear decision making process when consensus can't be reached_
 
 * _Encourage involvement from all stakeholders, especially public agencies_
 
-* _Frequent stakeholder communication on GitHub, web conference, and in-person_
+* _Frequent stakeholder communication on GitHub, web conference, by email, and in-person_
 
-* _Regular review of release process to ensure it is serving the needs of the community._
+* _Regular review of release process to ensure it is serving the needs of the community_
 
 ### Roles
 
@@ -101,7 +99,7 @@ See the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-speci
 
 ### Schedule
 
-MDS operates on an approximately 14 week release cycle for both major updates (0.x) and patches (0.x.y). In general, major updates (0.x) are expected no more than twice per year.  The release cycle can be shortened or lengthened based on the inclusion of features.  This schedule does not include the OMF [approval process](#approval-by-the-open-mobility-foundation).  There may also be a gap between when a previous release finishes and a new release starts.
+MDS operates on an approximately 14+ week release cycle for both major updates (0.x) and patches (0.x.y). In general, major updates (0.x) are expected no more than twice per year.  The release cycle can be shortened or lengthened based on the inclusion of features.  This schedule does not include the OMF [approval process](#approval-by-the-open-mobility-foundation).  There may also be a gap between when a previous release finishes and a new release starts.
 
 The release cycle is broken down as follows, with some overlap of work:
 
@@ -206,9 +204,9 @@ If a hotfix is required for a prior release (e.g. a hotfix on top of the `0.3.x`
 
 There are two types of short-lived branches, both always branched from `dev`:
 
-* *Feature branches* are for new feature work, which should be submitted as PRs against `dev`, ideally with any merge conflicts already resolved. Rebasing a *Feature branch* onto `dev` before submitting a PR is a great way to avoid lengthy and complicated reviews. Typically a *Feature branch* is created in a fork of the MDS repository.
+* `feature-x` - *Feature branches* are for new feature work, which should be submitted as PRs against `dev`, ideally with any merge conflicts already resolved. Rebasing a *Feature branch* onto `dev` before submitting a PR is a great way to avoid lengthy and complicated reviews. Typically a *Feature branch* is created in a fork of the MDS repository.
 
-* *Release branches* are for preparing a new Release Candidate, and collecting any feedback before making an official release. A *Release branch* should be named like `release-x.y.z` where `x.y.z` is the intended version of the release.
+* `release-x.y.z` - *Release branches* are for preparing a new Release Candidate, and collecting any feedback before making an official release. A *Release branch* should be named like `release-x.y.z` where `x.y.z` is the intended version of the release.
 
 [Top][toc]
 
