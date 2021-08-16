@@ -32,8 +32,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 ### Working Groups
 
-- [MDS Provider Services](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Provider-Services-Working-Group)
-- [MDS City Services](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-City-Services-Working-Group)
+- [MDS WG](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Working-Group)
 - [MDS Curb](https://github.com/openmobilityfoundation/curb-data-specification/wiki)
 - [OMF Operations](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Working-Group-Operations-(wg-ops))
 - [MDS Reconciliation](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-API-reconciliation) (retired)
@@ -77,6 +76,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 **[Webinars](https://www.eventbrite.com/o/open-mobility-foundation-30978883773) - [Videos](https://www.youtube.com/channel/UC1XYh9Ri_x4stzq2JoI9rcA)**
 
+- Equity Series
 - [Using Data and Open Standards to Advance Federal Transportation Goals](https://www.eventbrite.com/e/using-data-and-open-standards-to-advance-federal-transportation-goals-tickets-144560479285#) webinar ([video](https://www.youtube.com/watch?v=rB5vFGpoR1M)) - _Mar 2021_
 - [Intro to the Open Mobility Foundation & Mobility Data Specification](https://www.eventbrite.com/e/intro-to-the-open-mobility-foundation-mobility-data-specification-tickets-128297438091?aff=ebdsoporgprofile) webinar ([video](https://www.youtube.com/watch?v=oUDjXvT06jQ)) - _Dec 2020_
 - [Common Language Series: Putting Privacy Principles Into Practice](https://www.eventbrite.com/e/putting-privacy-principles-into-practice-tickets-128575429571?aff=ebdsoporgprofile) webinar - _Nov 2020_
