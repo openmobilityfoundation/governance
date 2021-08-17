@@ -29,20 +29,19 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - [Technology Council](https://github.com/openmobilityfoundation/governance/wiki/Technology-Council)
 - [Privacy, Security, and Transparency Committee](https://github.com/openmobilityfoundation/privacy-committee)
 - [Strategy Committee](https://github.com/openmobilityfoundation/governance/wiki/Strategy-Committee)
+- Advisory Committee
 
 ### Working Groups
 
-- [MDS WG](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Working-Group)
-- [MDS Curb](https://github.com/openmobilityfoundation/curb-data-specification/wiki)
-- [OMF Operations](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Working-Group-Operations-(wg-ops))
-- [MDS Reconciliation](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-API-reconciliation) (retired)
+- [Mobility Data Specification](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Working-Group) (MDS)
+- [Curb Data Specification](https://github.com/openmobilityfoundation/curb-data-specification/wiki) (CDS)
 
 ## Projects
 
 - [Mobility Data Specification](https://github.com/openmobilityfoundation/mobility-data-specification)
 - [Curb Data Specification](https://github.com/openmobilityfoundation/curb-data-specification/)
-- [MDS Core](https://github.com/openmobilityfoundation/mds-core) (contributed)
-- [MDS Compliance Mobile](https://github.com/openmobilityfoundation/mds-compliance-mobile) (contributed)
+- [MDS Core](https://github.com/openmobilityfoundation/mds-core) (contributed to OMF)
+- [MDS Compliance Mobile](https://github.com/openmobilityfoundation/mds-compliance-mobile) (contributed to OMF)
 
 ## Get Involved
 
