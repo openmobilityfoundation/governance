@@ -27,3 +27,15 @@ These soft roles for meetings could be done by single or multiple people, WGSC m
 - **Outreach** - Reach out a few days before meetings to specific groups or individuals that their attendance would be helpful. Leave comments with links to the WG meeting on the appropriate Issues and PRs.
 - **Facilitator** - Opens meeting, greets people, kicks things off to the host, facilitates conversation, nudges people if appropriate, monitors the chat for comments and questions and shares with the group, thanks people for coming/participating.
 - **Note Taker** - Take notes during meetings, shares notes with host, chair, and OMF Staff after the meeting, or puts the notes directly on the meeting page. Captures discussions, agreements, disagreements, action items, to do items, followups.
+
+## GitHub Permissions
+
+Each WGSC member and chair is allowed permission to triage/label Discussions, Issues, and PRs and edit wiki pages. To do this please:
+
+1. [Create a GitHub account](https://github.com/join) if you don't have one
+1. Modify your GitHub profile to [match our requirements listed here](https://github.com/openmobilityfoundation/governance/blob/main/CONTRIBUTING.md#community-profile) (like a name, org, pic, etc).
+1. Let the OMF Director of Open Source Operations (DoOSO) know when you have done this, and what your GitHub username is.
+1. The DoOSO will then invite you to have 'Write' access on the MDS repo.
+   - You will have to accept the invitation by email or [here](https://github.com/notifications).
+   - This will allow you to edit the wiki pages, tag/categorize/review issues/PRs, and more.
+1. Edit the relevant Working Group wiki page to add a link on your name to your GitHub profile.
