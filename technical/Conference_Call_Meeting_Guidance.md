@@ -36,8 +36,6 @@ Running OMF meetings is a bit different than running meetings in other places. T
       - review agenda on your shared screen
       - share the link to the wiki agenda in the chat 
          - “Agenda for today: _link_”
-      - ask the attendees to add their names to the wiki page
-         - “Please feel free to add your name and organization to the attendee list on the wiki page linked above.”
       - ask and ensure someone from the WGSC is taking notes
 - At the end of the meeting, provide a summary of next steps, note about the next meeting, and that feedback is welcome on GitHub until then.
 
