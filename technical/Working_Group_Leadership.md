@@ -36,6 +36,6 @@ Each WGSC member and chair is allowed permission to triage/label Discussions, Is
 1. Modify your GitHub profile to [match our requirements listed here](https://github.com/openmobilityfoundation/governance/blob/main/CONTRIBUTING.md#community-profile) (like a name, org, pic, etc).
 1. Let the OMF Director of Open Source Operations (DoOSO) know when you have done this, and what your GitHub username is.
 1. The DoOSO will then invite you to have 'Write' access on the MDS repo.
-   - You will have to accept the invitation by email or [here](https://github.com/notifications).
+   - You will have to accept the invitation by email, [here](https://github.com/notifications), [here for MDS](https://github.com/openmobilityfoundation/mobility-data-specification/invitations), or [here for CDS](https://github.com/openmobilityfoundation/curb-data-specification/invitations).
    - This will allow you to edit the wiki pages, tag/categorize/review issues/PRs, and more.
 1. Edit the relevant Working Group wiki page to add a link on your name to your GitHub profile.
