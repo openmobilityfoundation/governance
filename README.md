@@ -76,6 +76,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 **[Webinars](https://www.eventbrite.com/o/open-mobility-foundation-30978883773) - [Videos](https://www.youtube.com/channel/UC1XYh9Ri_x4stzq2JoI9rcA)**
 
 - Equity Series
+  - [Advancing Equity in Transportation: A Data-Driven Approach](https://www.google.com/url?q=https://www.eventbrite.com/x/advancing-equity-in-transportation-a-data-driven-approach-tickets-168181598689&sa=D&source=calendar&ust=1632156748714858&usg=AOvVaw3ex3ZFbJ7GGUsvgNtBl-I9) - _Sep 2021_
 - [Using Data and Open Standards to Advance Federal Transportation Goals](https://www.eventbrite.com/e/using-data-and-open-standards-to-advance-federal-transportation-goals-tickets-144560479285#) webinar ([video](https://www.youtube.com/watch?v=rB5vFGpoR1M)) - _Mar 2021_
 - [Intro to the Open Mobility Foundation & Mobility Data Specification](https://www.eventbrite.com/e/intro-to-the-open-mobility-foundation-mobility-data-specification-tickets-128297438091?aff=ebdsoporgprofile) webinar ([video](https://www.youtube.com/watch?v=oUDjXvT06jQ)) - _Dec 2020_
 - [Common Language Series: Putting Privacy Principles Into Practice](https://www.eventbrite.com/e/putting-privacy-principles-into-practice-tickets-128575429571?aff=ebdsoporgprofile) webinar - _Nov 2020_
