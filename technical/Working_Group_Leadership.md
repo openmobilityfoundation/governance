@@ -1,6 +1,6 @@
 # Working Group Leadership
 
-How Working Group (WG) leadership is defined and roles within the WGs.  Anyone can be a part of a Working Group and participate in calls and code writing and review.
+How Working Group (WG) leadership is defined and roles within the WGs.  Anyone can be a part of a Working Group and participate in calls and code writing and review. See our [Working Group Management](https://github.com/openmobilityfoundation/governance/blob/main/technical/Working_Group_Management.md) document for more day-to-day details.
 
 ## Working Group Steering Committee
 
