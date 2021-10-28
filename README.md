@@ -29,7 +29,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - [Technology Council](https://github.com/openmobilityfoundation/governance/wiki/Technology-Council)
 - [Privacy, Security, and Transparency Committee](https://github.com/openmobilityfoundation/privacy-committee)
 - [Strategy Committee](https://github.com/openmobilityfoundation/governance/wiki/Strategy-Committee)
-- Advisory Committee
+- [Advisory Committee](https://github.com/openmobilityfoundation/governance/wiki/Advisory-Committee)
 
 ### Working Groups
 
