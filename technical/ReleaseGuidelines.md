@@ -18,6 +18,7 @@ MDS will see regular updates and new [releases][mds-releases]. This document des
 * [Branch Mechanics](#branch-mechanics)
   * [Long-lived branches](#long-lived-branches)
   * [Short-lived branches](#short-lived-branches)
+* [Beta Features](#beta-features)
 * [Preparing a Release Candidate][prepare-rc]
   * [Incorporating feedback from OMF review](#incorporating-feedback-from-omf-review)
 * [Making a Release][make-release]
@@ -207,6 +208,14 @@ There are two types of short-lived branches, both always branched from `dev`:
 * `feature-x` - *Feature branches* are for new feature work, which should be submitted as PRs against `dev`, ideally with any merge conflicts already resolved. Rebasing a *Feature branch* onto `dev` before submitting a PR is a great way to avoid lengthy and complicated reviews. Typically a *Feature branch* is created in a fork of the MDS repository.
 
 * `release-x.y.z` - *Release branches* are for preparing a new Release Candidate, and collecting any feedback before making an official release. A *Release branch* should be named like `release-x.y.z` where `x.y.z` is the intended version of the release.
+
+[Top][toc]
+
+## Beta Features
+
+When a new [beta feature](https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/general-information.md#beta-features) is created for a release, make sure to create a new Issue with a '[Feature Name] - Beta [X.X.x] - Feedback' title and a ['beta' label](https://github.com/openmobilityfoundation/mobility-data-specification/issues?q=is%3Aissue+is%3Aopen+label%3Abeta). Update the spec text for the beta feature with 'Beta feature: Yes (as of X.X.x). Leave feedback' with a link to the new feature Issue. 
+
+Once an item is moved out of beta, close its Issue and change the text to say 'Beta feature: No (as of X.X.x)'. 
 
 [Top][toc]
 
