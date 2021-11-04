@@ -363,21 +363,39 @@ The following steps describe how to make an approved [Release Candidate][prepare
 
 1. **Wiki**. Update the [main Wiki page](https://github.com/openmobilityfoundation/governance/wiki) with current release status and the appropriate Release Plan page.
 
-1. **Announce**. Post an announcement to the [MDS-announce Mailing List][mds-announce], copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases]:
+1. **Announce**. Post an announcement to the [MDS-announce Mailing List][mds-announce] and [MDS Working Group]() mailig lists, copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases]:
 
     ```email
-    From:    mds-announce@groups.openmobilityfoundation.org
-    To:      mds-announce@groups.openmobilityfoundation.org
-    Subject: MDS X.Y.Z Released
+    From:    Your Email
+    To:      mds-announce@groups.openmobilityfoundation.org, wg-mds@groups.openmobilityfoundation.org
+    Subject: OMF MDS X.Y.Z Released
+    
+    Hello OMF Community,
 
-    MDS X.Y.Z has been released.
+    The latest MDS 1.1.0 release is now live, after X months of development and review!  The code has been merged today with both the 'dev' and 'main' branches of MDS.
 
-    [release notes]
-
+    The final release notes and detailed changes are here:
     [link to GitHub Release]
+
+    For an easier to read summary, our [blog post] about the release draft describes the main high-level features accurately.
+
+    Thanks go to all the wonderful public and private member volunteers of our Working Group Steering Committee, the Strategy Committee, the Technology Council, the Privacy, Security, and Transparency Committee, and the Board of Directors. And we appreciate the work of the OMF community members, mobility providers, private software companies, supporters, and advisors for helping to make this happen.  It's truly an open, collaborative effort and it couldn't have happened without you.
+
+    The OMF community has been turning our attention to [MDS x.x.x] and we welcome you to join in. 
     ```
 
-1. **Branch**. Finally, choose whether to keep or delete the release branch. Keeping allows easy access to browsable spec.
+1. **Branch**. Finally, keep the release branch and don't delete it. This allows easy access to a browsable spec.
+
+1. **Updates**. Update the appropriate areas of the MDS ecosystem with the new releaase information:
+  - [Wiki Homepage](https://github.com/openmobilityfoundation/mobility-data-specification/wiki) - update releases chart, make new release current, deprecate any 2 year old releases.
+  - [MDS Releases](https://github.com/openmobilityfoundation/governance/wiki/Releases) - update with same content from home page, move release to Older Release page if needed.
+  - Update Release Plan page for this release
+  - Update prior Release Plan page with final release date
+  - Update [MDS Version Guidance](https://www.openmobilityfoundation.org/about-mds/mds-version-guidance/) page with summary and link 
+  - Update [About MDS](https://www.openmobilityfoundation.org/about-mds/) page with new/future release
+  - Create new [Blog Post](https://www.openmobilityfoundation.org/learn/) about the release
+  - Add announcement to monthly newsletter
+  - Add announcement on social media
 
 [Top][toc]
 
