@@ -10,7 +10,7 @@ This is draft document created by the OMF staff with feedback from OMF members a
 
 ## Purpose
 
-This guide is for cities writing MDS into their operating policy and includes sample policy language. 
+This guide is for cities writing MDS into their operating policy, permits, tenders, or RFPs, and includes sample policy language. 
 
 ## Guidance Language
 
@@ -20,7 +20,7 @@ The OMF has created some sample policy language for cities to use, based on exis
 
 ## Policy Guidance
 
-If you are a city and would like to ask a provider to keep up with the latest MDS releases, you can write that into your city’s operating permit/policy language [[1](#footnotes)].  
+If you are a city and would like to ask a provider to keep up with the latest MDS releases, you can write that into your city’s operating permit/policy/tender/RFP language [[1](#footnotes)].  
 
 > **Data Sharing and Specification.** Operators shall be required to provide the City or its designee with accurate and authenticated data on its entire city fleet through documented Application Programming Interfaces (APIs) built to the Mobility Data Specification (MDS) [[link](https://github.com/openmobilityfoundation/mobility-data-specification)] including `Provider, Policy, and/or Agency` [[2](#footnotes)] and future APIs as required by the city. The City will determine which version of MDS [[link](https://github.com/openmobilityfoundation/governance/wiki/Releases)] released by the Open Mobility Foundation (OMF) is required, and the City will have the option to require newly approved versions to be supported `90 days` [[3](#footnotes)] from OMF approval.
 
@@ -28,7 +28,7 @@ If you are a city and would like to ask a provider to keep up with the latest MD
 
 It is recommended that you add language that supports the use of the [Policy Requirements](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/policy#requirement) feature to a) digitally express the endpoints and fields from MDS you need for your use cases and/or b) communicate the parts of MDS you are providing. You can write this into your city’s operating permit/policy language by **adding** the following to the above language:
 
-> The City may opt to use the MDS Requirements feature to specify the version of MDS it requires, and the API endpoints and fields that a) are required to be sent to the City by the Operators, and b) will be provided to the Operators by the City. The City’s requirements file is or will be available at the URL: http://mds.cityname.gov/1.2/requirements [[5](#footnotes)]. The City may update this file at any time and Operators will be expected to conform to any new requirements within a reasonable timeframe thereafter [[6](#footnotes)].
+> The City may opt to use the MDS Requirements feature to specify the version of MDS it requires, and the API endpoints and fields that a) are required to be sent to the City by the Operators, and b) will be provided to the Operators by the City. The City’s requirements file is or will be available at the URL: `http://mds.cityname.gov/1.2/requirements` [[5](#footnotes)]. The City may update this file at any time and Operators will be expected to conform to any new requirements within a reasonable timeframe thereafter [[6](#footnotes)].
 
 ## Service Level Agreement Guidance
 
