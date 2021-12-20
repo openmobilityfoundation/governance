@@ -1,4 +1,4 @@
-# OMF MDS Policy Language Guidance
+# OMF CDS Policy Language Guidance
 
 # DRAFT
 
