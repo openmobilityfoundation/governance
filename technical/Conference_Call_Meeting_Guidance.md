@@ -30,8 +30,7 @@ Running OMF meetings is a bit different than running meetings in other places. T
       - ask OMF if there is any housekeeping items or announcements to mention
       - ask if anyone is new and give them a chance to introduce themselves, live or in the chat
    - Housekeeping: 
-      - ask attendees to rename themselves to put their organization after their 
-      - full name
+      - ask attendees to rename themselves to put their organization after their full name
          - “Please rename yourself in Zoom with your organization after your name so we can all know who you are representing today.”
       - review agenda on your shared screen
       - share the link to the wiki agenda in the chat 
