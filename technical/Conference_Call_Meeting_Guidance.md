@@ -10,7 +10,7 @@ Running OMF meetings is a bit different than running meetings in other places. T
 - Use the [meeting agenda template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference-Template) or copy the contents of the previous meeeting to create the agenda
 - Add a link to the agenda on the appropriate WG page under "Meetings"
 - When crafting an agenda, try to focus on a single topic or issue
-- The WG Chair will publish the meeting agenda to the [MDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds) email list at least two days before the meeting
+- The WG Chair will publish the meeting agenda to the [MDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds) OR [CDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-cds) email list at least two days before the meeting
    - Send the email from your personal email address, and add all three groups in the "To:" field.
    - Use previous emails as a template for wording, formatting, subject line, and meeting information
 - Reach out to specific groups or individuals related to the topic being discussed (member and non-member contributors), asking for their attendance and input where it is helpful to evaluating features, making decisions, etc. OMF staff can help with outreach, if needed.
