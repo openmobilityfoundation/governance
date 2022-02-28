@@ -28,6 +28,12 @@ If you are a city and would like to ask a provider to keep up with the latest CD
 
 > **Data Sharing and Specification.** Operators shall be required to provide the City or its designee with accurate and authenticated data when using a designated curb area through documented Application Programming Interfaces (APIs) built to the Curb Data Specification (CDS) [[link](https://github.com/openmobilityfoundation/curb-data-specification)] [[2](#footnotes)] and future APIs as required by the city. The City will determine which version of CDS [[link](https://github.com/openmobilityfoundation/curb-data-specification/wiki/Releases)] released by the Open Mobility Foundation (OMF) is required, and the City will have the option to require newly approved versions to be supported `90 days` [[2](#footnotes)] from OMF approval.
 
+### Policy Requirements
+
+You may opt to add language that supports the use of the [MDS Policy Requirements](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/policy#requirement) feature to a) digitally express the endpoints and fields from CDS you need for your use cases and/or b) communicate the parts of CDS you are providing. _This MDS file can be used even without adopting any other parts of MDS._ You can write this into your city’s operating permit/policy language by **adding** the following to the above language:
+
+> The City may opt to use the "MDS Requirements" [[link](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/policy#requirement)] feature to specify the version of CDS it requires, and the API endpoints and fields that a) are required to be sent to the City by the Operators, and b) will be provided to the Operators by the City. The City’s requirements file is or will be available at the URL: `http://mds.cityname.gov/1.2/requirements` [[5](#footnotes)]. The City may update this file at any time and Operators will be expected to conform to any new requirements within a reasonable timeframe thereafter [[6](#footnotes)].
+
 ## Service Level Agreement Guidance
 
 As is typical with technology and data agreements, the city should specify a Service Level Agreement (SLA) to establish technical performance expectations and ensure smooth operations.
