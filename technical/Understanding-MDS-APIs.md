@@ -1,6 +1,6 @@
 # Understanding MDS APIs
 
-The Mobility Data Specification offers three primary Application Programming Interfaces (APIs): [`agency`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/provider), [`provider`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/agency), and [`policy`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/policy).
+The Mobility Data Specification offers three primary Application Programming Interfaces (APIs): [`agency`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/agency), [`provider`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/provider), and [`policy`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/policy).
 
 Both the `agency` and `provider` APIs allow agencies to gather data about vehicles and trips from a mobility mervice provider. Although the design of the APIs differ, they allow for similar types of data gathering. A city can adopt one or both of these APIs depending on their goals, tools, and resources. See our [Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md) for how to specify endpoint needs in your city policy documents.
 
@@ -29,3 +29,17 @@ The `policy` API allows agencies to express various types of regulation through 
 | **Key benefits/features** | - Allows agency to publish geography-based regulations (ex: restricted riding/parking areas, vehicle caps, etc.)<br>- Providers can automatically adjust their services/apps as policies change<br>- Removes need to manually communicate policy changes to providers<br>- Works via a static webpage or as a dynamic API |
 | **Drawbacks** | - Some complex policies / rules may not be supported by API<br>- Newer MDS API with limited software tools available to implement<br>- Need to set provider expectations for how/when policies will change |
 | **Who is it for** | - Agencies focused on dynamic or real-time management of right-of-way<br>- Agencies with technical capacity to host and run this API | - Agencies that want to streamline the publishing of their regulations<br>- Agencies that want to adapt regulations dynamically (ex: to reflect street closures or special events) |
+
+## Additional APIs
+
+Three additional APIs support the core MDS APIs:
+- [`geography`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/geography) - Geography API looks at spatial coverage and boundaries that define where the rules set out in
+the Policy API apply or that trigger data logging and reporting in the Agency, Provider and Metrics
+APIs (e.g. a geo-fenced zone where vehicle speeds are reduced or a boundary whose crossing
+initiates logging of vehicle trip characteristics).
+- [`jurisdiction`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/jurisdiction) - Jurisdiction API is used to define and communicate hierarchical or overlapping administrative or
+operational areas associated with specific data access rights. This API also enables co-ordination
+among different agencies.
+- [`metrics`](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/metrics) - Metrics API establishes common methodologies for creating indicators from MDS data. This API
+defines common indicator semantics and ensures that indicators are consistently being calculated. It thus provides the basis for consistent processing and the production of comparable
+outputs raw data on the mobility operator side that can be incorporated into data-reporting mandates. 
