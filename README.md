@@ -70,6 +70,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - [Working Group Leadership](https://github.com/openmobilityfoundation/governance/blob/main/technical/Working_Group_Leadership.md)
 - [Conference Call Meeting Template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference,-YYYY.MM.DD-(Convening-Group-Name))
 - [Conference Call Meeting Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/Conference_Call_Meeting_Guidance.md)
+- [Data Spec Release Guidelines](https://github.com/openmobilityfoundation/governance/blob/main/technical/ReleaseGuidelines.md)
 
 ## Events
 
