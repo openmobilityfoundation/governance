@@ -1,6 +1,6 @@
 # Mobility Data Specification: Policy and Immutible Data
 
-**{DRAFT}**
+**{DRAFT}** - see [previous comments here](https://github.com/openmobilityfoundation/mobility-data-specification/commit/f99c06f8da26e5aaac37fff5d7354a7e6586df25#diff-86e3529ce2d8c57a9592834f86c17e12ea9067724c6785b354f63ddee8fe7991)
 
 The MDS Policy specification contains a note as to how a given Policy is updated:
 
