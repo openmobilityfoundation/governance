@@ -4,9 +4,11 @@
 
 The MDS Policy specification contains a note as to how a given Policy is updated:
 
-"Published policies, like geographies, should be treated as immutable data. Obsoleting or otherwise changing a policy is accomplished by publishing a new policy with a field named `prev_policies`, a list of UUID references to the policy or policies superseded by the new policy."
+_"Published policies, like geographies, should be treated as immutable data. Obsoleting or otherwise changing a policy is accomplished by publishing a new policy with a field named `prev_policies`, a list of UUID references to the policy or policies superseded by the new policy."_
 
-This raises a number of questions about the practical implications of using this immutable data structure.  
+This raises a number of questions about the practical implications of using this immutable data structure. 
+
+## FAQ
 
 **Q:** Why are Policy objects immutable? <br/>
 **A:** Policies may be used by cities for enforcement actions such as fees, fines, and permit suspensions.  An unchangable history of all published policies makes this possible.  Updating a Policy on the fly would potentially be re-writing history.
