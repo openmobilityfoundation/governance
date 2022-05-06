@@ -47,8 +47,20 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 - [Code of Conduct](https://github.com/openmobilityfoundation/governance/blob/main/CODE_OF_CONDUCT.md)
 - [Contributor Guidelines](https://github.com/openmobilityfoundation/governance/blob/main/CONTRIBUTING.md)
-- [Announcement Mailing List](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-announce)
 - [Public Meeting Calendar](https://calendar.google.com/calendar/embed?src=openmobilityfoundation.org_g6gsaccjvijnmlhigfpj01ngp0%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+
+### Mailing Lists
+
+- [Announcement Mailing List](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-announce)
+- [MDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds)
+  - [Task Force - Modes](https://groups.google.com/a/openmobilityfoundation.org/g/wg-tf-modes-architecture)
+  - [Task Force - Policy](https://groups.google.com/a/openmobilityfoundation.org/g/wg-tf-policy-reimagining)
+  - [Task Force - Unification](https://groups.google.com/a/openmobilityfoundation.org/g/wg-tf-unification) 
+- [CDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-cds)
+- Member Networks (OMF Members Only)
+  - Passenger Services
+  - Delivery Robots
+  - Car Share
 
 ## Documents/Products
 
@@ -94,6 +106,5 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 - [License](https://github.com/openmobilityfoundation/governance/blob/main/LICENSE.md)
 - [Disclaimer](https://github.com/openmobilityfoundation/governance/blob/main/DISCLAIMER.md)
-
 
 ![omf-sig-icon-small](https://github.com/openmobilityfoundation/governance/raw/main/images/omf-sig-icon-small.png)
