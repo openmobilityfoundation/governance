@@ -56,7 +56,7 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
   - [Task Force - Modes](https://groups.google.com/a/openmobilityfoundation.org/g/wg-tf-modes-architecture)
   - [Task Force - Policy](https://groups.google.com/a/openmobilityfoundation.org/g/wg-tf-policy-reimagining)
   - [Task Force - Unification](https://groups.google.com/a/openmobilityfoundation.org/g/wg-tf-unification) 
-- [CDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-cds)
+- [CDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-curb)
 - [Privacy, Security, and Transparency Committee](https://groups.google.com/a/openmobilityfoundation.org/g/privcomm)
 - Member Networks (OMF Members Only)
   - Passenger Services
