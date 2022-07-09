@@ -16,6 +16,7 @@ While there are similarities between the specifications, they serve different pr
 | **Scope** | Docked, dockless, and hybrid shared mobility vehicles | Dockless mobility vehicles (support for docked and hybrid planned) |
 | **Covered Vehicles** | Vehicles that are currently available for rent or disabled | All vehicles deployed in the public right of way (including unavailable and on-trip) |
 | **Format** | Structured CSV and JSON | Authenticated JSON APIs |
+| **Usage License** | ? | [Creative Commons Attribution 4.0 International Public License](https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/LICENSE) |
 | **Policy Guidance** | [GBFS and Shared Mobility Data Policy](https://mobilitydata.org/gbfs-and-shared-mobility-data-policy/) | [OMF MDS Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md) |
 | **Governing Organization** | [MobilityData](https://mobilitydata.org) / [NABSA](https://nabsa.net/) | [Open Mobility Foundation](https://www.openmobilityfoundation.org/) | 
 
