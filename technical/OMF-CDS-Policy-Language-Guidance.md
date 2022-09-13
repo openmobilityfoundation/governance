@@ -1,9 +1,5 @@
 # OMF CDS Policy Language Guidance
 
-# DRAFT
-
-THIS IS CURRENTLY A DRAFT DOCUMMENT
-
 ## Notes
 
 This document was created by the Curb Working Group Steering Committee and OMF staff with feedback from OMF members and the community. We are taking feedback, so if you have questions or thoughts about improvements, please leave a comment on our [CDS Discussion Board](https://github.com/openmobilityfoundation/curb-data-specification/discussions), or you can open an [Issue](https://github.com/openmobilityfoundation/governance/issues) or suggest changes with a [Pull Request](https://github.com/openmobilityfoundation/governance/pulls). 
