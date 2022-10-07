@@ -5,7 +5,7 @@ How Working Group (WG) leadership is defined and roles within the WGs.  Anyone c
 ## Working Group Steering Committee
 
 - Each WG is administered by a WG Steering Committee (“WGSC”).
-- WGSC composed of five members.
+- WGSC composed of any number of members.
 - WGSC members serve a one year term.
 - The WGSC members can be an employee or representative of a Member of the Foundation, must be nominated by the member who employs or engages them, and serve subject to the consent of that member.
 - WGSC shall elect one or two chairs from among its members, who serve at the pleasure of the WGSC members. One chair can be required by the WGSC to be a city representative.
