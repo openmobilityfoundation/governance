@@ -116,7 +116,7 @@ Contributors submit proposals for inclusion in the release cycle in the form of 
 
 Work will be done by Contributors and reviewed by the community. Contributors will provide feedback on issue proposals, and help with pull requests. Where possible, discussion will happen asynchronously online via GitHub. Weekly calls will support dialog around more complex or controversial issues. Proposals will be in the form of pull requests throughout this timeframe. Administrators will push pull requests to the `dev` branch as consensus is reached, to allow alignment of code and create a cohesive release. Proposals can be withdrawn or split apart for inclusion in future releases.  
 
-#### Weeks 11-13: Decisions and Concensus
+#### Weeks 11-13: Decisions and Consensus
 
 These weeks include web conference work sessions for all contributors to review and discuss current proposals. The goal is to achieve consensus where possible, or to clearly articulate areas of disagreement where not. Changes may be accepted and pushed to `dev` at this stage if they bring contributors to consensus.
 
@@ -143,7 +143,7 @@ Review the past release, discuss unresolved features, and set goals for the curr
 
 Review feature proposals, align current work to goals, and ensure the release features and work is on track. 
 
-#### Checkpoint 3: Concensus
+#### Checkpoint 3: Consensus
 
 Help decide what is ready for the release, what features should be left out and how, if extra time is needed to finish features, and confirm a targetted release candidate date.
 
