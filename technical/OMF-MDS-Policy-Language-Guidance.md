@@ -28,7 +28,7 @@ If you are a city and would like to ask a provider to keep up with the latest MD
 
 It is recommended that you add language that supports the use of the [Policy Requirements](https://github.com/openmobilityfoundation/mobility-data-specification/tree/main/policy#requirement) feature to a) digitally express the endpoints and fields from MDS you need for your use cases and/or b) communicate the parts of MDS you are providing. You can write this into your city’s operating permit/policy language by **adding** the following to the above language:
 
-> The City may opt to use the MDS Requirements feature to specify the version of MDS it requires, and the API endpoints and fields that a) are required to be sent to the City by the Operators, and b) will be provided to the Operators by the City. The City’s requirements file is or will be available at the URL: `http://mds.cityname.gov/1.2/requirements` [[5](#footnotes)]. The City may update this file at any time and Operators will be expected to conform to any new requirements within a reasonable timeframe thereafter [[6](#footnotes)].
+> The City may opt to use the MDS Requirements feature to specify the version of MDS it requires, and the API endpoints and fields that a) are required to be sent to the City by the Operators, and b) will be provided to the Operators by the City. The City’s requirements file is or will be available at the URL: `http://mds.cityname.gov/2.0/requirements` [[5](#footnotes)]. The City may update this file at any time and Operators will be expected to conform to any new requirements within a reasonable timeframe thereafter [[6](#footnotes)].
 
 ## Service Level Agreement Guidance
 
@@ -50,19 +50,19 @@ This communication helps set expectations and provides multiple months for provi
 
 For example, as a release is being finalized you could email them and say:
 
-> “Version 1.0.0 of MDS will be coming soon, and we’d like to take advantage of its latest features.  Please take a look (`link`) and be ready to upgrade your technology to sandbox test and support it in the coming months.”
+> “Version 2.0.0 of MDS will be coming soon, and we’d like to take advantage of its latest features.  Please take a look (`link`) and be ready to upgrade your technology to sandbox test and support it in the coming months.”
 
 ### Email 2 - Release In Approval
 
 When a release candidate is made, you can follow up with a request like:
 
-> “Version 1.0.0 of MDS has a release candidate ready for approval by the OMF in the next few weeks.  Please review the changes in the release notes (`link`) to understand the scope of sandbox testing within `45 days` and upgrading to this version within `90 days` of approval.”
+> “Version 2.0.0 of MDS has a release candidate ready for approval by the OMF in the next few weeks.  Please review the changes in the release notes (`link`) to understand the scope of sandbox testing within `45 days` and upgrading to this version within `90 days` of approval.”
 
 ### Email 3 - Release Ready
 
 And once a release is OMF approved, you can then start talking about more details like:
 
-> “Version 1.0.0 of MDS has been approved by the OMF and is ready for adoption. See the release notes and code (`link`) to review all the changes and improvements. Please have it ready for testing in a sandbox environment within `45 days (August 15, 2020)` and in full production within 90 days `(September 30, 2020)`.”
+> “Version 2.0.0 of MDS has been approved by the OMF and is ready for adoption. See the release notes and code (`link`) to review all the changes and improvements. Please have it ready for testing in a sandbox environment within `45 days (August 15, 2020)` and in full production within 90 days `(September 30, 2020)`.”
 
 ## Footnotes 
 
