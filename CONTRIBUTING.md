@@ -1,6 +1,6 @@
 # MDS Contributor Guidelines
 
-The Open Mobility Foundation is a free and open-source software foundation that manages the Mobility Data Specification (MDS).  These guidelines will help you understand how to to contribute and what is involoved.
+The Open Mobility Foundation is a free and open-source software foundation that manages the Mobility Data Specification (MDS).  These guidelines will help you understand how to to contribute and what is involved.
 
 ## Who can contribute
 
