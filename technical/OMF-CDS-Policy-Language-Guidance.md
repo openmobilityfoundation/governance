@@ -30,14 +30,14 @@ The OMF has created some sample policy language for public agencies to use. This
 
 ## RFP Guidance
 
-If you are a public agency and have are looking for procurement with an RFP, RFI, RFQ, tender, etc to find a vendor for your project, you may specify CDS as part of your scoring system.  
+If you are a public agency and are looking for procurement with an RFP, RFI, RFQ, tender, etc to find a vendor for your project, you may specify CDS as part of your scoring system.  
 
 > **Requirements**
 > - Describe how your firm will provide the City and its partners with efficient access to accurate, high-quality, complete and regularly updated data through APIs that comply with the most current versions of leading data specifications, including but not limited to the Curb Data Specification (CDS).
 > - Describe how your firm is investing in the ongoing maintenance and upgrading its data systems to comply with the most current versions of the Curb Data Specification (CDS), including any planned timelines for system upgrades.
-> - Describe how your firm is participating in open-source forums to advance development and adoption of mobility data standards, including but not limited to the Open Mobility Foundation.
+> - Describe how your firm is participating in open-source forums to advance the development and adoption of mobility data standards, including but not limited to the Open Mobility Foundation.
 > - Describe how your firm is capable of regularly ingesting data via the CDS Curbs API to integrate that data into your operational practices and digitally track performance and compliance with local regulations, if you intend to operate vehicles in the program's curb zones.
-> - Describe how your firm intends to work with the open source community of public agencies and vendors and continute to help develop the CDS standard now and in the future.
+> - Describe how your firm intends to work with the open source community of public agencies and vendors and continue to help develop the CDS standard now and in the future.
 >   
 > **Selection Criteria**
 > - Membership in the Open Mobility Foundation (OMF) [[link](https://www.openmobilityfoundation.org)] - 5 points
@@ -45,7 +45,7 @@ If you are a public agency and have are looking for procurement with an RFP, RFI
 > - The applicant shall provide details from 1 to 2 entities they have successfully deployed CDS Curbs, Events, and/or Metrics for. - 5 points
 >
 > **Deliverables**
-> - Stand up a public facing Curbs API data feed
+> - Stand up a public-facing Curbs API data feed
 > - Host the Curbs API data feed throughout the duration of the contract
 
 ## Policy Guidance
@@ -64,7 +64,7 @@ You may opt to add language that supports the use of the [MDS Policy Requirement
 
 If you are a public agency and have an upcoming annual contract renewal coming up, you may specify CDS as part of a requirement for renewal.  
 
-> **Contract Renewal.** As part of our annual contract renewal, we now require the use of the Curb Data Specification (CDS) [[link](https://github.com/openmobilityfoundation/curb-data-specification)] to present curb locations and policies to the city and the public using the Curbs API, and the use of the Events API when outputing data on each curb or parking transaction, activity, or event.
+> **Contract Renewal.** As part of our annual contract renewal, we now require the use of the Curb Data Specification (CDS) [[link](https://github.com/openmobilityfoundation/curb-data-specification)] to present curb locations and policies to the city and the public using the Curbs API, and the use of the Events API when outputting data on each curb or parking transaction, activity, or event.
 
 ## Service Level Agreement Guidance
 
@@ -78,7 +78,7 @@ Note the Response Time here is how long it takes the API to return data, not the
 
 ## Showcase
 
-A showcase of documents from public agenices are including CDS in their procurement and permits.
+A showcase of documents from public agencies are including CDS in their procurement and permits.
 
 - [Seattle](TBD)
 - [Philaelphia](TBD)
@@ -110,7 +110,7 @@ And once a release is OMF approved, you can then start talking about more detail
 
 ## Footnotes 
 
-Here are some footnotes from the document which are open for [discussion](https://github.com/openmobilityfoundation/mobility-data-specification/discussions).
+Here are some footnotes from the document that are open for [discussion](https://github.com/openmobilityfoundation/mobility-data-specification/discussions).
 
 1. Note that MDS has similar guidance which you can read in our [MDS Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md). GBFS has a similar [3 month adoption recommendation](https://github.com/NABSA/gbfs/blob/master/gbfs.md#version-endpoints) for both major and minor releases, outlined in their [GBFS and Shared Mobility Data Policy](https://mobilitydata.org/gbfs-and-shared-mobility-data-policy/) guidance document.
 2. Up to the public agency to provide this time range. Could be 6 months for major releases, and 4 for minor, for example, per the [Version Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Version-Guidance.md).
