@@ -9,10 +9,12 @@
 - [Service Level Agreement Guidance](#service-level-agreement-guidance)
 - [Showcase](#showcase)
 - [Release Guidance](#release-guidance)
+- [Feedback](#feedback)
+- [Footnotes](#footnotes)
     
 ## Notes
 
-This document was created by the Curb Working Group Steering Committee and OMF staff with feedback from OMF members and the community. We are taking feedback, so if you have questions or thoughts about improvements, please leave a comment on our [CDS Discussion Board](https://github.com/openmobilityfoundation/curb-data-specification/discussions), or you can open an [Issue](https://github.com/openmobilityfoundation/governance/issues) or suggest changes with a [Pull Request](https://github.com/openmobilityfoundation/governance/pulls). 
+This document was created by the Curb Working Group Steering Committee and OMF staff with feedback from OMF members and the community. We are taking feedback, so if you have questions or thoughts about improvements, please leave a comment on our [Discussion Board]([https://github.com/openmobilityfoundation/curb-data-specification/discussions](https://github.com/openmobilityfoundation/curb-data-specification/discussions/137)), or you can open an [Issue](https://github.com/openmobilityfoundation/governance/issues) or suggest changes with a [Pull Request](https://github.com/openmobilityfoundation/governance/pulls). 
 
 ### Complimentary Documents
 
@@ -108,9 +110,13 @@ And once a release is OMF approved, you can then start talking about more detail
 
 > “Version 2.0.0 of CDS has been approved by the OMF and is ready for adoption. See the release notes and code (`link`) to review all the changes and improvements. Please have it ready for testing in a sandbox environment within `45 days (August 15, 2022)` and in full production within 90 days `(September 30, 2022)`.”
 
+## Feedback
+
+Everyting in this document is open for [discussion](https://github.com/openmobilityfoundation/curb-data-specification/discussions/137). You may also upload your documents and examples for the Showcase in this same dicussion area, or [contact the OMF](https://www.openmobilityfoundation.org/get-in-touch/).
+
 ## Footnotes 
 
-Here are some footnotes from the document that are open for [discussion](https://github.com/openmobilityfoundation/mobility-data-specification/discussions).
+Here are some footnotes from the above document.
 
 1. Note that MDS has similar guidance which you can read in our [MDS Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md). GBFS has a similar [3 month adoption recommendation](https://github.com/NABSA/gbfs/blob/master/gbfs.md#version-endpoints) for both major and minor releases, outlined in their [GBFS and Shared Mobility Data Policy](https://mobilitydata.org/gbfs-and-shared-mobility-data-policy/) guidance document.
 2. Up to the public agency to provide this time range. Could be 6 months for major releases, and 4 for minor, for example, per the [Version Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Version-Guidance.md).
