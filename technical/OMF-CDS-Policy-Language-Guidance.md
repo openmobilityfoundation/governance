@@ -80,11 +80,11 @@ Note the Response Time here is how long it takes the API to return data, not the
 
 ## Showcase
 
-A showcase of documents from public agencies are including CDS in their procurement and permits.
+A showcase of documents from public agencies that mention CDS in their procurement and permits.
 
-- [Seattle](TBD)
-- [Philaelphia](TBD)
-- ...
+- [West Hollywood]([TBD](https://drive.google.com/file/d/1kvFJv3rGi6iFh2wN_LFPIQpZrjkugB24/view?usp=drive_link)) (asks about OMF standards)
+- [Philaelphia](https://drive.google.com/file/d/1QGuqMO5jO5tSy9I7VcwnKhrGuo13kjcU/view?usp=drive_link) (recommends CDS)
+- [Los Angeles](https://drive.google.com/file/d/1Q0I45PPjqK05rXu7yf8GIRrw3wranE9a/view?usp=drive_link) (requires CDS)
 
 ## Release Guidance
 
