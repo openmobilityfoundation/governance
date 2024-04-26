@@ -2,7 +2,7 @@
 
 ## Overview
 
-[GBFS (General Bikeshare Feed Specification)](https://github.com/NABSA/gbfs) and [MDS (Mobility Data Specification)](https://github.com/openmobilityfoundation/mobility-data-specification) are two open source data standards used for expressing information about bikes, scooters, and other shared mobility vehicles operating on public streets. GBFS is intended for public consumption through consumer-facing applications, while MDS is intended for use only by regulators. GBFS is governed by [MobilityData](https://mobilitydata.org) and [NABSA](https://nabsa.net/). MDS is managed by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/). Both are membership organizations which run open processes for developing and evolving their respective specifications.
+[GBFS (General Bikeshare Feed Specification)](https://github.com/MobilityData/gbfs) and [MDS (Mobility Data Specification)](https://github.com/openmobilityfoundation/mobility-data-specification) are two open source data standards used for expressing information about bikes, scooters, and other shared mobility vehicles operating on public streets. GBFS is intended for public consumption through consumer-facing applications, while MDS is intended for use only by regulators. GBFS is managed by [MobilityData](https://mobilitydata.org). MDS is managed by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/). Both are membership organizations which run open processes for developing and evolving their respective specifications.
 
 ## Comparing GBFS and MDS
 
@@ -16,9 +16,9 @@ While there are similarities between the specifications, they serve different pr
 | **Scope** | Docked, dockless, and hybrid shared mobility vehicles | Dockless mobility vehicles (support for docked and hybrid planned) |
 | **Covered Vehicles** | Vehicles that are currently available for rent or disabled | All vehicles deployed in the public right of way (including unavailable and on-trip) |
 | **Format** | Structured CSV and JSON | Authenticated JSON APIs |
-| **Usage License** | [Creative Commons Attribution 3.0 License](https://github.com/NABSA/gbfs/blob/master/gbfs.md#license) | [Creative Commons Attribution 4.0 International Public License](https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/LICENSE) |
+| **Usage License** | [Creative Commons Attribution 3.0 License](https://github.com/MobilityData/gbfs/blob/master/gbfs.md#license) | [Creative Commons Attribution 4.0 International Public License](https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/LICENSE) |
 | **Policy Guidance** | [GBFS and Shared Mobility Data Policy](https://mobilitydata.org/gbfs-and-shared-mobility-data-policy/) | [OMF MDS Policy Language Guidance](https://github.com/openmobilityfoundation/governance/blob/main/technical/OMF-MDS-Policy-Language-Guidance.md) |
-| **Governing Organization** | [MobilityData](https://mobilitydata.org) / [NABSA](https://nabsa.net/) | [Open Mobility Foundation](https://www.openmobilityfoundation.org/) | 
+| **Governing Organization** | [MobilityData](https://mobilitydata.org) | [Open Mobility Foundation](https://www.openmobilityfoundation.org/) | 
 
 ## Data requirements by regulators
 
@@ -40,11 +40,11 @@ There is no plan to fully reconcile GBFS and MDS, but as new features are added 
 
 Chart of items that are significantly divergent between GBFS and MDS’s real-time status endpoints.
 
-|  | **MDS** - [Provider vehicles](https://github.com/openmobilityfoundation/mobility-data-specification/tree/dev/provider#vehicles) (_v1.0.0_) | **GBFS** - [free_bike_status](https://github.com/NABSA/gbfs/blob/v2.1-RC/gbfs.md#free_bike_statusjson) (_v2.1rc_) |
-| ---- | ---- | ---- |
-| **Identifier** | Unchanging vehicle ID | Randomized vehicle IDs |
-| **Vehicle State** | [5 states](https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/general-information.md#vehicle-states) including removed, on trip, outside jurisdiction, or unknown. | 4 combinations via available and disabled states |
-| **Vehicle Event** | [26 events](https://github.com/openmobilityfoundation/mobility-data-specification/blob/main/general-information.md#event-types) including rebalancing, maintenance, off hours, reserved, cancelled trips, comms lost, and low or charged battery | _Not applicable_ |
-| **Visibility** | Private: for internal city management and policy enforcement | Public: visible to all |
+|  | **GBFS** <br />[free_bike_status](https://github.com/MobilityData/gbfs/blob/v2.3/gbfs.md#free_bike_statusjson) (_v2.3_) [vehicle_status](https://github.com/MobilityData/gbfs/blob/v3.0/gbfs.md#vehicle_statusjson) (_v3.0_) | **MDS** <br /> [Provider vehicles](https://github.com/openmobilityfoundation/mobility-data-specification/tree/1.2.0/provider#vehicles) (_v1.2.0_) | **MDS** <br /> [Provider vehicles](https://github.com/openmobilityfoundation/mobility-data-specification/tree/2.0.1/provider#vehicles) (_v2.0.0_) |
+| ---- | ----- | ---- | ---- |
+| **Identifier** | Randomized vehicle IDs  | Unchanging vehicle ID | Unchanging vehicle ID  |
+| **Vehicle State** | 3 states: available, reserved, disabled  | [7 states](https://github.com/openmobilityfoundation/mobility-data-specification/blob/1.2.0/general-information.md#vehicle-states) including removed, on trip, outside jurisdiction, or unknown. | [9 states](https://github.com/openmobilityfoundation/mobility-data-specification/blob/2.0.1/modes/vehicle_states.md) including removed, on trip, outside jurisdiction, or unknown.  |
+| **Vehicle Event** | _Not applicable_ | [26 event types](https://github.com/openmobilityfoundation/mobility-data-specification/blob/1.2.0/general-information.md#event-types) including rebalancing, maintenance, off hours, reserved, cancelled trips, comms lost, and low or charged battery |  [47 event types](https://github.com/openmobilityfoundation/mobility-data-specification/blob/2.0.1/modes/event_types.md) including rebalancing, maintenance, off hours, reserved, cancelled trips, comms lost, and low or charged battery |
+| **Visibility** | Public: visible to all | Private: for internal city management and policy enforcement | Private: for internal city management and policy enforcement |
 
 For a full chart of all fields with more details, and a link to presentation slides, see this supporting [MDS / GBFS Real-time Status Comparison Document](https://docs.google.com/document/d/13hDgRn5wBPi5M5qN8H6-bbWiSkvvenGlViy0Q0h4sFI/edit#). Regulators can also read the OMF [MDS Vehicles Guide](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/MDS-Vehicles) for differences and use cases.  
