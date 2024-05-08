@@ -14,7 +14,9 @@
     
 ## Notes
 
-This document was created by the Curb Working Group Steering Committee and OMF staff with feedback from OMF members and the community. We are taking feedback, so if you have questions or thoughts about improvements, please leave a comment on our [Discussion Board]([https://github.com/openmobilityfoundation/curb-data-specification/discussions](https://github.com/openmobilityfoundation/curb-data-specification/discussions/137)), or you can open an [Issue](https://github.com/openmobilityfoundation/governance/issues) or suggest changes with a [Pull Request](https://github.com/openmobilityfoundation/governance/pulls). 
+**RFP, Permit, and Contract Renewal Language**
+
+This document was created by the Curb Working Group Steering Committee and OMF staff with feedback from OMF members and the community. We are taking feedback, so if you have questions or thoughts about improvements, please leave a comment on our [Discussion Board](https://github.com/openmobilityfoundation/curb-data-specification/discussions/137), or you can open an [Issue](https://github.com/openmobilityfoundation/governance/issues) or suggest changes with a [Pull Request](https://github.com/openmobilityfoundation/governance/pulls). 
 
 ### Complimentary Documents
 
