@@ -40,8 +40,6 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 - [Mobility Data Specification](https://github.com/openmobilityfoundation/mobility-data-specification)
 - [Curb Data Specification](https://github.com/openmobilityfoundation/curb-data-specification/)
-- [MDS Core](https://github.com/openmobilityfoundation/mds-core) (contributed to OMF)
-- [MDS Compliance Mobile](https://github.com/openmobilityfoundation/mds-compliance-mobile) (contributed to OMF)
 
 ## Get Involved
 
@@ -53,15 +51,13 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 
 - [Announcement Mailing List](https://groups.google.com/a/groups.openmobilityfoundation.org/g/mds-announce)
 - [MDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds)
-  - [Task Force - Modes](https://groups.google.com/a/openmobilityfoundation.org/g/wg-tf-modes-architecture)
-  - [Task Force - Policy](https://groups.google.com/a/openmobilityfoundation.org/g/wg-tf-policy-reimagining)
-  - [Task Force - Unification](https://groups.google.com/a/openmobilityfoundation.org/g/wg-tf-unification) 
-- [CDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-curb)
+- [Curb Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-curb)
 - [Privacy, Security, and Transparency Committee](https://groups.google.com/a/openmobilityfoundation.org/g/privcomm)
 - Member Networks (OMF Members Only)
   - Passenger Services
   - Delivery Robots
   - Car Share
+  - MDS Upgrade Cohort
 
 ## Documents/Products
 
