@@ -1,8 +1,22 @@
 # OMF MDS Policy Language Guidance
 
+## Table of Contents
+
+- [Purpose](#purpose)
+- [RFP Guidance](#rfp-guidance)
+- [Policy Guidance](#policy-guidance)
+- [Contract Renewal Guidance](#contract-renewal-guidance)
+- [Service Level Agreement Guidance](#service-level-agreement-guidance)
+- [Showcase](#showcase)
+- [Release Guidance](#release-guidance)
+- [Feedback](#feedback)
+- [Footnotes](#footnotes)
+
 ## Notes
 
-This is draft document created by the OMF staff with feedback from OMF members and the community. We are taking feedback, so if you have questions or thoughts about improvements, please leave a comment on our [MDS Discussion Board](https://github.com/openmobilityfoundation/mobility-data-specification/discussions), or you can open an [Issue](https://github.com/openmobilityfoundation/governance/issues) or suggest changes with a [Pull Request](https://github.com/openmobilityfoundation/governance/pulls). 
+**RFP, Permit, and Contract Renewal Language**
+
+This document was created by the MDS Working Group Steering Committee and OMF staff with feedback from OMF members and the community. We are taking feedback, so if you have questions or thoughts about improvements, please leave a comment on our [MDS Discussion Board](https://github.com/openmobilityfoundation/mobility-data-specification/discussions), or you can open an [Issue](https://github.com/openmobilityfoundation/governance/issues) or suggest changes with a [Pull Request](https://github.com/openmobilityfoundation/governance/pulls). 
 
 ### Complimentary Documents
 
@@ -18,6 +32,27 @@ The OMF has created some sample policy language for cities to use, based on exis
 
 **Within the sample language, `highlights` denote optional or customizable language by the city.**
 
+## RFP Guidance
+
+If you are a public agency and are looking for procurement with an RFP, RFI, RFQ, tender, etc to find a vendor for your project, you may specify MDS as part of your scoring system.  
+
+> **Requirements**
+> - Describe how your firm will provide the City and its partners with efficient access to accurate, high-quality, complete and regularly updated data through APIs that comply with the most current versions of leading data specifications, including but not limited to the Mobility Data Specification (MDS).
+> - Describe how your firm is investing in the ongoing maintenance and upgrading its data systems to comply with the most current versions of the Mobility Data Specification (MDS), including any planned timelines for system upgrades.
+> - Describe how your firm is participating in open-source forums to advance the development and adoption of mobility data standards, including but not limited to the Open Mobility Foundation.
+> - Describe how your firm is capable of regularly ingesting data via the MDS Policy API to integrate that data into your operational practices and digitally track performance and compliance with local regulations, if you intend to operate vehicles in the City's right of way or for customer hire.
+> - Describe how your firm intends to work with the open source community of public agencies and vendors and continue to help develop the MDS standard now and in the future.
+>   
+> **Selection Criteria**
+> - Membership in the Open Mobility Foundation (OMF) [[link](https://www.openmobilityfoundation.org)] - 5 points
+> - Experience building applications with the Mobility Data Specification (MDS) [[link](https://github.com/openmobilityfoundation/mobility-data-specification)] - 10 points
+> - The applicant shall provide details from 1 to 2 entities they have successfully deployed MDS Provider/Agency for, or consumed MDS Policy. - 5 points
+>
+> **Deliverables**
+> - Stand up a city-facing authenticated MDS Provider or Agency data feed
+> - Consume and utilize in operations the City's MDS Policy data feed
+> - Host and consume the MDS data feeds throughout the duration of the contract
+
 ## Policy Guidance
 
 If you are a city and would like to ask a provider to keep up with the latest MDS releases, you can write that into your city’s operating permit/policy/tender/RFP language [[1](#footnotes)].  
@@ -30,6 +65,12 @@ It is recommended that you add language that supports the use of the [Policy Req
 
 > The City may opt to use the MDS Requirements feature to specify the version of MDS it requires, and the API endpoints and fields that a) are required to be sent to the City by the Operators, and b) will be provided to the Operators by the City. The City’s requirements file is or will be available at the URL: `http://mds.cityname.gov/2.0/requirements` [[5](#footnotes)]. The City may update this file at any time and Operators will be expected to conform to any new requirements within a reasonable timeframe thereafter [[6](#footnotes)].
 
+## Contract Renewal Guidance
+
+If you are a public agency and have an upcoming annual contract renewal coming up, you may specify MDS as part of a requirement for renewal.  
+
+> **Contract Renewal.** As part of our annual contract renewal, we now require the use of the Mobility Data Specification (MDS) [[link](https://github.com/openmobilityfoundation/mobility-data-specification)] to present vehicle locations and operations to the city using the MDS Provider or Agency APIs, and the use of the MDS Policy API when determining operating rules, regulations, and geofencing.
+
 ## Service Level Agreement Guidance
 
 As is typical with technology and data agreements, the city should specify a Service Level Agreement (SLA) to establish technical performance expectations and ensure smooth operations.
@@ -39,6 +80,12 @@ As is typical with technology and data agreements, the city should specify a Ser
 > - Response Time [[4](#footnotes)]: `85%` of TCP API replies within `1.5 seconds`, and `99.5%` of TCP replies within `4 seconds` of receiving a request over the course of a month.
 
 Note the Response Time here is how long it takes the API to return data, not the latency of the timestamps within the data itself. 
+
+## Showcase
+
+A showcase of documents from public agencies that mention MDS in their procurement and permits.
+
+- [Los Angeles](https://drive.google.com/file/d/1MOYQa4s9TZhiL8VFhhIkaNEM6Js0Veq0/view?usp=drive_link) 
 
 ## Release Guidance
 
