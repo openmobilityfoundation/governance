@@ -6,22 +6,26 @@ Running OMF meetings is a bit different than running meetings in other places. T
 
 ## Preparation
 
-- Discuss topics and options among WGSC members and OMF Staff 3-4 days before the meeting
+- Discuss topics and options among WGSC members and OMF Staff 1-2 weeks before the meeting, during the planning call and by email
+- Use the planning document to capture ideas, discussions, and decisions during the planning call
+   - Ask for and document a note taker for the working group meeting
 - Use the [meeting agenda template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference-Template) or copy the contents of the previous meeeting to create the agenda
-- Add a link to the agenda on the appropriate WG page under "Meetings"
+- Add a link to the agenda on the appropriate WG wiki page under "Meetings"
 - When crafting an agenda, try to focus on a single topic or issue
-- The WG Chair will publish the meeting agenda to the [MDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds) OR [CDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-cds) email list at least two days before the meeting
-   - Send the email from your personal email address, and add all three groups in the "To:" field.
+- The WG Chair will publish the meeting agenda to the [MDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds) OR [CDS Working Group](https://groups.google.com/a/openmobilityfoundation.org/g/wg-cds) email list at least two days (preferably 4-6 days) before the meeting
+   - Send the email from your personal email address, and add all the WG email in the "To:" field.
    - Use previous emails as a template for wording, formatting, subject line, and meeting information
 - Reach out to specific groups or individuals related to the topic being discussed (member and non-member contributors), asking for their attendance and input where it is helpful to evaluating features, making decisions, etc. OMF staff can help with outreach, if needed.
 - The OMF public calendar is where the meetings are published. Verify the meeting information there is correct. If not, please contact OMF staff, who can make edits and set the topic.
+   - Edit the public calendar event to include the meeting agenda and link to agenda page. Use prior meeting details as a template.
 - Work with your WGSC members to assign [Meeting Roles](https://github.com/openmobilityfoundation/governance/blob/main/technical/Working_Group_Leadership.md#meetings) before the meeting.
 - Note the roles and names in the meeting agenda area.
 
 ## During the Meeting
 
 - Be mindful of the clock. Ensure the meeting starts and ends promptly.
-- Recommended schedule: 5 min intro/housekeeping, 25 min policy discussion, 25 min technical, 5 min wrap up. Try to devote an equal amount of time is spent discussing technical vs. non-technical/policy aspects of a topic.
+- Make sure to start the Zoom Cloud Recording at the start of the meeting.
+- Recommended schedule: 5 min intro/housekeeping/announcements, optional 10 minute presentation, 20 min policy discussion, 20 min technical, 5 min wrap up. Try to devote an equal amount of time is spent discussing technical vs. non-technical/policy aspects of a topic.
 - At the start of the meeting, provide a short welcome that includes:
    - Share your screen and show the agenda
    - Introductions: 
@@ -34,7 +38,7 @@ Running OMF meetings is a bit different than running meetings in other places. T
       - review agenda on your shared screen
       - share the link to the wiki agenda in the chat 
          - “Agenda for today: _link_”
-      - ask and ensure someone from the WGSC is taking notes
+      - ensure someone from the WGSC is taking notes, or ask for a volunteer
       - ask OMF if there is any housekeeping items or announcements to mention
 - Pass meeting off to first presenter.
 - Jump in during the last 5 minutes or so to wrap up the meeting.
@@ -42,6 +46,6 @@ Running OMF meetings is a bit different than running meetings in other places. T
 
 ## Follow up
 
-- After the meeting, finalize the notes on the wiki page. Include links to any presentations, documents, issues, pull requests, and/or a recording
+- After the meeting, finalize the notes on the wiki page with the note taker. Include links to any presentations, documents, issues, pull requests, and/or a recording.
 - If there are action items (either for you or an attendee) or summary items, add those to the appropriate issue or PR as a new comment, with a link back to the WG meeting agenda
-- Reply to the original mailing list and say the meeting minutes are ready for review with a direct link to that section, and provide a short summary of links and action items.
+- A chair will reply to the original mailing list and say the meeting minutes are ready for review with a direct link to that section, and provide a short summary of links, and include action items in the email.
