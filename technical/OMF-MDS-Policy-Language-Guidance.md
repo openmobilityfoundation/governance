@@ -9,7 +9,6 @@
 - [Service Level Agreement Guidance](#service-level-agreement-guidance)
 - [Showcase](#showcase)
 - [Release Guidance](#release-guidance)
-- [Feedback](#feedback)
 - [Footnotes](#footnotes)
 
 ## Notes
@@ -85,7 +84,21 @@ Note the Response Time here is how long it takes the API to return data, not the
 
 A showcase of documents from public agencies that mention MDS in their procurement and permits.
 
-- [Los Angeles](https://drive.google.com/file/d/1MOYQa4s9TZhiL8VFhhIkaNEM6Js0Veq0/view?usp=drive_link) 
+- [Bergen, NO](https://drive.google.com/file/d/1AygJOFVMPp0_Gc4FrWYEV4MNlg3gNv-e/view?usp=sharing)
+- [Bogota, CO](https://drive.google.com/file/d/1giJxhFFgcX2StN6vFXr3vFkVqoh9HFIg/view?usp=sharing)
+- [Chicago](https://drive.google.com/file/d/18S3iLv_GzZA3PVH4E3UJseciT0cgzIKm/view?usp=sharing)
+- [Greensboro](https://drive.google.com/file/d/1iDmi0jwETPUqCJu8nOVWWIBkjBhcYLqp/view?usp=sharing)
+- [Kelowna, CA](https://drive.google.com/file/d/1I3rEZK2qRzVSQgJejqV_sKYXUM4Lihpe/view?usp=sharing)
+- [Long Beach](https://drive.google.com/file/d/11T9lDgptV8XTY2ZvMuveJu8kRJZwtVqa/view?usp=sharing)
+- [Los Angeles](https://drive.google.com/file/d/1MOYQa4s9TZhiL8VFhhIkaNEM6Js0Veq0/view?usp=drive_link)
+- [Louisville](https://drive.google.com/file/d/1a_NIXkbUzKv7S0DRtgax_l06_kJLuPE3/view?usp=sharing)
+- [Minneapolis](https://drive.google.com/file/d/1URVGPGjYenF2ukmx8pqjkQIN9sdK7oqY/view?usp=sharing)
+- [Omaha](https://drive.google.com/file/d/1DNd14_sj39-EF-YgoiAIVOqA6WBQ6NEj/view?usp=sharing)
+- [San Francisco](https://drive.google.com/file/d/1wBJ-5P3XXtEAy0_kGDwtD4Uw5Kg01u89/view?usp=sharing)
+- [San Jose](https://drive.google.com/file/d/1xjQsWIt5w2YbrEclD3MvCA-oWgduZ1Zf/view?usp=sharing)
+- [Santa Monica](https://drive.google.com/file/d/1rhUrK0yh8ectlYDlInySfLJuF0CJwU2j/view?usp=sharing)
+- [Seattle](https://drive.google.com/file/d/15ERmwxsN1-PbZhCdmmwByn2isAgtLGt4/view?usp=sharing)
+- [Washington DC](https://drive.google.com/file/d/19_7S70pld7bFiEJDK2Mm-VjeaZfGEjQi/view?usp=sharing)
 
 ## Release Guidance
 
