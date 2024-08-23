@@ -84,17 +84,19 @@ Note the Response Time here is how long it takes the API to return data, not the
 
 A showcase of documents from public agencies that mention MDS in their procurement and permits.
 
-- [Bergen, NO](https://drive.google.com/file/d/1AygJOFVMPp0_Gc4FrWYEV4MNlg3gNv-e/view?usp=sharing)
+- [Bergen, NO](https://drive.google.com/file/d/1plfPvvaiysvIJCVWCRFBHKAsOvysG5lI/view?usp=drive_link)
 - [Bogota, CO](https://drive.google.com/file/d/1giJxhFFgcX2StN6vFXr3vFkVqoh9HFIg/view?usp=sharing)
-- [Chicago](https://drive.google.com/file/d/18S3iLv_GzZA3PVH4E3UJseciT0cgzIKm/view?usp=sharing)
+- [Chicago](https://drive.google.com/file/d/1NN4z74vQsJ1q7dHiKxD6TLc9q_Cy6awG/view?usp=drive_link)
 - [Greensboro](https://drive.google.com/file/d/1iDmi0jwETPUqCJu8nOVWWIBkjBhcYLqp/view?usp=sharing)
-- [Kelowna, CA](https://drive.google.com/file/d/1I3rEZK2qRzVSQgJejqV_sKYXUM4Lihpe/view?usp=sharing)
+- [Kelowna, CA](https://drive.google.com/file/d/18FsKVYZEYcjGq5wFx8YCLpRERsSPYwhx/view?usp=drive_link)
+- [London, GB](https://drive.google.com/file/d/1jp3Ysgjh4PnXtDmudyLhbeiT6fXz3G4M/view?usp=drive_link)
 - [Long Beach](https://drive.google.com/file/d/11T9lDgptV8XTY2ZvMuveJu8kRJZwtVqa/view?usp=sharing)
 - [Los Angeles](https://drive.google.com/file/d/1MOYQa4s9TZhiL8VFhhIkaNEM6Js0Veq0/view?usp=drive_link)
 - [Louisville](https://drive.google.com/file/d/1a_NIXkbUzKv7S0DRtgax_l06_kJLuPE3/view?usp=sharing)
 - [Minneapolis](https://drive.google.com/file/d/1URVGPGjYenF2ukmx8pqjkQIN9sdK7oqY/view?usp=sharing)
 - [Oakland](https://drive.google.com/file/d/1j9KfsFdA4yMAbuZVwg-B2Yf8AxvJofoq/view?usp=drive_link)
 - [Omaha](https://drive.google.com/file/d/1DNd14_sj39-EF-YgoiAIVOqA6WBQ6NEj/view?usp=sharing)
+- [Orlando](https://drive.google.com/file/d/1k69LFCDVRqFZyNCDp9cYfKTdNN6E1EXt/view?usp=drive_link)
 - [Paris, FR](https://drive.google.com/file/d/1_wucVbjAyeN9vkC_7V_XzZHIjoEmI01B/view?usp=drive_link)
 - [Portland](https://drive.google.com/file/d/12lI-NTnRP2r26Wb9Fvcydgk8nLH9wOwT/view?usp=drive_link)
 - [Sacramento](https://drive.google.com/file/d/1wLIBZj5lmdyJ7X66OIpbQYrzx_nVXKMw/view?usp=drive_link)
