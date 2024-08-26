@@ -94,6 +94,7 @@ A showcase of documents from public agencies that mention MDS in their procureme
 - [Los Angeles](https://drive.google.com/file/d/1MOYQa4s9TZhiL8VFhhIkaNEM6Js0Veq0/view?usp=drive_link)
 - [Louisville](https://drive.google.com/file/d/1a_NIXkbUzKv7S0DRtgax_l06_kJLuPE3/view?usp=sharing)
 - [Minneapolis](https://drive.google.com/file/d/1URVGPGjYenF2ukmx8pqjkQIN9sdK7oqY/view?usp=sharing)
+- [New York City](https://drive.google.com/file/d/1jQ7e5W-ulr8TSLGcJ0EhJ8S2OKIZypbe/view?usp=drive_link)
 - [Oakland](https://drive.google.com/file/d/1j9KfsFdA4yMAbuZVwg-B2Yf8AxvJofoq/view?usp=drive_link)
 - [Omaha](https://drive.google.com/file/d/1DNd14_sj39-EF-YgoiAIVOqA6WBQ6NEj/view?usp=sharing)
 - [Orlando](https://drive.google.com/file/d/1k69LFCDVRqFZyNCDp9cYfKTdNN6E1EXt/view?usp=drive_link)
