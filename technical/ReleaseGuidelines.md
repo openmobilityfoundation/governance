@@ -72,7 +72,7 @@ The sections below define the release process itself, including timeline, roles,
 
 ### Project Meetings
 
-* Web conference work sessions will posted to the [MDS-Announce mailing list][mds-announce], other MDS working group mailing lists, and on the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki). Each working group typically meets every two weeks.
+* Web conference work sessions will posted to the [MDS Working Group maling list](https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds), and on the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki). Each working group typically meets every two weeks.
 
 * The meeting organizer can use the [meeting template](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Web-Conference-Template) to prepare for project meetings. Use the [template markup code](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Web-Conference-Template/_edit) to create the next scheduled wiki meeting page before the meeting. Include the how to join the meeting and agenda details. Posting the agenda before the meeting has the added benefit that project contributors can propose agenda items.
 
