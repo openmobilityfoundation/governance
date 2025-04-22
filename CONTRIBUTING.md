@@ -1,16 +1,16 @@
-# MDS Contributor Guidelines
+# Contributor Guidelines
 
-The Open Mobility Foundation is a free and open-source software foundation that manages the Mobility Data Specification (MDS).  These guidelines will help you understand how to to contribute and what is involved.
+The Open Mobility Foundation is a free and open-source software foundation that manages the Mobility Data Specification (MDS) and the Curb Data Specification (CDS).  These guidelines will help you understand how to to contribute and what is involved.
 
 ## Who can contribute
 
-MDS is an open specification and anyone can contribute to its development. Because MDS supports a growing ecosystem of mobility services, policies, and tools, there are some key stakeholders whose participation is particularly encouraged:
+MDS and CDS are open specifications and anyone can contribute to their development. Because these specifications are intended to support a growing ecosystem of mobility services, policies, and tools, there are some key stakeholders whose participation is particularly encouraged:
 
-* **Public agencies:** As licensing authority and regulator, public agencies are the ultimate customers for MDS and the data flowing through it. The public agency role is to ensure that MDS effectively supports program management and offers a flexible foundation for policy implementation. Public agencies of all levels of technical capacity are encourage to participate in the evolution of MDS, whether by submitting pull requests and issues, or simply by providing feedback during release cycles.
+* **Public agencies:** As licensing authority and regulator, public agencies are the ultimate customers for MDS and CDS and the data flowing through them. The public agency role is to ensure that MDS and CDS effectively support program management and offers a flexible foundation for policy implementation. Public agencies of all levels of technical capacity are encourage to participate in the evolution of MDS adn CDS, whether by submitting pull requests and issues, or simply by providing feedback during release cycles.
 
-* **Mobility Service Providers:** Providers are often required to implement MDS in order to comply with permitting requirements for their services. Providers can inform the development of MDS with real-world operating experience and to offer input on specification design that maximizes data quality, reliability, and utility.
+* **Mobility service and logistics providers:** Providers are often required to implement MDS or CDS in order to comply with permitting requirements for their services. Providers can inform the development of MDS and CDS with real-world operating experience and to offer input on specification design that maximizes data quality, reliability, and utility.
 
-* **Public agency software partners:** Serve as a key bridge between public agencies and mobility service providers by offering tools that turn MDS data into useful insights. The public agency software partners help ensure that MDS will enable real-world product development, reflects the needs of their public agency customers, and encourages private investment in the MDS ecosystem.
+* **Public agency software partners:** Serve as a key bridge between public agencies and mobility and logistics service providers by offering tools that turn MDS adn CDS data into useful insights. The public agency software partners help ensure that MDS and CDS will enable real-world product development, reflects the needs of their public agency customers, and encourages private investment in the MDS and CDS ecosystems.
 
 ## Community Profile
 
@@ -28,7 +28,7 @@ See [this profile](https://github.com/jfh01) for an example of the kinds of info
 
 ## How to contribute
 
-Contributions should be offered through GitHub issues and pull requests. Please review the [MDS Release Guidelines](technical/ReleaseGuidelines.md) for details on the release process, schedule, and communications channels.
+Contributions should be offered through GitHub issues and pull requests. Please review the [Release Guidelines](technical/ReleaseGuidelines.md) for details on the release process, schedule, and communications channels.
 
 In general, you may open an issue or make a pull request at any time. Once the issue or pull request is associated with a particular Milestone, it will be included for review within the process for that release.
 
@@ -40,9 +40,15 @@ MDS is a tool to facilitate data exchange between mobility service providers, pu
 
 MDS is built as an interface between local governments and mobility service providers. Access to MDS APIs should be restricted, and is not intended to directly support public consumption or consumer-facing applications.
 
+## What belongs in CDS
+
+CDS is a tool to digitally express curbside regulations and curb utilization data in a form that is useful and equitably accessible to curb zone users and customizable for cities.
+
+CDS is built as an interface between local governments, commercial curb users and the public. CDS APIs are intended to directly support public consumption and consumer-facing applications and access should not be restricted.
+
 ## Release Process
 
-MDS is an evolving specification with a regular release cycle. Please review the [MDS Release Guidelines](technical/ReleaseGuidelines.md) to understand the release process.
+MDS and CDS are evolving specifications with regular release cycles. Please review the [Release Guidelines](technical/ReleaseGuidelines.md) to understand the release process.
 
 ## Participation Policies and Code of Conduct
 
