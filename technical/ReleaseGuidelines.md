@@ -1,6 +1,6 @@
-# MDS Release Guidelines
+#  Release Guidelines
 
-MDS will see regular updates and new [releases][mds-releases]. This document describes the general guidelines around how and when a new release is cut.
+MDS and CDS will see regular updates and new [releases][mds-releases]. This document describes the general guidelines around how and when a new release is cut.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ MDS will see regular updates and new [releases][mds-releases]. This document des
 
 ## Versioning
 
-MDS uses [Semantic Versioning][semver]. Each release is associated with a [`git tag`][mds-tags] of the form `X.Y.Z`.
+MDS and CDS use [Semantic Versioning][semver]. Each release is associated with a [`git tag`][mds-tags] of the form `X.Y.Z`.
 
 Given a version number in the `MAJOR.MINOR.PATCH` (eg., `X.Y.Z`) format, here are the differences in these terms:
 
@@ -34,13 +34,13 @@ Given a version number in the `MAJOR.MINOR.PATCH` (eg., `X.Y.Z`) format, here ar
 - **MINOR** version - add functionality in a backwards compatible manner
 - **PATCH** version - make backwards compatible bug fixes
 
-As of MDS 1.0.0, we are aligning with this semantic versioning. Previously MDS considered a MAJOR version to be at the MINOR level (eg., `0.Y.0`), so MINOR version increments (e.g. `0.2.0` to `0.3.0`) were equivalent to MAJOR version increments and contained breaking changes.  This applies to releases 0.4.1 and lower.
+As of MDS 1.0.0, we are aligning with this semantic versioning. Previously MDS considered a MAJOR version to be at the MINOR level (eg., `0.Y.0`), so MINOR version increments (e.g. `0.2.0` to `0.3.0`) were equivalent to MAJOR version increments and contained breaking changes.  This applies to releases 0.4.1 and lower. CDS has followed this semantic versioning from its inception.
 
 ### Breaking vs. non-breaking changes
 
-Since MDS is used by a broad ecosystem of both API consumers and implementers, it needs a strict definition of what changes are “non-breaking” and are therefore allowed in MINOR and PATCH releases.
+Since these specifications are used by a broad ecosystem of both API consumers and implementers, it needs a strict definition of what changes are “non-breaking” and are therefore allowed in MINOR and PATCH releases.
 
-In the MDS spec, a breaking change is any change that requires either consumers or implementers to modify their code for it to continue to function correctly.
+A breaking change is any change that requires either consumers or implementers to modify their code for it to continue to function correctly.
 
 Examples of breaking changes include:
 
@@ -58,11 +58,14 @@ One implication of this policy is that clients should be prepared to ignore the 
 
 ### Ongoing version support
 
-MDS major releases move the community forward, focusing on spec stabilization and major feature additions, rather than backwards-compatibility.  MDS minor releases will be backwards compatible. We strongly recommend adopting the latest release of MDS into production within 6 months for major releases, and 4 months for minor releases.
+Major releases move the community forward, focusing on spec stabilization and major feature additions, rather than backwards-compatibility.  Minor releases will be backwards compatible. We strongly recommend adopting the latest release into production within 6 months for major releases, and 4 months for minor releases.
 
-**The OMF supports MDS releases for 2 years.** Recommended versions are supported and maintained by the OMF and our community – we provide updated guidance and documentation, track issues, and provide bug fixes and critical updates in the form of hotfixes for these versions. Releases that are 2 years or older are deprecated. 
+**The OMF supports specification releases for 2 years.** Recommended versions are supported and maintained by the OMF and our community – we provide updated guidance and documentation, track issues, and provide bug fixes and critical updates in the form of hotfixes for these versions. Releases that are 2 years or older are deprecated. 
 
-Refer to the list of [Recommended Releases](https://github.com/openmobilityfoundation/governance/wiki/Releases#recommended-mds-releases) to see current releases and more details.
+Refer to the lists of releases for more details:
+- [Recommended MDS Releases](https://github.com/openmobilityfoundation/governance/wiki/Releases#recommended-mds-releases) 
+- [Recommended CDS Releases](https://github.com/openmobilityfoundation/curb-data-specification/wiki/Releases)
+
 
 [Top][toc]
 
@@ -72,15 +75,17 @@ The sections below define the release process itself, including timeline, roles,
 
 ### Project Meetings
 
-* Web conference work sessions will posted to the [MDS Working Group maling list](https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds), and on the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki). Each working group typically meets every two weeks.
+* MDS web conference work sessions will be posted to the [MDS Working Group mailing list](https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds), and on the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki). The MDS working group typically meets every two weeks.
 
-* The meeting organizer can use the [meeting template](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Web-Conference-Template) to prepare for project meetings. Use the [template markup code](https://github.com/openmobilityfoundation/mobility-data-specification/wiki/Web-Conference-Template/_edit) to create the next scheduled wiki meeting page before the meeting. Include the how to join the meeting and agenda details. Posting the agenda before the meeting has the added benefit that project contributors can propose agenda items.
+* CDS web conference work sessions will be posted to the [CDS Working Group mailing list](https://groups.google.com/a/openmobilityfoundation.org/g/wg-curb), and on the [CDS wiki](https://github.com/openmobilityfoundation/curb-data-specification/wiki). The CDS working group typically meets every two weeks.
+
+* The meeting organizer can use the [meeting template](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference-Template) to prepare for project meetings. Use the [template markup code](https://github.com/openmobilityfoundation/governance/wiki/Web-Conference-Template/_edit) to create the next scheduled wiki meeting page before the meeting. Include the how to join the meeting and agenda details. Posting the agenda before the meeting has the added benefit that project contributors can propose agenda items.
 
 ### Goals
 
-* _Regular releases to support rapid evolution of MDS_
+* _Regular releases to support rapid evolution of specifications_
 
-* _Consensus-oriented with clear decision making process when consensus can't be reached_
+* _Consensus-oriented with clear decision-making process when consensus can't be reached_
 
 * _Encourage involvement from all stakeholders, especially public agencies_
 
@@ -94,13 +99,13 @@ The sections below define the release process itself, including timeline, roles,
 
 * **Contributor** - Anyone making pull requests, opening issues, or engaging in technical discussion around implementation of features.
 
-* **Maintainer** - Project maintainers are part of the WGSC and have commit privileges in the main MDS repository and are responsible for implementing changes such as merging of pull requests and the creation of release branches.
+* **Maintainer** - Project maintainers are part of the WGSC and have commit privileges in the main MDS or CDS repository and are responsible for implementing changes such as merging of pull requests and the creation of release branches.
 
-See the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki) for additional information on the Working Groups.
+See the [MDS wiki](https://github.com/openmobilityfoundation/mobility-data-specification/wiki) and the [CDS wiki](https://github.com/openmobilityfoundation/curb-data-specification/wiki) for additional information on the Working Groups.
 
 ### Schedule
 
-MDS operates on an approximately 14+ week release cycle for both major updates (0.x) and patches (0.x.y). In general, major updates (0.x) are expected no more than twice per year.  The release cycle can be shortened or lengthened based on the inclusion of features.  This schedule does not include the OMF [approval process](#approval-by-the-open-mobility-foundation).  There may also be a gap between when a previous release finishes and a new release starts.
+Each specification operates on an approximately 14+ week release cycle for both major updates (0.x) and patches (0.x.y). In general, major updates (0.x) are expected no more than twice per year.  The release cycle can be shortened or lengthened based on the inclusion of features.  This schedule does not include the OMF [approval process](#approval-by-the-open-mobility-foundation).  There may also be a gap between when a previous release finishes and a new release starts.
 
 The release cycle is broken down as follows, with some overlap of work:
 
@@ -165,17 +170,17 @@ The process for full OMF approval is detailed in Section 5.4 of the [OMF bylaws]
 
 1. Upon approval by the Board of Directors, the release will become an official "Foundation Deliverable" of the OMF. It will be marked as such in GitHub and on the OMF web site, and it will be merged into the `main` branch on GitHub.
 
-The approval status and anticipated timeline will be reflected in the [MDS Releases page](https://github.com/openmobilityfoundation/governance/wiki/Releases). While it is the intent of the OMF to have concerns, questions, and issues addressed during the regular working group release process, it is possible that the Technology Council or Board of Directors may request modifications to a release candidate prior to official approval. If this situation occurs, the release candidate will be sent back to the working group(s) for additional changes after which it can be resubmitted to the Technology Council and Board of Directors.
+The approval status and anticipated timeline will be reflected in the [MDS Releases page](https://github.com/openmobilityfoundation/governance/wiki/Releases) or [CDS Releases page](https://github.com/openmobilityfoundation/curb-data-specification/releases) respectively. While it is the intent of the OMF to have concerns, questions, and issues addressed during the regular working group release process, it is possible that the Technology Council or Board of Directors may request modifications to a release candidate prior to official approval. If this situation occurs, the release candidate will be sent back to the working group(s) for additional changes after which it can be resubmitted to the Technology Council and Board of Directors.
 
 The OMF recommends that regulatory agencies do not formally adopt or require any versions of the spec that have not been fully approved by the OMF Board of Directors. However, release candidates are considered stable enough to allow API producers and consumers to begin developing against in anticipation of formal approval.
 
 ### Communication and Workflow
 
-The release announcements and process schedule will be communicated via [MDS-Announce mailing list][mds-announce]. People wishing to stay informed should join the group for updates. Timing of web conference and in person work sessions will be communicated via MDS-Announce as well.
+The release announcements and process schedule will be communicated via [MDS](https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds) and [CDS](https://groups.google.com/a/openmobilityfoundation.org/g/wg-curb) work group mailing lists. People wishing to stay informed should join these lists for updates. Timing of web conference and in person work sessions will be communicated via these mailing lists as well.
 
 The following best practices are intended to create clarity around each release cycle:
 
-* Categorize issues and PRs under an associated [Milestone][mds-milestones] for the release
+* Categorize issues and PRs under an associated [MDS Milestone](https://github.com/openmobilityfoundation/mobility-data-specification/milestones) or [CDS Milestone](https://github.com/openmobilityfoundation/curb-data-specification/milestones) for the release
 
 * Assign a due date for said Milestone that aligns with proposed release date
 
@@ -195,7 +200,7 @@ Generally there are two major categories of branches: *Long-lived* and *Short-li
 
 There are always two primary long-lived branches:
 
-* [`main`][mds-main] represents the most recent official release of MDS. This branch is only updated as part of the release process, and pull requests should typically not target `main`.
+* [`main`][mds-main] represents the most recent official release of the specification. This branch is only updated as part of the release process, and pull requests should typically not target `main`.
 
 * [`dev`][mds-dev] is an integration branch for all work since the last official release, including both breaking and non-breaking changes. `dev` is where Release Candidates come from.
 
@@ -221,9 +226,9 @@ Once an item is moved out of beta, close its Issue and change the text to say 'B
 
 ## Preparing a Release Candidate
 
-The following steps outline the process to prepare a Release Candidate of MDS. This process makes public the intention and contents of an upcoming release, while allowing work on the next release to continue as usual in `dev`.
+The following steps outline the process to prepare a Release Candidate of MDS. These steps reference MDS but also apply to preparation of CDS Release Candidates. This process makes public the intention and contents of an upcoming release, while allowing work on the next release to continue as usual in `dev`.
 
-1. Ensure the [Milestone][mds-milestones] for this release is at `100%` for issues and pull requests.
+1. Ensure the Milestone for this release is at `100%` for issues and pull requests.
 
 1. Create a *Release branch* from the tip of `dev` named `release-x.y.z`, where `x.y.z` is the intended version of the release. This branch will be used to prepare the Release Candidate. For example, to prepare a Release Candidate for `0.5.0`:
 
@@ -301,10 +306,10 @@ The following steps outline the process to prepare a Release Candidate of MDS. T
 
 1. [Open a Pull Request][mds-pr-rc] to `main` from the release branch (eg. `0.5.0-rc1`) using the [Release Candidate template][mds-pr-rc-link]. This pull request is where review comments and feedback will be collected.
 
-1. Post an announcement to the [MDS-announce Mailing List][mds-announce], copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases] and Release Candidate review Issue:
+1. Post an announcement to the [MDS Working Group Mailing List][mds-wg], copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases] and Release Candidate review Issue:
 
     ```email
-    To:      mds-announce@groups.openmobilityfoundation.org
+    To:       wg-mds@openmobilityfoundation.org
     Subject: MDS X.Y.Z Release Candidate
 
     Greetings OMF Community,
@@ -333,7 +338,7 @@ git tag 0.5.0-rc2
 git push --tags
 ```
 
-Communicate the new Release Candidate as usual, including in ReleaseNotes.md, on the MDS-Announce mailing list, and on the Release Candidate review Issue. Be sure to indicate that this is a *new Release Candidate* of the target version.
+Communicate the new Release Candidate as usual, including in ReleaseNotes.md, on the [MDS Working Group] [mds-wg] mailing list, and on the Release Candidate review Issue. Be sure to indicate that this is a *new Release Candidate* of the target version.
 
 Repeat as-needed for subsequent Release Candidates.  Note the release branch will be pushed to `dev` at key points in the approval process to ensure the community is working with the latest code.
 
@@ -341,7 +346,7 @@ Repeat as-needed for subsequent Release Candidates.  Note the release branch wil
 
 ## Making a Release
 
-The following steps describe how to make an approved [Release Candidate][prepare-rc] an official release of MDS:
+The following steps describe how to make an approved [Release Candidate][prepare-rc] an official release of MDS. These steps also apply to CDS:
 
 1. **Approved**. Ensure OMF review has been completed and approval granted.
 
@@ -372,11 +377,11 @@ The following steps describe how to make an approved [Release Candidate][prepare
 
 1. **Wiki**. Update the [main Wiki page](https://github.com/openmobilityfoundation/governance/wiki) with current release status and the appropriate Release Plan page.
 
-1. **Announce**. Post an announcement to the [MDS-announce Mailing List][mds-announce] and [MDS Working Group]() mailig lists, copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases]:
+1. **Announce**. Post an announcement to the [MDS Working Group Mailing List] mailing list, copying the [release notes](ReleaseNotes.md) created earlier and linking to the [GitHub release][mds-releases]:
 
     ```email
     From:    Your Email
-    To:      mds-announce@groups.openmobilityfoundation.org, wg-mds@groups.openmobilityfoundation.org
+    To:      wg-mds@groups.openmobilityfoundation.org
     Subject: OMF MDS X.Y.Z Released
     
     Hello OMF Community,
@@ -450,6 +455,7 @@ In rare cases, a hotfix for a prior release may be required out-of-phase with th
 
 [make-release]: #making-a-release
 [mds-announce]: https://groups.google.com/a/groups.openmobilityfoundation.org/forum/#!forum/mds-announce
+[mds-wg]: https://groups.google.com/a/openmobilityfoundation.org/g/wg-mds
 [mds-dev]: https://github.com/openmobilityfoundation/mobility-data-specification/tree/dev
 [mds-issue-new]: https://github.com/openmobilityfoundation/mobility-data-specification/issues/new/choose
 [mds-main]: https://github.com/openmobilityfoundation/mobility-data-specification/tree/main
