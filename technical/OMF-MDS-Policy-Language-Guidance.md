@@ -83,8 +83,10 @@ Note the Response Time here is how long it takes the API to return data, not the
 ## Showcase
 
 A showcase of documents from public agencies that mention MDS in their procurement and permits.
-
+- [Alexandria](https://drive.google.com/file/d/1QST9WtQBCQoM4CYXLbKYlqNDUTD9QivI/view?usp=drive_link)
+- [Baltimore](https://drive.google.com/file/d/1OYoJoCQypMfadiwaUSgGHJ-7FUef95KW/view?usp=drive_link)
 - [Bergen, NO](https://drive.google.com/file/d/1plfPvvaiysvIJCVWCRFBHKAsOvysG5lI/view?usp=drive_link)
+- [Berkeley](https://drive.google.com/file/d/1mKBonP4QsmzcBra6pyzOan3AnhmVSVXx/view?usp=drive_link)
 - [Bogota, CO](https://drive.google.com/file/d/1giJxhFFgcX2StN6vFXr3vFkVqoh9HFIg/view?usp=sharing)
 - [Chicago](https://drive.google.com/file/d/1NN4z74vQsJ1q7dHiKxD6TLc9q_Cy6awG/view?usp=drive_link)
 - [Greensboro](https://drive.google.com/file/d/1iDmi0jwETPUqCJu8nOVWWIBkjBhcYLqp/view?usp=sharing)
