@@ -126,6 +126,7 @@ A showcase of documents from public agencies that mention MDS in their procureme
 - [Omaha](https://drive.google.com/file/d/1DNd14_sj39-EF-YgoiAIVOqA6WBQ6NEj/view?usp=sharing)
 - [Orlando](https://drive.google.com/file/d/1k69LFCDVRqFZyNCDp9cYfKTdNN6E1EXt/view?usp=drive_link)
 - [Paris, FR](https://drive.google.com/file/d/1_wucVbjAyeN9vkC_7V_XzZHIjoEmI01B/view?usp=drive_link)
+- [Pawtucket](https://drive.google.com/file/d/1xXTXcp7J-N4sWRHGf2nUcmMpz5LiH3oC/view?usp=drive_link)
 - [Portland](https://drive.google.com/file/d/12lI-NTnRP2r26Wb9Fvcydgk8nLH9wOwT/view?usp=drive_link)
 - [Providence](https://drive.google.com/file/d/1q22OkrlSuycdwYOnW4AOA82L0121HEuX/view?usp=drive_link)
 - [Sacramento](https://drive.google.com/file/d/1wLIBZj5lmdyJ7X66OIpbQYrzx_nVXKMw/view?usp=drive_link)
