@@ -84,11 +84,15 @@ Note the Response Time here is how long it takes the API to return data, not the
 
 A showcase of documents from public agencies that mention CDS in their procurement and permits.
 
+- [Ann Arbor](https://drive.google.com/file/d/1iRz-UGHCnI5p4coE7PdBz4O71zbA_eb_/view?usp=drive_link) (references CDS
+- [Bay Area Metro](https://drive.google.com/file/d/1qh6vAEp1mxuDc8xpSlye3Y9dsMKcFim3/view?usp=sharing) (requires CDS)
+- [Bellevue](https://drive.google.com/file/d/1wm4FILhZh3L50R1w0ACE2_j2b1SbENN8/view?usp=drive_link)
 - [Los Angeles](https://drive.google.com/file/d/1Q0I45PPjqK05rXu7yf8GIRrw3wranE9a/view?usp=sharing) (requires CDS)
 - [Philadelphia](https://drive.google.com/file/d/1W6d1FnHEE_SWaW6bZjCZBIoQO7FP0ygs/view?usp=sharing) (requires CDS)
-- [West Hollywood](https://drive.google.com/file/d/1kvFJv3rGi6iFh2wN_LFPIQpZrjkugB24/view?usp=sharing) (asks about OMF standards)
 - [San Francisco SFMTA](https://drive.google.com/file/d/1dh-7bST7L7O2agbnWbZ0SuTCQ79Q3UPQ/view?usp=sharing) (requires CDS)
-- [Bay Area Metro](https://drive.google.com/file/d/1qh6vAEp1mxuDc8xpSlye3Y9dsMKcFim3/view?usp=sharing) (requires CDS)
+- [West Hollywood](https://drive.google.com/file/d/1kvFJv3rGi6iFh2wN_LFPIQpZrjkugB24/view?usp=sharing) (asks about OMF standards)
+  
+
 
 ## Release Guidance
 
