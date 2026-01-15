@@ -18,8 +18,8 @@ This list is a "table of contents" of the OMF's main scopes of work, organizatio
 - [OMF Overview](https://github.com/openmobilityfoundation/governance/blob/main/documents/OpenMobilityFoundation_Overview.pdf) (PDF)
 - [OMF Bylaws](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-Bylaws-CURRENT.pdf) (PDF)
 - [Core Principles](https://github.com/openmobilityfoundation/governance/blob/main/documents/OpenMobilityFoundation_Principles.pdf) (PDF)
-- [Public (Governmental) Member Application](https://github.com/openmobilityfoundation/governance/blob/main/documents/2020-01-Public-Member-Application.pdf) (PDF)
-- [Non-Public (Commercial) Member Application](https://github.com/openmobilityfoundation/governance/blob/main/documents/2020-01-OMF-Non-Public-Member-Application.pdf) (PDF) 
+- [Public (Governmental) Member Application](https://www.openmobilityfoundation.org/wp-content/uploads/2026/01/2026_OMF_Public_Membership-FINAL.pdf) (PDF)
+- [Non-Public (Commercial) Member Application](https://www.openmobilityfoundation.org/wp-content/uploads/2026/01/2026_OMF_Commercial_Membership.pdf) (PDF) 
 - [Commercial Member Dues](https://github.com/openmobilityfoundation/governance/blob/main/documents/OMF-2020-2021-Commercial-Member-Dues-FINAL.pdf) (PDF)
 - [Guidelines for Appointed Representatives](https://github.com/openmobilityfoundation/governance/blob/main/documents/2020-12-22%20-%20Guidelines%20for%20Appointed%20Representatives.pdf) (PDF)
 
