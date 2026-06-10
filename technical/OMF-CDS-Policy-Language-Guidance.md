@@ -32,7 +32,7 @@ The OMF has created some sample policy language for public agencies to use. This
 
 **Within the sample language, `highlights` denote optional or customizable language by the public agency.**
 
-## RFP Guidance
+## Procurement Guidance
 
 If you are a public agency and are looking for procurement with an RFP, RFI, RFQ, tender, etc to find a vendor for your project, you may specify CDS as part of your scoring system.  
 
